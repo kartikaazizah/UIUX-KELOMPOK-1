@@ -1,0 +1,63 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 9.2rem;
+}.tools-pinggir-default-pMF {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .contractedit-mGV {
+    height: 7.2rem;
+    cursor: pointer;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin: 0rem 0.6rem 0.4rem 0rem;
+    width: 7.2rem;
+  }
+  .daftar-wawancara-saR {
+    max-width: 8.4rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #008a88;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    margin: 0rem 0rem 2.8rem 0.8rem;
+  }
+  .calendarmonth-ydT {
+    flex-shrink: 0;
+    margin: 0rem 0.3rem 0.6rem 0rem;
+    width: 7.5rem;
+    height: 7.5rem;
+    cursor: pointer;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .jadwal-wawancara-o6h {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #008a88;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    margin-right: 0.8rem;
+    max-width: 8.4rem;
+  }
+}

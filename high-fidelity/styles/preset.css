@@ -1,0 +1,266 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148rem;
+}.preset-JZo {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  height: 110.3rem;
+  overflow: hidden;
+  position: relative;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.preset-JZo .property-1default-Svu {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #e3e3e3;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD {
+  margin-bottom: 18.2rem;
+  width: 145.1rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .masuk-WA5 {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 133.6rem;
+  top: 15rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .rectangle-605-D4V {
+  width: 2.1rem;
+  height: 81.2rem;
+  position: absolute;
+  left: 142.9rem;
+  top: 16.4rem;
+  background-color: rgba(0, 0, 0, 0.150000006);
+  border-radius: 1.5rem;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .rectangle-595-vUh {
+  width: 145.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.47deg, #01d589 4.1%, #1dcba9 97.04%);
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .user-thumb-Sxq {
+  width: 4.6162rem;
+  height: 4.6162rem;
+  position: absolute;
+  left: 129rem;
+  top: 11.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.8472rem;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .rectangle-700-xwB {
+  width: 20rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 13.3rem;
+  background-color: #008a88;
+  border-radius: 1rem;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .brosur-lowongan-Gws {
+  width: 15.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 26.8rem;
+  top: 14rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .wawancara-Hc5 {
+  width: 10.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 47.6rem;
+  top: 14rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .daftar-permintaan-CU9 {
+  width: 15.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 14rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .keluar-K2y {
+  width: 5.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 136.5rem;
+  top: 12.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .group-30-qX7 {
+  width: 2.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 12.9rem;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .group-30-qX7 .ellipse-87-mff {
+  width: 2.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .group-30-qX7 .item-4-WdF {
+  width: 1.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .logo-jobstreet-variant2-S17 {
+  width: 29.1rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .logo-jobstreet-variant2-S17 .logo-removebg-preview-2-mZB {
+  width: 29.1rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .rectangle-574-hhj {
+  width: 38.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 10.8rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .rectangle-606-QMF {
+  width: 2.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 142.9rem;
+  top: 18rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .footer-Kz1 {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .footer-Kz1 .tentang-jobstreet-express-R1T {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .footer-Kz1 .pusat-bantuan-jXw {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.preset-JZo .property-1default-Svu .auto-group-wfcd-anD .footer-Kz1 .copyright-2023-jobstreet-express-s8M {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.preset-JZo .property-1default-Svu .rectangle-594-At9 {
+  margin: 0rem 0.2rem 36.2rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #44abc3;
+  flex-shrink: 0;
+}
+.preset-JZo .property-1default-Svu .auto-group-8pjo-6mo {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #921414;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

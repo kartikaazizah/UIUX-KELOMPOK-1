@@ -1,0 +1,1067 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK {
+  width: 100%;
+  height: 161rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V {
+  box-sizing: border-box;
+  padding: 0rem 7.6rem 0.3rem 4.5rem;
+  width: 144rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #ffffff -0%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .auto-group-uqv5-J5X {
+  margin: 0rem 15.1rem 0.3rem 0rem;
+  width: 29.8rem;
+  height: 12.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .auto-group-uqv5-J5X .logo-removebg-preview-1-RA9 {
+  width: 29.8rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .auto-group-uqv5-J5X .nama-pekerjaan-vsb {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .di-mana-Drh {
+  margin-right: 2.8rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 {
+  margin: 3.4rem 0rem 6.8rem 0rem;
+  height: calc(100% - 10.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .icon-play-circle-outline-FHb {
+  margin: 0.04rem 0.2rem 0rem 0rem;
+  width: 2.3rem;
+  height: 2.3398rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .simulasi-xSu {
+  margin: 0rem 3.647rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .icon-person-roB {
+  margin: 0.3rem 0.385rem 0rem 0rem;
+  width: 2.4684rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .profil-saya-mv9 {
+  margin: 0rem 5.3rem 0.5rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .icon-bell-outline-V5T {
+  margin: 0rem 0.345rem 0.4rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .job-alert-bPP {
+  margin: 0rem 5.9rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .icon-bookmark-WWM {
+  margin: 0.2rem 0.045rem 0rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .lowongan-saya-day {
+  margin: 0rem 7.3rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-ligz-Zdj .header-jq3 .keluar-x7T {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o {
+  margin-bottom: 4rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .auto-group-htcy-1Ld {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .auto-group-htcy-1Ld .nama-pekerjaan-atau-perusahaan-Xpm {
+  margin-right: 29.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .auto-group-htcy-1Ld .icon-search-outline-3o7 {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .auto-group-icem-jfw {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .auto-group-icem-jfw .nama-kota-atau-provinsi-4iD {
+  margin-right: 27.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .auto-group-icem-jfw .icon-pin-outline-C3j {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-zc5f-U5o .bottom-6uo {
+  width: 21rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(89.58deg, #004f3f 0.42%, #028a6e 99.64%);
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB {
+  margin-left: 1.8rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0;
+  width: 45.9rem;
+  height: 3.6rem;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB .navbar-sendiri-dYM {
+  box-sizing: border-box;
+  padding: 0rem 2.755rem 0rem 2.4rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-left: solid 0.1rem #777777;
+  border-right: solid 0.1rem #777777;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB .navbar-sendiri-dYM .full-time-kN5 {
+  margin-right: 12rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB .navbar-sendiri-dYM .auto-group-zh8d-4tZ {
+  margin-right: 2.6547rem;
+  width: 20.5453rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB .navbar-sendiri-dYM .auto-group-zh8d-4tZ .line-266-QhX {
+  width: 0.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 0;
+  background-color: #777777;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB .navbar-sendiri-dYM .auto-group-zh8d-4tZ .icon-arrow-ios-downward-vfs {
+  width: 20.5453rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .background-header-U6V .auto-group-63vb-iwB .navbar-sendiri-dYM .auto-group-zh8d-4tZ .hari-terakhir-rZX {
+  width: 8.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 0.9rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .lowongan-kerja-Rm3 {
+  width: 15.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 30.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .tersedia-725-lowongan-kerja-yang-sesuai-dengan-pencarian-anda-XZB {
+  width: 55.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 35.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu {
+  width: 131.3rem;
+  height: 107.4rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 42rem;
+  display: flex;
+  column-gap: 2.1rem;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq {
+  margin-top: 0.7rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 {
+  margin: 0rem 0.1rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.8rem 3.2rem 1.9rem;
+  width: 54.9rem;
+  border: solid 0.2rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .admin-administrasi-ZPP {
+  margin: 0rem 0rem 0.1rem 1.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-eouj-4b3 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 6.9rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-eouj-4b3 .capture-removebg-preview-4-c6m {
+  width: 10.8rem;
+  height: 6.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-eouj-4b3 .auto-group-zluf-wPw {
+  margin: 1rem 0rem 0.6rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-eouj-4b3 .auto-group-zluf-wPw .pt-perdana-semesta-gemilang-logistik-UPs {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-eouj-4b3 .auto-group-zluf-wPw .dupak-surabaya-jawa-timur-PFw {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .hari-yang-lalu-20-pelamar-7hj {
+  margin: 0rem 0rem 2rem 1.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-wtjp-EXT {
+  margin: 0rem 26.4rem 2.2rem 1.1rem;
+  width: calc(100% - 27.5rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-wtjp-EXT .emoji-briefcase-Mry {
+  margin-right: 1.9363rem;
+  width: 2.3637rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-wtjp-EXT .sekitar-rp-4-5-juta-bulan-guF {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .administrasi-merupakan-suatu-proses-penyelenggaraan-bersama-atau-proses-kerja-sama-antara-sekelompok-orang-secara--dJh {
+  margin: 0rem 0rem 2.1rem 0.8rem;
+  max-width: 46.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-ibah-tVX {
+  margin-left: 37.8rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.6rem 1rem 2.3rem;
+  width: calc(100% - 37.8rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #015442;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-ibah-tVX .icon-bookmark-outline-cAd {
+  margin-top: 0.05rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-U73 .auto-group-ibah-tVX .simpan-YKB {
+  margin-bottom: 0.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 2.6rem 2.7rem 2.5rem 2.7rem;
+  width: 54.9rem;
+  border: solid 0.1rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .administrasi-logistik-5iR {
+  margin: 0rem 0rem 1.1rem 0.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 {
+  margin: 0rem 11.3rem 2.1rem 0.3rem;
+  width: calc(100% - 11.6rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 .capture1-removebg-preview-1-uxM {
+  margin: 0.1rem 0.7rem 0rem 0rem;
+  width: 9rem;
+  height: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 .auto-group-t2jd-d7f {
+  width: 28.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 .auto-group-t2jd-d7f .pt-ikon-surabaya-farmamart-a2u {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 .auto-group-t2jd-d7f .auto-group-hnho-oAZ {
+  width: 100%;
+  height: 2.4rem;
+  position: relative;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 .auto-group-t2jd-d7f .auto-group-hnho-oAZ .kalijudan-surabaya-jawa-timur-MC5 {
+  width: 28.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-xvpv-Pz1 .auto-group-t2jd-d7f .auto-group-hnho-oAZ .kalijudan-surabaya-jawa-timur-TW1 {
+  width: 28.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .hari-yang-lalu-22-pelamar-N7B {
+  margin: 0rem 0rem 2.2rem 0.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-eteq-gdf {
+  margin: 0rem 26.5rem 2.3rem 0.3rem;
+  width: calc(100% - 26.8rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-eteq-gdf .emoji-briefcase-DtV {
+  margin-right: 1.9363rem;
+  width: 2.3637rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-eteq-gdf .sekitar-rp-3-4-juta-bulan-9XF {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .pt-ikon-surabaya-farmamart-merupakan-perusahaan-yang-bergerak-dibidang-pedagang-besar-farmasi-consumer--sy3 {
+  margin-bottom: 2rem;
+  max-width: 49.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-lq4h-mHj {
+  margin: 0rem 0.1rem 0rem 37rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.6rem 1rem 2.3rem;
+  width: calc(100% - 37.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #015442;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-lq4h-mHj .icon-bookmark-outline-GVP {
+  margin-top: 0.05rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-nUR .auto-group-lq4h-mHj .simpan-c3T {
+  margin-bottom: 0.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF {
+  box-sizing: border-box;
+  padding: 2.6rem 2.8rem 2.5rem 2.7rem;
+  width: 54.9rem;
+  border: solid 0.1rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .admin-stock-yHK {
+  margin: 0rem 0rem 1.1rem 0.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ewmx-tfB {
+  margin: 0rem 11.5rem 2.1rem 0.3rem;
+  width: calc(100% - 11.8rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ewmx-tfB .capture3-removebg-preview-9-QtR {
+  margin: 0.5rem 1.8rem 0rem 0rem;
+  width: 7.9rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ewmx-tfB .auto-group-6r4h-jQu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ewmx-tfB .auto-group-6r4h-jQu .cv-berlian-retail-HhK {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ewmx-tfB .auto-group-6r4h-jQu .ketabang-surabaya-jawa-timur-2Q1 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .hari-yang-lalu-23-pelamar-kqo {
+  margin: 0rem 0rem 2.2rem 0.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ambf-sfX {
+  margin: 0rem 26.4rem 2.4rem 0.3rem;
+  width: calc(100% - 26.7rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ambf-sfX .emoji-briefcase-Q9f {
+  margin-right: 1.9363rem;
+  width: 2.3637rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-ambf-sfX .sekitar-rp-4-5-juta-bulan-wQV {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .cv-berlian-retail-bergerak-di-bidang-fb-menu-yang-kami-sajikan-sangat-beragam-mulai-dari-traditional-food--fbP {
+  margin-bottom: 1.9rem;
+  max-width: 47.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-jtn5-kcq {
+  margin-left: 37rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.6rem 1rem 2.3rem;
+  width: calc(100% - 37rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #015442;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-jtn5-kcq .icon-bookmark-outline-sSZ {
+  margin-top: 0.05rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .auto-group-ya1p-Kzq .lowongan-lamaran-4RF .auto-group-jtn5-kcq .simpan-or1 {
+  margin-bottom: 0.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .image-34-fNR {
+  width: 1.6rem;
+  height: 107.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m {
+  margin-bottom: 2.6rem;
+  width: 70.5rem;
+  height: 102.6rem;
+  position: relative;
+  border: solid 0.2rem #01d589;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-l24y-jNH {
+  width: 25.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 25.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(90deg, #005141 6.15%, #03876c 94.25%);
+  border-radius: 2rem;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-nmn9-kHP {
+  width: 58.4rem;
+  height: 47.2rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 52.4rem;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-nmn9-kHP .lulusan-minimal-sma-smk-sederajat-max-22-tahun-bertanggung-jawab-disiplin-dan-jujur-cekatan-inovatif-dan-inisiatif-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-mampu-mengoperasikan-ms-word-dan-excel-pelamar-harus-memiliki-ktp-sso {
+  width: 57.2rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 0;
+  top: 25.8rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-nmn9-kHP .persyaratan-minimum--tY1 {
+  width: 22rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 1rem;
+  top: 27.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-nmn9-kHP .menjadwalkan-meeting-dan-acara-merawat-database-internal-memesan-peralatan-dan-perlengkapan-kantor-menyimpan-dan-menjaga-catatan-arsip-karyawan-baik-fisik-maupun-digital-mendistribusikan-surat-masuk-dan-keluar-menyiapkan-laporan-dan-presentasi-rutin-mengatur-menyimpan-dan-mencetak-dokumen-perusahaan-sesuai-dengan-kebutuhan-mengatur-perjalanan-bisnis-mengupdate-kebijakan-kantor-oQ5 {
+  width: 58.4rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .administrasi-merupakan-suatu-proses-penyelenggaraan-bersama-atau-proses-kerja-sama-antara-sekelompok-orang-secara-tertentu-untuk-mencapai-sesuatu-tujuan-tertentu-yang-telah-ditentukan-dan-direncanakan-sebelumnya-kerja-sama-antara-orang-orang-tersebut-berlangsung-secara-dan-melalui-organisasi-ySy {
+  width: 60.2rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 38.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .deskripsi-pekerjaan-xph {
+  width: 19.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 35.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .line-86-5PX {
+  width: 61rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 32.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-e5fx-QRo {
+  width: 22.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 19.4rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-e5fx-QRo .emoji-briefcase-LaM {
+  margin-right: 1.9363rem;
+  width: 2.3637rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-e5fx-QRo .sekitar-rp-4-5-juta-bulan-5H3 {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .admin-administrasi-oyj {
+  width: 19.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-7qmb-X93 {
+  width: 50.2rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 6.8rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-7qmb-X93 .capture-removebg-preview-5-3t5 {
+  width: 10.8rem;
+  height: 6.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-7qmb-X93 .auto-group-ka2m-Ph3 {
+  margin: 1rem 0rem 0.6rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-7qmb-X93 .auto-group-ka2m-Ph3 .pt-perdana-semesta-gemilang-logistik-ijK {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .auto-group-7qmb-X93 .auto-group-ka2m-Ph3 .dupak-surabaya-jawa-timur-e7B {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .auto-group-3uyw-Dgu .deskripsi-c2m .hari-yang-lalu-20-pelamar-ArD {
+  width: 20.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 15.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .footer-ouB {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 153.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .footer-ouB .tentang-jobstreet-express-6NV {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .footer-ouB .pusat-bantuan-CwK {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-hasil-filter-pencarian-lowongan-kerja-ZVK .footer-ouB .copyright-2023-jobstreet-express-jgM {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

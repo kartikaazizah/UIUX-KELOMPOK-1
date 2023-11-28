@@ -1,0 +1,825 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 52rem;
+}.akun-bar-eHo {
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  flex-direction: column;
+  padding: 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+
+  .property-1profil-XsP {
+    display: flex;
+    flex-direction: column;
+    background-color: #ecf5e5;
+    border-radius: 2.5rem;
+    flex-shrink: 0;
+    width: 100%;
+    align-items: center;
+
+    .auto-group-nk9s-H5s {
+      white-space: nowrap;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 1.693rem 3.4rem 2.107rem 3.4rem;
+      display: flex;
+      font-weight: 600;
+      line-height: 1.3175;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      width: 100%;
+      font-size: 2.2rem;
+      color: #015442;
+      background: linear-gradient(89.98deg, #a4ea9c 16.98%, #3ebac8 95.5%);
+      border-radius: 2rem 2rem 0 0;
+    }
+    .auto-group-mlks-GyP {
+      width: 100%;
+      height: 38.3rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .auto-group-urqh-1AH {
+        position: absolute;
+        left: 3.4rem;
+        top: 1.5143rem;
+        width: 5.1rem;
+        height: 2.7rem;
+
+        .profil-vHF {
+          height: 2.7rem;
+          top: 0;
+          font-size: 2rem;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          width: 5.1rem;
+          position: absolute;
+          left: 0;
+          font-weight: 400;
+          line-height: 1.3175;
+          white-space: nowrap;
+        }
+        .profil-dxM {
+          top: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.3175;
+          color: #008a88;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          height: 2.7rem;
+          position: absolute;
+          left: 0;
+          white-space: nowrap;
+          width: 5.1rem;
+        }
+      }
+      .alert-m2y {
+        font-family: Roboto Slab, 'Source Sans Pro';
+        width: 4.8rem;
+        height: 2.7rem;
+        left: 3rem;
+        top: 8.4714rem;
+        font-weight: 400;
+        line-height: 1.3175;
+        color: #000000;
+        position: absolute;
+        font-size: 2rem;
+        white-space: nowrap;
+      }
+      .hapus-akun-H1K {
+        width: 11.8rem;
+        left: 3rem;
+        font-size: 2rem;
+        line-height: 1.3175;
+        white-space: nowrap;
+        height: 2.7rem;
+        position: absolute;
+        top: 28.9rem;
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+      }
+      .pengaturan-P4M {
+        height: 2.7rem;
+        left: 3rem;
+        top: 22.1rem;
+        font-size: 2rem;
+        line-height: 1.3175;
+        white-space: nowrap;
+        width: 11rem;
+        position: absolute;
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+      }
+      .lowongan-saya-h53 {
+        left: 3rem;
+        font-size: 2rem;
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 15rem;
+        position: absolute;
+        line-height: 1.3175;
+        height: 2.7rem;
+        top: 15.3286rem;
+      }
+      .line-23-QVF {
+        background-color: #008a88;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        width: 42rem;
+        height: 0.3rem;
+        position: absolute;
+        left: 3rem;
+        top: 5.9286rem;
+      }
+      .line-24-ikq {
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 12.7857rem;
+        background-color: #000000;
+        width: 42rem;
+      }
+      .line-27-qqT {
+        position: absolute;
+        left: 3rem;
+        top: 33.7429rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+      }
+      .line-26-NqP {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 26.6286rem;
+        background-color: #000000;
+      }
+      .line-25-vM7 {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 19.8714rem;
+        background-color: #000000;
+      }
+    }
+  }
+  .property-1alert-F8V {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ecf5e5;
+    border-radius: 2.5rem;
+    flex-shrink: 0;
+
+    .auto-group-uua1-zLy {
+      box-sizing: border-box;
+      width: 100%;
+      font-weight: 600;
+      line-height: 1.3175;
+      color: #015442;
+      border-radius: 2rem 2rem 0 0;
+      flex-shrink: 0;
+      padding: 1.693rem 3.4rem 2.107rem 3.4rem;
+      display: flex;
+      font-size: 2.2rem;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      background: linear-gradient(89.98deg, #a4ea9c 16.98%, #3ebac8 95.5%);
+    }
+    .auto-group-hvqo-SCy {
+      width: 100%;
+      height: 38.3rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .auto-group-aqzt-NcR {
+        left: 3.4rem;
+        top: 1.5143rem;
+        width: 5.1rem;
+        height: 2.7rem;
+        position: absolute;
+
+        .profil-hub {
+          width: 5.1rem;
+          position: absolute;
+          left: 0;
+          line-height: 1.3175;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          height: 2.7rem;
+          top: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          color: #000000;
+          white-space: nowrap;
+        }
+        .profil-2gy {
+          line-height: 1.3175;
+          color: #000000;
+          width: 5.1rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          height: 2.7rem;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .alert-x4q {
+        white-space: nowrap;
+        font-weight: 400;
+        line-height: 1.3175;
+        width: 4.8rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3rem;
+        top: 8.4714rem;
+        font-size: 2rem;
+        color: #008a88;
+        font-family: Roboto Slab, 'Source Sans Pro';
+      }
+      .hapus-akun-TXP {
+        font-weight: 400;
+        line-height: 1.3175;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        position: absolute;
+        height: 2.7rem;
+        left: 3rem;
+        top: 28.9rem;
+        font-size: 2rem;
+        color: #000000;
+        white-space: nowrap;
+        width: 11.8rem;
+      }
+      .pengaturan-Awb {
+        line-height: 1.3175;
+        color: #000000;
+        white-space: nowrap;
+        width: 11rem;
+        position: absolute;
+        top: 22.1rem;
+        font-weight: 400;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        height: 2.7rem;
+        left: 3rem;
+        font-size: 2rem;
+      }
+      .lowongan-saya-Viy {
+        top: 15.3286rem;
+        font-weight: 400;
+        line-height: 1.3175;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 15rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3rem;
+        font-size: 2rem;
+        color: #000000;
+      }
+      .line-23-CdP {
+        top: 5.9286rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+      }
+      .line-24-92q {
+        left: 3rem;
+        top: 12.7857rem;
+        background-color: #008a88;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        width: 42rem;
+        height: 0.3rem;
+        position: absolute;
+      }
+      .line-27-GNM {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 33.7429rem;
+        background-color: #000000;
+      }
+      .line-26-cSD {
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 26.6286rem;
+      }
+      .line-25-9ww {
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 19.8714rem;
+        background-color: #000000;
+        width: 42rem;
+      }
+    }
+  }
+  .property-1lowongan-saya-tPj {
+    flex-shrink: 0;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #ecf5e5;
+    border-radius: 2.5rem;
+
+    .auto-group-mu5t-ds7 {
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      box-sizing: border-box;
+      display: flex;
+      font-size: 2.2rem;
+      font-weight: 600;
+      line-height: 1.3175;
+      color: #015442;
+      background: linear-gradient(89.98deg, #a4ea9c 16.98%, #3ebac8 95.5%);
+      flex-shrink: 0;
+      padding: 1.693rem 3.4rem 2.107rem 3.4rem;
+      width: 100%;
+      border-radius: 2rem 2rem 0 0;
+    }
+    .auto-group-u8u1-h6H {
+      width: 100%;
+      height: 38.3rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .auto-group-fqe1-qCV {
+        width: 5.1rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3.4rem;
+        top: 1.5143rem;
+
+        .profil-NCR {
+          top: 0;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          height: 2.7rem;
+          left: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.3175;
+          width: 5.1rem;
+        }
+        .profil-HaH {
+          height: 2.7rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.3175;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          width: 5.1rem;
+          white-space: nowrap;
+        }
+      }
+      .alert-bqs {
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        width: 4.8rem;
+        top: 8.4714rem;
+        font-size: 2rem;
+        line-height: 1.3175;
+        white-space: nowrap;
+        height: 2.7rem;
+        position: absolute;
+        left: 3rem;
+      }
+      .hapus-akun-7ZK {
+        line-height: 1.3175;
+        color: #000000;
+        width: 11.8rem;
+        top: 28.9rem;
+        font-size: 2rem;
+        font-weight: 400;
+        white-space: nowrap;
+        height: 2.7rem;
+        position: absolute;
+        left: 3rem;
+        font-family: Roboto Slab, 'Source Sans Pro';
+      }
+      .pengaturan-dGm {
+        top: 22.1rem;
+        font-weight: 400;
+        color: #000000;
+        height: 2.7rem;
+        left: 3rem;
+        font-size: 2rem;
+        line-height: 1.3175;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 11rem;
+        position: absolute;
+      }
+      .lowongan-saya-Yed {
+        font-size: 2rem;
+        white-space: nowrap;
+        width: 15rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3rem;
+        top: 15.3286rem;
+        font-weight: 400;
+        line-height: 1.3175;
+        color: #008a88;
+        font-family: Roboto Slab, 'Source Sans Pro';
+      }
+      .line-23-4N5 {
+        left: 3rem;
+        top: 5.9286rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+      }
+      .line-24-12R {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 12.7857rem;
+        background-color: #000000;
+      }
+      .line-27-Y2M {
+        top: 33.7429rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+      }
+      .line-26-5ny {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 26.6286rem;
+        background-color: #000000;
+      }
+      .line-25-EQy {
+        position: absolute;
+        left: 3rem;
+        top: 19.8714rem;
+        background-color: #008a88;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        width: 42rem;
+        height: 0.3rem;
+      }
+    }
+  }
+  .property-1pengaturan-YRf {
+    display: flex;
+    flex-direction: column;
+    background-color: #ecf5e5;
+    border-radius: 2.5rem;
+    flex-shrink: 0;
+    width: 100%;
+    align-items: center;
+
+    .auto-group-nqim-6i5 {
+      color: #015442;
+      white-space: nowrap;
+      box-sizing: border-box;
+      padding: 1.693rem 3.4rem 2.107rem 3.4rem;
+      font-weight: 600;
+      line-height: 1.3175;
+      background: linear-gradient(89.98deg, #a4ea9c 16.98%, #3ebac8 95.5%);
+      border-radius: 2rem 2rem 0 0;
+      flex-shrink: 0;
+      width: 100%;
+      display: flex;
+      font-size: 2.2rem;
+      font-family: Roboto Slab, 'Source Sans Pro';
+    }
+    .auto-group-jqym-mZK {
+      width: 100%;
+      height: 38.3rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .auto-group-2kgr-JZF {
+        width: 5.1rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3.4rem;
+        top: 1.5143rem;
+
+        .profil-ESu {
+          height: 2.7rem;
+          position: absolute;
+          font-size: 2rem;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 5.1rem;
+          left: 0;
+          top: 0;
+          font-weight: 400;
+          line-height: 1.3175;
+        }
+        .profil-ZVB {
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          font-weight: 400;
+          height: 2.7rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          font-size: 2rem;
+          line-height: 1.3175;
+          width: 5.1rem;
+        }
+      }
+      .alert-g41 {
+        width: 4.8rem;
+        position: absolute;
+        top: 8.4714rem;
+        font-size: 2rem;
+        font-weight: 400;
+        line-height: 1.3175;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        height: 2.7rem;
+        left: 3rem;
+        color: #000000;
+        white-space: nowrap;
+      }
+      .hapus-akun-z4h {
+        white-space: nowrap;
+        position: absolute;
+        left: 3rem;
+        font-size: 2rem;
+        color: #000000;
+        line-height: 1.3175;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        width: 11.8rem;
+        height: 2.7rem;
+        top: 28.9rem;
+        font-weight: 400;
+      }
+      .pengaturan-hUu {
+        line-height: 1.3175;
+        color: #008a88;
+        white-space: nowrap;
+        position: absolute;
+        font-weight: 400;
+        left: 3rem;
+        top: 22.1rem;
+        font-size: 2rem;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        width: 11rem;
+        height: 2.7rem;
+      }
+      .lowongan-saya-QeD {
+        height: 2.7rem;
+        position: absolute;
+        font-size: 2rem;
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 15rem;
+        left: 3rem;
+        top: 15.3286rem;
+        line-height: 1.3175;
+      }
+      .line-23-KmB {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 5.9286rem;
+        background-color: #000000;
+      }
+      .line-24-GgR {
+        left: 3rem;
+        top: 12.7857rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+      }
+      .line-27-1tu {
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 33.7429rem;
+      }
+      .line-26-Mxm {
+        position: absolute;
+        left: 3rem;
+        top: 26.6286rem;
+        background-color: #008a88;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        width: 42rem;
+        height: 0.3rem;
+      }
+      .line-25-VZB {
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 19.8714rem;
+      }
+    }
+  }
+  .property-1hapus-akun-dQV {
+    display: flex;
+    flex-direction: column;
+    background-color: #ecf5e5;
+    border-radius: 2.5rem;
+    flex-shrink: 0;
+    width: 100%;
+    align-items: center;
+
+    .auto-group-m3ym-Nss {
+      line-height: 1.3175;
+      width: 100%;
+      display: flex;
+      font-size: 2.2rem;
+      color: #015442;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      background: linear-gradient(89.98deg, #a4ea9c 16.98%, #3ebac8 95.5%);
+      border-radius: 2rem 2rem 0 0;
+      box-sizing: border-box;
+      padding: 1.693rem 3.4rem 2.107rem 3.4rem;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+    .auto-group-8unm-qWZ {
+      width: 100%;
+      height: 38.3rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .auto-group-lb8m-B4d {
+        width: 5.1rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3.4rem;
+        top: 1.5143rem;
+
+        .profil-i4Z {
+          top: 0;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.3175;
+          color: #000000;
+          height: 2.7rem;
+          left: 0;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 5.1rem;
+          position: absolute;
+        }
+        .profil-qey {
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.3175;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          width: 5.1rem;
+          height: 2.7rem;
+          left: 0;
+          top: 0;
+          white-space: nowrap;
+          position: absolute;
+          color: #000000;
+        }
+      }
+      .alert-mYd {
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        width: 4.8rem;
+        height: 2.7rem;
+        position: absolute;
+        line-height: 1.3175;
+        white-space: nowrap;
+        left: 3rem;
+        top: 8.4714rem;
+        font-size: 2rem;
+      }
+      .hapus-akun-tdF {
+        font-size: 2rem;
+        font-weight: 400;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        position: absolute;
+        left: 3rem;
+        top: 28.9rem;
+        color: #008a88;
+        white-space: nowrap;
+        width: 11.8rem;
+        height: 2.7rem;
+        line-height: 1.3175;
+      }
+      .pengaturan-Cdw {
+        font-weight: 400;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        top: 22.1rem;
+        font-size: 2rem;
+        line-height: 1.3175;
+        white-space: nowrap;
+        width: 11rem;
+        height: 2.7rem;
+        position: absolute;
+        left: 3rem;
+      }
+      .lowongan-saya-XRK {
+        font-family: Roboto Slab, 'Source Sans Pro';
+        width: 15rem;
+        height: 2.7rem;
+        left: 3rem;
+        top: 15.3286rem;
+        line-height: 1.3175;
+        position: absolute;
+        font-size: 2rem;
+        font-weight: 400;
+        color: #000000;
+        white-space: nowrap;
+      }
+      .line-23-F6R {
+        left: 3rem;
+        top: 5.9286rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+      }
+      .line-24-auP {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 12.7857rem;
+        background-color: #000000;
+      }
+      .line-27-8g1 {
+        top: 33.7429rem;
+        background-color: #008a88;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        width: 42rem;
+        height: 0.3rem;
+        position: absolute;
+        left: 3rem;
+      }
+      .line-26-4Zf {
+        width: 42rem;
+        height: 0.2rem;
+        position: absolute;
+        left: 3rem;
+        top: 26.6286rem;
+        background-color: #000000;
+      }
+      .line-25-cLH {
+        position: absolute;
+        left: 3rem;
+        top: 19.8714rem;
+        background-color: #000000;
+        width: 42rem;
+        height: 0.2rem;
+      }
+    }
+  }
+}

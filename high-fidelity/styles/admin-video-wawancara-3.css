@@ -1,0 +1,416 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-video-wawancara-3-ZsX {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs {
+  margin-bottom: 18.2rem;
+  width: 161.7rem;
+  height: 102.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .footer-dsP {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .footer-dsP .tentang-jobstreet-express-8ZF {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .footer-dsP .pusat-bantuan-dku {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .footer-dsP .copyright-2023-jobstreet-express-kqX {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .konten-video-STT {
+  box-sizing: border-box;
+  padding: 4.116rem 3.09rem 5.485rem 3.083rem;
+  width: 59.2rem;
+  height: 49.4rem;
+  position: absolute;
+  left: 6rem;
+  top: 21.2rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .konten-video-STT .group-25-5mK {
+  margin: 0rem 0rem 2.869rem 0.034rem;
+  width: calc(100% - 0.0339rem);
+  height: 32.9303rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .konten-video-STT .group-25-5mK .vector-aCH {
+  width: 52.9931rem;
+  height: 32.9303rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .konten-video-STT .group-25-5mK .vector-tim {
+  width: 52.9931rem;
+  height: 32.9303rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .konten-video-STT .judul-video-2KB {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .rectangle-635-GjK {
+  width: 63rem;
+  height: 56.7rem;
+  position: absolute;
+  left: 72rem;
+  top: 21.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(241, 234, 193, 0.5333333611);
+  border-radius: 2.5rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj {
+  box-sizing: border-box;
+  padding: 0rem 3rem 0rem 5rem;
+  width: 144rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .logo-removebg-preview-1-gY9 {
+  margin-right: 38rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh {
+  margin-bottom: 5.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .home-page-9gd {
+  margin-top: 0.2rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo {
+  margin: 0rem 0.383rem 0.4rem 0rem;
+  width: 21.1167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo .daftar-pt-c4R {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo .icon-play-circle-outline-iNM {
+  width: 16.9167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo .icon-play-circle-outline-iNM .vector-Ebb {
+  margin: 0rem 12.7rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3399rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo .icon-play-circle-outline-iNM .group-YsB {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo .vector-6Nu {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .auto-group-2pcm-Uyo .home-q5b {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .simulasi-jRs {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .people-5e9 {
+  margin: 0.3rem 0.4rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .pelamar-oq3 {
+  margin: 0.1rem 1.2rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .graph-86d {
+  margin-top: 0.7rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .statistik-s4D {
+  margin: 0.3rem 2rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .icon-person-CMP {
+  margin: 0.3rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-admin-ydj .header-cgh .profil-saya-iqX {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .button-admin-25X {
+  width: 12.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 119.2rem;
+  top: 73rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .header-Dfo {
+  box-sizing: border-box;
+  padding-left: 23.9rem;
+  width: 39.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 15rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .wawancara-virtual-keahlian-dan-strategi-dalam-era-wawancara-virtual-yang-semakin-berkembang-video-ini-memfokuskan-pada-teknik-dan-strategi-penting-untuk-sukses-dalam-wawancara-online-anda-akan-melihat-bagaimana-mengatasi-tantangan-khusus-yang-muncul-dalam-wawancara-virtual-dan-bagaimana-berkomunikasi-secara-efektif-melalui-layar-komputer-simulasi-wawancara-virtual-ini-akan-membantu-anda-beradaptasi-dengan-baik-dengan-dunia-wawancara-online-yang-terus-berubah-dan-memberikan-tips-berharga-untuk-mencapai-kesuksesan-dalam-wawancara-daring-oP7 {
+  width: 56.6rem;
+  height: 37.7rem;
+  position: absolute;
+  left: 75rem;
+  top: 23.5rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .backgroun-notif-UNm {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .notif-uplod-vwawancara-1tV {
+  box-sizing: border-box;
+  padding: 5.65rem 9.3rem 4.4rem 9.3rem;
+  width: 48rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 48rem;
+  top: 39.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #a6e79b -0%, #3ba6c8 100%);
+  border-radius: 2.5rem;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .notif-uplod-vwawancara-1tV .upolad-video-wawancara-berhasil-iH7 {
+  margin-bottom: 1.85rem;
+  max-width: 29.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-1bcm-WXs .notif-uplod-vwawancara-1tV .auto-group-a6qh-QQq {
+  margin: 0rem 8.3rem 0rem 8.2rem;
+  width: calc(100% - 16.5rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #96d1c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .rectangle-594-meh {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-3-ZsX .auto-group-e233-6gy {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

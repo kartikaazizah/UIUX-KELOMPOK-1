@@ -1,0 +1,1334 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 31rem;
+}.masuk-zQq {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.masuk-zQq .property-1original-T3X {
+  width: 100%;
+  height: 52.6rem;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX {
+  width: 100%;
+  height: 53.5rem;
+  position: relative;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .rectangle-625-Gmf {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .rectangle-624-kRw {
+  width: 27rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .masuk-4hX {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .subtract-xH7 {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .subtract-V29 {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .belum-punya-akun-jobstreet-express-daftar-dengan--csT {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .belum-punya-akun-jobstreet-express-daftar-dengan--csT .belum-punya-akun-jobstreet-express-daftar-dengan--csT-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .belum-punya-akun-jobstreet-express-daftar-dengan--csT .belum-punya-akun-jobstreet-express-daftar-dengan--csT-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .facebook-vv5 {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .google-EA5 {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .masuk-vYh {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 11rem;
+  top: 27.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .icon-email-outline-SX3 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 15.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .icon-lock-outline-9RT {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 20.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .logo-removebg-preview-2-GFB {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .ketik-email-anda-yfP {
+  width: 12.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 15.35rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .masukkan-kata-sandi-t1f {
+  width: 15.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 20.55rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .logofacebook-removebg-preview-1-ncq {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .ellipse-122-uxM {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .logogoogle-removebg-preview-1-32y {
+  width: 2.5rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .button-masuk-email-ZGD {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.6rem;
+  top: 26.3rem;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .button-masuk-email-ZGD .button-tJV {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .button-masuk-email-Z9j {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 31.5rem;
+}
+.masuk-zQq .property-1original-T3X .auto-group-wrld-AyX .button-masuk-email-Z9j .button-VZB {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #015442;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo {
+  width: 100%;
+  height: 52.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1masuk-benar-mFo .subtract-hQM {
+  margin-bottom: 562.1rem;
+  width: 0;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH {
+  width: 100%;
+  height: 53.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .rectangle-625-vnu {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .rectangle-624-25F {
+  width: 27rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.6rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .masuk-8e5 {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 1.1rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .subtract-e6d {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .subtract-mww {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .belum-punya-akun-jobstreet-express-daftar-dengan--KTf {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .belum-punya-akun-jobstreet-express-daftar-dengan--KTf .belum-punya-akun-jobstreet-express-daftar-dengan--KTf-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .belum-punya-akun-jobstreet-express-daftar-dengan--KTf .belum-punya-akun-jobstreet-express-daftar-dengan--KTf-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .facebook-MBP {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .google-FnZ {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .icon-email-outline-ZYM {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 15.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .icon-lock-outline-HUM {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 20.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .logo-removebg-preview-2-2B3 {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .ratnafirdausgmailcom-jr9 {
+  width: 17.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 15.15rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .item--FJh {
+  width: 3.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 20.45rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .logofacebook-removebg-preview-1-xD7 {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .ellipse-122-UBT {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .logogoogle-removebg-preview-1-zfb {
+  width: 2.5rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .button-masuk-email-817 {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 26.1rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .button-masuk-email-817 .button-rho {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .button-masuk-email-8fK {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 31.3rem;
+}
+.masuk-zQq .property-1masuk-benar-mFo .auto-group-uki9-oiH .button-masuk-email-8fK .button-f9T {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #015442;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT {
+  width: 100%;
+  height: 52.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1masuk-salah-XhT .rectangle-625-SpR {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT .rectangle-624-9yj {
+  width: 27rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT .masuk-seq {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-salah-XhT .subtract-aZF {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .subtract-hNy {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .belum-punya-akun-jobstreet-express-daftar-dengan--qVB {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1masuk-salah-XhT .belum-punya-akun-jobstreet-express-daftar-dengan--qVB .belum-punya-akun-jobstreet-express-daftar-dengan--qVB-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1masuk-salah-XhT .belum-punya-akun-jobstreet-express-daftar-dengan--qVB .belum-punya-akun-jobstreet-express-daftar-dengan--qVB-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1masuk-salah-XhT .facebook-gu7 {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-salah-XhT .google-CMf {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-salah-XhT .icon-email-outline-7Dj {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 15.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .icon-lock-outline-3NH {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 20.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .logo-removebg-preview-2-NfT {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .ratnafirdausgmailcom-hSq {
+  width: 17.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 15.35rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-salah-XhT .item--cZo {
+  width: 6.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 20.55rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1masuk-salah-XhT .logofacebook-removebg-preview-1-j8d {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .ellipse-122-Fcm {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT .logogoogle-removebg-preview-1-yof {
+  width: 2.5rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1masuk-salah-XhT .button-masuk-email-uxD {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 26.1rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT .button-masuk-email-uxD .button-e97 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT .button-masuk-email-iuf {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 31.3rem;
+}
+.masuk-zQq .property-1masuk-salah-XhT .button-masuk-email-iuf .button-eoK {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #015442;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 {
+  width: 100%;
+  height: 52.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .subtract-sg5 {
+  margin-bottom: 671.3rem;
+  width: 0;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T {
+  width: 100%;
+  height: 53.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .rectangle-625-wA9 {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .rectangle-624-eaM {
+  width: 27rem;
+  height: 48.9rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .masuk-xqw {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.35rem;
+  top: 1.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .subtract-gG9 {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 17.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .subtract-RjX {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 22.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .belum-punya-akun-jobstreet-express-daftar-dengan--aMX {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .belum-punya-akun-jobstreet-express-daftar-dengan--aMX .belum-punya-akun-jobstreet-express-daftar-dengan--aMX-sub-0 {
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .belum-punya-akun-jobstreet-express-daftar-dengan--aMX .belum-punya-akun-jobstreet-express-daftar-dengan--aMX-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .facebook-hqT {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .google-E4h {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .icon-email-outline-9Bf {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 18.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .icon-lock-outline-4Jd {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 23.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .logo-removebg-preview-2-nVX {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .ketik-email-anda-7Xo {
+  width: 12.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 18.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .masukkan-kata-sandi-baru-Daq {
+  width: 19rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 23.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .logofacebook-removebg-preview-1-XbX {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .ellipse-122-ew3 {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .logogoogle-removebg-preview-1-nnM {
+  width: 2.5rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .subtract-7pd {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 27.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .icon-lock-outline-4js {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 28.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .ulangi-kata-sandi-baru-bUu {
+  width: 16.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 28.75rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .lupa-kata-sandi-6Am {
+  width: 12rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 14.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .button-masuk-email-QSM {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.4rem;
+  top: 33.3rem;
+}
+.masuk-zQq .property-1lupa-kata-sandi-Y81 .auto-group-gv6m-d9T .button-masuk-email-QSM .button-YHf {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1sandi-baru-pFB {
+  width: 100%;
+  height: 52.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.masuk-zQq .property-1sandi-baru-pFB .rectangle-625-7k5 {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.masuk-zQq .property-1sandi-baru-pFB .rectangle-624-qAH {
+  width: 27rem;
+  height: 48.9rem;
+  position: absolute;
+  left: 0;
+  top: 4.6rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.masuk-zQq .property-1sandi-baru-pFB .masuk-Lcq {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 1.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .subtract-rbB {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 17.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .subtract-Pr1 {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 22.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .belum-punya-akun-jobstreet-express-daftar-dengan--wcd {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1sandi-baru-pFB .belum-punya-akun-jobstreet-express-daftar-dengan--wcd .belum-punya-akun-jobstreet-express-daftar-dengan--wcd-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1sandi-baru-pFB .belum-punya-akun-jobstreet-express-daftar-dengan--wcd .belum-punya-akun-jobstreet-express-daftar-dengan--wcd-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.masuk-zQq .property-1sandi-baru-pFB .facebook-RAR {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .google-8ad {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .icon-email-outline-dXP {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 18.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .icon-lock-outline-MyB {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 23.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .logo-removebg-preview-2-58V {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .ratnafirdaus0gmailcom-BxD {
+  width: 18.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 18.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .item--VT7 {
+  width: 3.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 23.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .logofacebook-removebg-preview-1-oTo {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .ellipse-122-8W5 {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.masuk-zQq .property-1sandi-baru-pFB .logogoogle-removebg-preview-1-Fqb {
+  width: 2.5rem;
+  height: 2.625rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .subtract-b8m {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 27.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .icon-lock-outline-88h {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 28.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.masuk-zQq .property-1sandi-baru-pFB .item--raV {
+  width: 3.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 28.75rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .buat-kata-sandi-baru-AbB {
+  width: 14.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 14.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.masuk-zQq .property-1sandi-baru-pFB .button-masuk-email-gJd {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.4rem;
+  top: 33.3rem;
+}
+.masuk-zQq .property-1sandi-baru-pFB .button-masuk-email-gJd .button-DZT {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}

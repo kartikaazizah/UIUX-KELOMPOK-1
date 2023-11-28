@@ -1,0 +1,166 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 145.1rem;
+}.header-pt-WBj {
+  width: 100%;
+  height: 18rem;
+  position: relative;
+}
+.header-pt-WBj .masuk-dn9 {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 133.6rem;
+  top: 15rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-pt-WBj .rectangle-700-X6q {
+  width: 145.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #98dfa0 -0%, #42aac4 100%);
+}
+.header-pt-WBj .rectangle-702-qdK {
+  width: 145.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.59deg, #01d589 2.03%, #1dcba9 98.17%);
+}
+.header-pt-WBj .user-thumb-AQh {
+  width: 4.6162rem;
+  height: 4.6162rem;
+  position: absolute;
+  left: 129rem;
+  top: 11.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.8472rem;
+}
+.header-pt-WBj .brosur-lowongan-sa1 {
+  width: 15.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 26.8rem;
+  top: 13.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-pt-WBj .wawancara-NWm {
+  width: 10.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 47.6rem;
+  top: 13.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-pt-WBj .daftar-permintaan-V5b {
+  width: 15.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 13.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-pt-WBj .keluar-zHF {
+  width: 5.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 136.5rem;
+  top: 12.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-pt-WBj .group-31-Joj {
+  width: 2.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 80.9rem;
+  top: 11.6rem;
+}
+.header-pt-WBj .group-31-Joj .ellipse-87-Suw {
+  width: 2.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-pt-WBj .group-31-Joj .item-4-BsX {
+  width: 1.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-pt-WBj .logo-jobstreet-variant2-6Do {
+  width: 29.1rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+}
+.header-pt-WBj .logo-jobstreet-variant2-6Do .logo-removebg-preview-2-pQh {
+  width: 29.1rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.header-pt-WBj .rectangle-701-Z7P {
+  width: 38.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 10.8rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}

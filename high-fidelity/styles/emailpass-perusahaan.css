@@ -1,0 +1,42 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 23.9rem;
+}.emailpass-perusahaan-j7o {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.emailpass-perusahaan-j7o .telkomindonesiagmailcom-H9K {
+  margin-bottom: 4.2rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.emailpass-perusahaan-j7o .item--C1P {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

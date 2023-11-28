@@ -1,0 +1,367 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-daftar-pt2-VMs {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 {
+  margin-bottom: 2.8rem;
+  box-sizing: border-box;
+  padding: 0rem 3rem 0rem 5rem;
+  width: 100%;
+  height: 11.8rem;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .logo-removebg-preview-1-LNV {
+  margin-right: 38rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP {
+  margin-top: 1.4rem;
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF {
+  margin-right: 0.2833rem;
+  width: 23.9167rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .icon-play-circle-outline-YUZ {
+  width: 16.9167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 7rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .icon-play-circle-outline-YUZ .vector-G9f {
+  margin: 0rem 12.7rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3399rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .icon-play-circle-outline-YUZ .group-mcD {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .daftar-pt-Jc9 {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .vector-b5T {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .home-Wy7 {
+  width: 5.1rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-mx69-QdF .home-page-RKP {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .simulasi-9mB {
+  margin-bottom: 0.4rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0rem 1.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd .people-arV {
+  margin: 0.4rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd .pelamar-iC1 {
+  margin: 0rem 1.5rem 0.2rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd .graph-1gu {
+  margin-top: 0.4rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd .statistik-9o7 {
+  margin: 0.2rem 1.8rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd .icon-person-UKb {
+  margin: 0.2rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .header-admin-pf3 .header-4ZP .auto-group-eaq1-fUd .profil-saya-PhT {
+  margin-bottom: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .background-header-5aH {
+  margin: 0rem 4.4rem 2.9rem 4.4rem;
+  width: calc(100% - 8.8rem);
+  height: 77rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-33-bg-uA1.png');
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .background-header-5aH .rectangle-626-BtD {
+  width: 125.9rem;
+  height: 70.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 3.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(241, 234, 193, 0.5333333611);
+  border-radius: 2.5rem;
+}
+.admin-daftar-pt2-VMs .background-header-5aH .button-admin-gKB {
+  width: 12.9rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 113.8rem;
+  top: 67.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+}
+.admin-daftar-pt2-VMs .background-header-5aH .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-uhj {
+  width: 87.4rem;
+  height: 42.7rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 24.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.admin-daftar-pt2-VMs .background-header-5aH .pt-telkom-indonesia-tbk-gVX {
+  width: 22.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 7.25rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-daftar-pt2-VMs .background-header-5aH .data-analyst-zFK {
+  width: 11.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 11.15rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-daftar-pt2-VMs .background-header-5aH .surabaya-jawa-timur-5nZ {
+  width: 19.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.4rem;
+  top: 7.25rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-daftar-pt2-VMs .background-header-5aH .telkom-tel-1-Bqb {
+  width: 10.6rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.admin-daftar-pt2-VMs .footer-FaZ {
+  margin-bottom: 18.2rem;
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .footer-FaZ .tentang-jobstreet-express-n4h {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .footer-FaZ .pusat-bantuan-VUu {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .footer-FaZ .copyright-2023-jobstreet-express-d5K {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .rectangle-594-LkR {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.admin-daftar-pt2-VMs .auto-group-b55j-sVT {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

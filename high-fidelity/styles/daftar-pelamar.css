@@ -1,0 +1,242 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 112.1rem;
+}.daftar-pelamar-2eD {
+  box-sizing: border-box;
+  padding: 1.8rem 2rem 2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.daftar-pelamar-2eD .property-1lady-cessa-KdK {
+  box-sizing: border-box;
+  padding: 2.1rem 3.2rem 1rem 2.6rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ecf5e5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1lady-cessa-KdK .foto-profil-2nd {
+  margin: 0rem 3.7rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.64rem 0.7067rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-121-zx1.png');
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1lady-cessa-KdK .foto-profil-2nd .ellipse-125-kid {
+  width: 9.1867rem;
+  height: 8.32rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-pelamar-2eD .property-1lady-cessa-KdK .lady-cessa-nadinda-082221008008-surabaya-UuX {
+  margin: 0rem 38.8rem 1.3rem 0rem;
+  max-width: 21.2rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1lady-cessa-KdK .button-acc-Zg5 {
+  margin-right: 1rem;
+  width: 13.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db4154;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1lady-cessa-KdK .button-acc-2pZ {
+  width: 13.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4baea0;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1ratna-hA1 {
+  box-sizing: border-box;
+  padding: 2.1rem 3.2rem 1rem 2.6rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ecf5e5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1ratna-hA1 .foto-profil-oiq {
+  margin: 0rem 3.7rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.64rem 0.7067rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-121-qfF.png');
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1ratna-hA1 .foto-profil-oiq .ellipse-125-8m7 {
+  width: 9.1867rem;
+  height: 8.32rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-pelamar-2eD .property-1ratna-hA1 .ratna-firdaus-081234567890-gresik-5AZ {
+  margin: 0rem 45.3rem 1.3rem 0rem;
+  max-width: 14.7rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1ratna-hA1 .button-acc-a7K {
+  margin-right: 1rem;
+  width: 13.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db4154;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1ratna-hA1 .button-acc-TS1 {
+  width: 13.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4baea0;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1kartika-LVo {
+  box-sizing: border-box;
+  padding: 2.1rem 3.2rem 1rem 2.6rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ecf5e5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1kartika-LVo .foto-profil-RXF {
+  margin: 0rem 3.7rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.64rem 0.7067rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-121-EsB.png');
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1kartika-LVo .foto-profil-RXF .ellipse-125-iWM {
+  width: 9.1867rem;
+  height: 8.32rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daftar-pelamar-2eD .property-1kartika-LVo .kartika-nur-0852634926442-kupang-ntt-d7X {
+  margin: 0rem 44rem 1.3rem 0rem;
+  max-width: 16rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1kartika-LVo .button-acc-617 {
+  margin-right: 1rem;
+  width: 13.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db4154;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.daftar-pelamar-2eD .property-1kartika-LVo .button-acc-jZs {
+  width: 13.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4baea0;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}

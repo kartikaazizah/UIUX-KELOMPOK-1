@@ -1,0 +1,474 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-hapus-lowongan-KCM {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 {
+  margin-bottom: 17.2rem;
+  width: 100%;
+  height: 103.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .footer-b9s {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .footer-b9s .tentang-jobstreet-express-3Gm {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .footer-b9s .pusat-bantuan-uJy {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .footer-b9s .copyright-2023-jobstreet-express-RHK {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF {
+  box-sizing: border-box;
+  padding: 0rem 3rem 0rem 5rem;
+  width: 144rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .logo-removebg-preview-1-1FX {
+  margin-right: 37.3rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F {
+  margin-bottom: 5.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .home-page-rX3 {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 {
+  margin: 0rem 0.183rem 0.2rem 0rem;
+  width: 22.2167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 .icon-play-circle-outline-6AV {
+  width: 17.2167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 5rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 .icon-play-circle-outline-6AV .vector-Qgy {
+  margin: 0rem 13rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3399rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 .icon-play-circle-outline-6AV .group-7bP {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 .daftar-pt-rYy {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 .vector-keM {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-dyjs-aT3 .home-tVf {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .simulasi-o6q {
+  margin: 0rem 1.6rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .people-7tD {
+  margin: 0.1rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-oqdb-TBP {
+  margin: 0rem 1.7rem 0.5rem 0rem;
+  width: 7.2rem;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-oqdb-TBP .pelamar-zBK {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .auto-group-oqdb-TBP .vector-tXb {
+  opacity: 0;
+  width: 2.4555rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .graph-pRF {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .statistik-kph {
+  margin: 0rem 1.2rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .icon-person-tAD {
+  margin: 0.5rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .header-admin-6uF .header-85F .profil-saya-ony {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb {
+  width: 135.2rem;
+  height: 77rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 14.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-33-bg-6g1.png');
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .rectangle-626-D61 {
+  width: 125.9rem;
+  height: 70.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 3.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(241, 234, 193, 0.5333333611);
+  border-radius: 2.5rem;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-txq {
+  width: 87.4rem;
+  height: 42.7rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 24.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .pt-telkom-indonesia-tbk-6Bj {
+  width: 22.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 7.25rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .data-analyst-zY1 {
+  width: 11.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 11.15rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .surabaya-jawa-timur-hxD {
+  width: 19.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.4rem;
+  top: 7.25rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .telkom-tel-1-d5B {
+  width: 10.6rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .button-admin-Yxq {
+  width: 9.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 68.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .button-admin-Bku {
+  width: 10.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 117.5rem;
+  top: 68.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .background-header-WBb .button-admin-2-EDP {
+  width: 9.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 93.8rem;
+  top: 68.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .backgroun-notif-QGH {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .notif-hapus-lowongan-Lfj {
+  box-sizing: border-box;
+  padding: 5.85rem 12rem 4.4rem 12.1rem;
+  width: 48rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 49rem;
+  top: 42.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #a6e79b -0%, #3ba6c8 100%);
+  border-radius: 2.5rem;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .notif-hapus-lowongan-Lfj .lowongan-dihapus-berhasil-opD {
+  margin-bottom: 2.05rem;
+  max-width: 23.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-mbgu-3u3 .notif-hapus-lowongan-Lfj .auto-group-psjh-7K7 {
+  margin: 0rem 5.6rem 0rem 5.4rem;
+  width: calc(100% - 11rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #96d1c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .rectangle-594-gmX {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.admin-hapus-lowongan-KCM .auto-group-cbzy-QxR {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

@@ -1,0 +1,148 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 13.929rem;
+}.tools-samping-kiri-VkM {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+
+  .daftar-permintaan-tools-samping-Exq {
+    margin: 0rem 1.264rem 1.943rem 1.264rem;
+    width: calc(100% - 2.5285rem);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .list-icon-A5o {
+      flex-shrink: 0;
+      box-shadow: -1.1rem 0.5rem 1rem rgba(30, 203, 170, 0.6100000143);
+      box-sizing: border-box;
+      padding: 1rem 1.714rem 0.929rem 1.643rem;
+      width: calc(100% - 4.1857rem);
+      cursor: pointer;
+      background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
+      border-radius: 3.6071rem;
+      margin: 0rem 2.093rem 1.143rem 2.093rem;
+
+      .list-1-rDX {
+        width: 3.8572rem;
+        height: 5.2857rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+    }
+    .group-79-iFj {
+      width: 100%;
+      height: 4.5572rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .daftar-GY9 {
+        text-align: center;
+        font-size: 2rem;
+        width: 6.7rem;
+        position: absolute;
+        left: 2.35rem;
+        line-height: 1.5675;
+        color: #ffffff;
+        font-family: Lalezar, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3.2rem;
+        top: 0;
+        font-weight: 400;
+      }
+      .permintaan-NLH {
+        left: 0;
+        top: 1.3572rem;
+        font-size: 2rem;
+        color: #ffffff;
+        white-space: nowrap;
+        width: 11.4rem;
+        position: absolute;
+        text-align: center;
+        font-weight: 400;
+        line-height: 1.5675;
+        font-family: Lalezar, 'Source Sans Pro';
+        height: 3.2rem;
+      }
+    }
+  }
+  .jadwal-wawancara-tools-samping-gbs {
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0 1.0643rem;
+    width: 100%;
+
+    .calendar-ikon-R3f {
+      margin: 0rem 2.293rem 1.143rem 2.293rem;
+      box-sizing: border-box;
+      padding: 1.357rem 0rem 1.232rem 0rem;
+      width: calc(100% - 4.5857rem);
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
+      border-radius: 3.6071rem;
+      flex-shrink: 0;
+
+      .calendar-1-j4M {
+        height: 4.625rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 6.2488rem;
+      }
+    }
+    .group-80-Bh3 {
+      width: 100%;
+      height: 4.5571rem;
+      position: relative;
+      flex-shrink: 0;
+
+      .jadwal-RrH {
+        white-space: nowrap;
+        width: 7.1rem;
+        height: 3.2rem;
+        position: absolute;
+        top: 0;
+        text-align: center;
+        font-weight: 400;
+        color: #ffffff;
+        left: 2.35rem;
+        font-size: 2rem;
+        line-height: 1.5675;
+        font-family: Lalezar, 'Source Sans Pro';
+      }
+      .wawancara-jc5 {
+        font-size: 2rem;
+        font-weight: 400;
+        color: #ffffff;
+        font-family: Lalezar, 'Source Sans Pro';
+        width: 11.8rem;
+        top: 1.3571rem;
+        left: 0;
+        text-align: center;
+        line-height: 1.5675;
+        white-space: nowrap;
+        height: 3.2rem;
+        position: absolute;
+      }
+    }
+  }
+}

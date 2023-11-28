@@ -1,0 +1,65 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 77.2rem;
+}.bottom-atur-ulang-kata-sandi-dah {
+  border: dashed 0.1rem #9747ff;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+
+  .property-1default-Lzu {
+    cursor: pointer;
+    line-height: 1.2975;
+    flex-shrink: 0;
+    display: flex;
+    font-size: 3rem;
+    font-family: Candal, 'Source Sans Pro';
+    white-space: nowrap;
+    align-items: center;
+    margin-bottom: 2rem;
+    height: 6.9rem;
+    text-align: center;
+    font-weight: 400;
+    color: #ffffff;
+    background: linear-gradient(90.08deg, #005141 8.07%, #03866c 98.59%);
+    border-radius: 2rem;
+    width: 100%;
+    justify-content: center;
+  }
+  .property-1variant2-Zcm {
+    border-radius: 2rem;
+    text-align: center;
+    font-size: 3rem;
+    color: #ffffff;
+    white-space: nowrap;
+    font-weight: 400;
+    line-height: 1.2975;
+    width: 100%;
+    font-family: Candal, 'Source Sans Pro';
+    align-items: center;
+    flex-shrink: 0;
+    height: 6.9rem;
+    display: flex;
+    justify-content: center;
+    background-color: #b0aaaa;
+  }
+}

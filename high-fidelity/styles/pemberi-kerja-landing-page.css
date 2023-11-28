@@ -1,0 +1,232 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pemberi-kerja-landing-page-BCV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page-BCV .header-admin-Jnu {
+  box-sizing: border-box;
+  padding: 0rem 6rem 0rem 5rem;
+  width: 100%;
+  height: 11.8rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .header-admin-Jnu .logo-removebg-preview-1-2U1 {
+  margin: 0rem 87.6rem 0.9rem 0rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .header-admin-Jnu .daftar-Ki1 {
+  margin-right: 2.8rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .header-admin-Jnu .masuk-qRT {
+  margin-top: 0.2rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV {
+  box-sizing: border-box;
+  padding: 19.7rem 23rem 18.2rem 11.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .group-74-rrM {
+  margin: 0rem 0rem 4.3rem 16.1rem;
+  box-sizing: border-box;
+  padding: 5.1rem 10rem 2.9rem 10.1rem;
+  width: 93.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .group-74-rrM .lupa-kata-sandi-anda-wso {
+  margin: 0rem 0.2rem 0.9rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .group-74-rrM .masukkan-email-login-anda-untuk-mengatur-ulang-kata-sandi-anda-enD {
+  margin: 0rem 0rem 4rem 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .group-74-rrM .email-anda-YMo {
+  margin: 0rem 60.8rem 0.1rem 0rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .group-74-rrM .rectangle-732-3pM {
+  margin: 0rem 0.1rem 1.7rem 0rem;
+  width: 73.2rem;
+  height: 6.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .group-74-rrM .bottom-atur-ulang-kata-sandi-APB {
+  margin-left: 0.1rem;
+  width: 73.2rem;
+  height: 6.9rem;
+  cursor: pointer;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  background: linear-gradient(90.08deg, #005141 8.07%, #03866c 98.59%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .need-help-visit-our-help-centre-ZAR {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .need-help-visit-our-help-centre-ZAR .need-help-visit-our-help-centre-ZAR-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page-BCV .auto-group-jixh-wUV .need-help-visit-our-help-centre-ZAR .need-help-visit-our-help-centre-ZAR-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #29269b;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page-BCV .footer-WtH {
+  margin-bottom: 18.2rem;
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .footer-WtH .tentang-jobstreet-express-S1F {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .footer-WtH .pusat-bantuan-MP7 {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .footer-WtH .copyright-2023-jobstreet-express-5pu {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .rectangle-594-zws {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page-BCV .auto-group-uqp7-8HP {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

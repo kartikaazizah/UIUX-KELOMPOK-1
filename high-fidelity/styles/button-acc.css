@@ -1,0 +1,95 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 17.5rem;
+}.button-acc-PsX {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.button-acc-PsX .property-1hapus-jAh {
+  width: 100%;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db4154;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.button-acc-PsX .property-1acc-R3X {
+  width: 100%;
+  height: 3.5rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4baea0;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.button-acc-PsX .property-1variant3-HLd {
+  width: 100%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b0aaaa;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.button-acc-PsX .property-1variant4-Lph {
+  width: 100%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b0aaaa;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}

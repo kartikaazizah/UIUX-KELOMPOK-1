@@ -1,0 +1,215 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pemberi-kerja-landing-page3-JN5 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page3-JN5 .header-admin-dfF {
+  margin-bottom: 10.8rem;
+  box-sizing: border-box;
+  padding: 0rem 6rem 0rem 5rem;
+  width: 100%;
+  height: 11.8rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .header-admin-dfF .logo-removebg-preview-1-kUy {
+  margin: 0rem 87.6rem 0.9rem 0rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .header-admin-dfF .daftar-rnu {
+  margin-right: 2.8rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .header-admin-dfF .masuk-BKP {
+  margin-top: 0.2rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK {
+  margin: 0rem 25.7rem 9.9rem 30.6rem;
+  box-sizing: border-box;
+  padding: 1.7rem 7.7rem 2.2rem 6.7rem;
+  width: calc(100% - 56.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #01d589;
+  border-radius: 7.9rem;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .check-your-email-xDf {
+  margin: 0rem 0rem 4.4rem 4.2rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .a-link-should-be-sent-to-telkomindonesiagmailcom-please-follow-the-steps-below-to-reset-your-password-1-make-sure-the-details-above-are-correct-you-will-not-receive-the-link-your-email-is-incorrect-2-open-your-inbox-and-look-for-an-email-titled-reset-password-for-jobstreet-accountif-you-cant-find-it-check-in-your-junk-and-spam-folders-3-in-the-emailclick-on-the-reset-password-button-4nV {
+  margin-bottom: 7.7rem;
+  max-width: 73.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-have-misspelt-your-details-try-entering-them-again-chX {
+  margin: 0rem 18.5rem 2.3rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-have-misspelt-your-details-try-entering-them-again-chX .if-you-have-misspelt-your-details-try-entering-them-again-chX-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-have-misspelt-your-details-try-entering-them-again-chX .if-you-have-misspelt-your-details-try-entering-them-again-chX-sub-1 {
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97 {
+  margin-left: 5.4rem;
+  max-width: 44.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97 .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97 .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-omtm-rwK .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97 .if-you-havent-received-an-email-from-us-please-contact-our-customer-care-team-or-email-us-at-corpcare-idjobstreetcom-x97-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page3-JN5 .footer-EPT {
+  margin-bottom: 18.2rem;
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .footer-EPT .tentang-jobstreet-express-Yf3 {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .footer-EPT .pusat-bantuan-4tH {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .footer-EPT .copyright-2023-jobstreet-express-z1F {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .rectangle-594-J1w {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page3-JN5 .auto-group-nuxs-pW5 {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

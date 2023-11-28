@@ -1,0 +1,828 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pencari-kerja-melamar-pekerjaan--hVB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT {
+  margin-bottom: 5.7rem;
+  width: 100%;
+  height: 27.2rem;
+  background: linear-gradient(180deg, #ffffff -0%, rgba(255, 255, 255, 0) 100%);
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu {
+  box-sizing: border-box;
+  padding: 0rem 7.6rem 0.3rem 4.5rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(91.95deg, #01d588 0.51%, #09e2b9 98.29%);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 19.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .logo-removebg-preview-1-ZpD {
+  width: 29.8rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .rectangle-574-fsF {
+  width: 42rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 13.3rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .rectangle-575-xrM {
+  width: 42rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 45rem;
+  top: 13.3rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .icon-search-outline-GMF {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 36.8rem;
+  top: 14.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .icon-pin-outline-AxR {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 82.2rem;
+  top: 14.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .nama-pekerjaan-6LH {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .nama-pekerjaan-atau-perusahaan-jPF {
+  width: 26.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 15.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #b0aaaa;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .di-mana-1rZ {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 10.7rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .nama-kota-atau-provinsi-vid {
+  width: 21rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 47rem;
+  top: 15.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #b0aaaa;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .bottom-2Fs {
+  width: 21rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.1rem;
+  top: 13.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(89.58deg, #004f3f 0.42%, #028a6e 99.64%);
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF {
+  width: 77rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 54.9rem;
+  top: 3.4rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .icon-play-circle-outline-kbB {
+  margin: 0.04rem 0.2rem 0rem 0rem;
+  width: 2.3rem;
+  height: 2.3398rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .simulasi-ewT {
+  margin: 0rem 3.647rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .icon-person-KXo {
+  margin: 0.3rem 0.385rem 0rem 0rem;
+  width: 2.4684rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .profil-saya-DNH {
+  margin: 0rem 5.3rem 0.5rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .icon-bell-outline-LC1 {
+  margin: 0rem 0.345rem 0.4rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .job-alert-481 {
+  margin: 0rem 5.9rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .icon-bookmark-mYD {
+  margin: 0.2rem 0.045rem 0rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .lowongan-saya-J2M {
+  margin: 0rem 7.3rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .header-eHF .keluar-cYq {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .pengajuan-berhasil-jdT {
+  box-sizing: border-box;
+  padding: 2rem 2.686rem 2.1rem 3rem;
+  width: 60.8rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ecf5e5;
+  border-radius: 0.6rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .pengajuan-berhasil-jdT .roboto-slab-38M {
+  margin: 0rem 0.614rem 1.8rem 0rem;
+  max-width: 54.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .pengajuan-berhasil-jdT .auto-group-fsuq-6sK {
+  width: 9.8145rem;
+  height: 4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .pengajuan-berhasil-jdT .auto-group-fsuq-6sK .rectangle-648-q4D {
+  width: 8.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(180deg, #005544 -0%, #03876c 100%);
+  border-radius: 2rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-qnrm-gru .pengajuan-berhasil-jdT .auto-group-fsuq-6sK .header-1-fZ3 {
+  width: 9.8145rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 {
+  margin: 0rem 84.3rem 0rem 1.8rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2.555rem 0rem 2.5rem;
+  width: calc(100% - 86.1rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  border-left: solid 0.1rem #777777;
+  border-right: solid 0.1rem #777777;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 .semua-jenis-pekerjaan-Xjf {
+  margin: 0rem 0.4rem 0.4rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 .auto-group-9efb-Srd {
+  margin-right: 2.4547rem;
+  width: 20.5453rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 .auto-group-9efb-Srd .line-171-PWy {
+  width: 0.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  background-color: #777777;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 .auto-group-9efb-Srd .kapan-saja-uVK {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8rem;
+  top: 0.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 .auto-group-9efb-Srd .icon-arrow-ios-downward-Qws {
+  width: 3.5rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .header-n-navbar-variant2-2XT .background-header-xvu .auto-group-vl4r-G33 .auto-group-9efb-Srd .icon-arrow-ios-downward-wS1 {
+  width: 20.5453rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM {
+  margin: 0rem 7.2rem 17.6rem 8.1rem;
+  width: calc(100% - 15.3rem);
+  height: 102.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh {
+  margin-right: 3.3rem;
+  box-sizing: border-box;
+  padding: 1.9rem 2.8rem 3.2rem 1.9rem;
+  width: 54.9rem;
+  border: solid 0.2rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .admin-administrasi-8uo {
+  margin: 0rem 0rem 0.1rem 1.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-bygv-TBP {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 6.9rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-bygv-TBP .capture-removebg-preview-4-b2h {
+  width: 10.8rem;
+  height: 6.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-bygv-TBP .auto-group-nhcv-id7 {
+  margin: 1rem 0rem 0.6rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-bygv-TBP .auto-group-nhcv-id7 .pt-perdana-semesta-gemilang-logistik-F7F {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-bygv-TBP .auto-group-nhcv-id7 .dupak-surabaya-jawa-timur-m5b {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .hari-yang-lalu-20-pelamar-giM {
+  margin: 0rem 0rem 2.2rem 1.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-jpsd-ony {
+  margin: 0rem 26.4rem 1.9rem 1.1rem;
+  width: calc(100% - 27.5rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-jpsd-ony .emoji-briefcase-LY1 {
+  margin-right: 1.9363rem;
+  width: 2.3637rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-jpsd-ony .sekitar-rp-4-5-juta-bulan-UPK {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .administrasi-merupakan-suatu-proses-penyelenggaraan-bersama-atau-proses-kerja-sama-antara-sekelompok-orang-secara--Qnm {
+  margin: 0rem 0rem 2.4rem 0.8rem;
+  max-width: 46.3rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-vxrr-UXj {
+  margin-left: 36.7rem;
+  width: 13.5rem;
+  height: 4rem;
+  position: relative;
+  border: solid 0.2rem #015442;
+  box-sizing: border-box;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #b0aaaa;
+  border-radius: 2rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-vxrr-UXj .tersimpan-QRP {
+  width: 8.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 1.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-vxrr-UXj .vector-K2Z {
+  opacity: 0;
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 1rem;
+  background-color: rgba(255, 255, 255, 0);
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .lowongan-lamaran-qvh .auto-group-vxrr-UXj .icon-bookmark-cXT {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR {
+  width: 70.5rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.2rem #0e8136;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ebf3f5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-ry2m-nKT {
+  width: 25.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 25.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #b0aaaa;
+  box-sizing: border-box;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #b0aaaa;
+  border-radius: 2rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-5saq-pG9 {
+  width: 58.4rem;
+  height: 47.2rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 52.4rem;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-5saq-pG9 .lulusan-minimal-sma-smk-sederajat-max-22-tahun-bertanggung-jawab-disiplin-dan-jujur-cekatan-inovatif-dan-inisiatif-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-mampu-mengoperasikan-ms-word-dan-excel-pelamar-harus-memiliki-ktp-93X {
+  width: 57.2rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 0;
+  top: 25.8rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-5saq-pG9 .lulusan-minimal-sma-smk-sederajat-max-22-tahun-bertanggung-jawab-disiplin-dan-jujur-cekatan-inovatif-dan-inisiatif-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-mampu-mengoperasikan-ms-word-dan-excel-pelamar-harus-memiliki-ktp-93X .lulusan-minimal-sma-smk-sederajat-max-22-tahun-bertanggung-jawab-disiplin-dan-jujur-cekatan-inovatif-dan-inisiatif-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-mampu-mengoperasikan-ms-word-dan-excel-pelamar-harus-memiliki-ktp-93X-sub-0 {
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-5saq-pG9 .lulusan-minimal-sma-smk-sederajat-max-22-tahun-bertanggung-jawab-disiplin-dan-jujur-cekatan-inovatif-dan-inisiatif-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-mampu-mengoperasikan-ms-word-dan-excel-pelamar-harus-memiliki-ktp-93X .lulusan-minimal-sma-smk-sederajat-max-22-tahun-bertanggung-jawab-disiplin-dan-jujur-cekatan-inovatif-dan-inisiatif-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-mampu-mengoperasikan-ms-word-dan-excel-pelamar-harus-memiliki-ktp-93X-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-5saq-pG9 .persyaratan-minimum--rEm {
+  width: 22rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 1rem;
+  top: 27.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-5saq-pG9 .menjadwalkan-meeting-dan-acara-merawat-database-internal-memesan-peralatan-dan-perlengkapan-kantor-menyimpan-dan-menjaga-catatan-arsip-karyawan-baik-fisik-maupun-digital-mendistribusikan-surat-masuk-dan-keluar-menyiapkan-laporan-dan-presentasi-rutin-mengatur-menyimpan-dan-mencetak-dokumen-perusahaan-sesuai-dengan-kebutuhan-mengatur-perjalanan-bisnis-mengupdate-kebijakan-kantor-ZQ5 {
+  width: 58.4rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .administrasi-merupakan-suatu-proses-penyelenggaraan-bersama-atau-proses-kerja-sama-antara-sekelompok-orang-secara-tertentu-untuk-mencapai-sesuatu-tujuan-tertentu-yang-telah-ditentukan-dan-direncanakan-sebelumnya-kerja-sama-antara-orang-orang-tersebut-berlangsung-secara-dan-melalui-organisasi-LZF {
+  width: 60.2rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 38.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .deskripsi-pekerjaan-LSm {
+  width: 19.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 35.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .line-86-3c5 {
+  width: 61rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 32.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-bczv-mY5 {
+  width: 26.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 20.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-bczv-mY5 .emoji-briefcase-tsb {
+  margin-right: 1.9363rem;
+  width: 2.3637rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-bczv-mY5 .sekitar-rp-4-5-juta-bulan-2yo {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .admin-administrasi-xsT {
+  width: 19.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 4.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-uybw-4vV {
+  width: 50.2rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 7.6rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-uybw-4vV .capture-removebg-preview-4-C17 {
+  width: 10.8rem;
+  height: 6.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-uybw-4vV .auto-group-s6rf-7tm {
+  margin: 1rem 0rem 0.6rem 0rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-uybw-4vV .auto-group-s6rf-7tm .pt-perdana-semesta-gemilang-logistik-r5f {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .auto-group-uybw-4vV .auto-group-s6rf-7tm .dupak-surabaya-jawa-timur-N41 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .auto-group-kmkx-KxM .deskripsi-FaR .hari-yang-lalu-20-pelamar-Hwf {
+  width: 24.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 15.8rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.75);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .footer-KdT {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .footer-KdT .tentang-jobstreet-express-MKF {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .footer-KdT .pusat-bantuan-Gx1 {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-melamar-pekerjaan--hVB .footer-KdT .copyright-2023-jobstreet-express-18u {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

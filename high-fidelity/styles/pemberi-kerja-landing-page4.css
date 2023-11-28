@@ -1,0 +1,364 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pemberi-kerja-landing-page4-hJH {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page4-hJH .header-admin-cw3 {
+  margin-bottom: 2.1rem;
+  box-sizing: border-box;
+  padding: 0rem 6rem 0rem 5rem;
+  width: 100%;
+  height: 11.8rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .header-admin-cw3 .logo-removebg-preview-1-LMF {
+  margin: 0rem 87.6rem 0.9rem 0rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .header-admin-cw3 .daftar-ExR {
+  margin-right: 2.8rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .header-admin-cw3 .masuk-xdX {
+  margin-top: 0.2rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT {
+  margin: 0rem 40.1rem 1.9rem 34.6rem;
+  width: calc(100% - 74.7rem);
+  height: 78.7rem;
+  position: relative;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .daftarkan-perusahaanmu-disini-Z7X {
+  width: 38.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 2.3414rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .rectangle-732-R3F {
+  width: 64.5rem;
+  height: 4.3281rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.1rem;
+  top: 13.5106rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .rectangle-734-vVo {
+  width: 64.5rem;
+  height: 4.3281rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 23.7406rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .rectangle-735-egh {
+  width: 64.5rem;
+  height: 4.3281rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 35.2493rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .rectangle-736-BRj {
+  width: 64.5rem;
+  height: 4.3281rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 47.1515rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .auto-group-ec3j-WD7 {
+  width: 64.5rem;
+  height: 8.1281rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 52.9913rem;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .auto-group-ec3j-WD7 .rectangle-737-qWH {
+  width: 64.5rem;
+  height: 4.3281rem;
+  position: absolute;
+  left: 0;
+  top: 3.8rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .auto-group-ec3j-WD7 .kata-sandi-xqo {
+  width: 13.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .email-login-5Qd {
+  width: 14.5rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 8.65rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .nama-bNy {
+  width: 7.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 19.5686rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .nomor-hp-WF3 {
+  width: 12.6rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 30.3887rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .nama-bisnis-terdaftar-QrD {
+  width: 28.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 42.2695rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru {
+  width: 64.8rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 62.8rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #3824b1;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #3824b1;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #3824b1;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-5 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru .dengan-melanjutkan-anda-telah-menyetujui-kebijakan-privasi-dan-syarat-ketentuan-dari-jobstreet-iru-sub-6 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.pemberi-kerja-landing-page4-hJH .group-74-eFT .button-daftar-v7j {
+  width: 19.5902rem;
+  height: 5.8396rem;
+  cursor: pointer;
+  position: absolute;
+  left: 24.8rem;
+  top: 69.4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  background: linear-gradient(89.43deg, #005141 0.28%, #03866c 99.46%);
+  border-radius: 2rem;
+}
+.pemberi-kerja-landing-page4-hJH .footer-6RX {
+  margin-bottom: 18.2rem;
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .footer-6RX .tentang-jobstreet-express-Qx1 {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .footer-6RX .pusat-bantuan-L4y {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .footer-6RX .copyright-2023-jobstreet-express-TfP {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .rectangle-594-NXT {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.pemberi-kerja-landing-page4-hJH .auto-group-s8kq-hZj {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

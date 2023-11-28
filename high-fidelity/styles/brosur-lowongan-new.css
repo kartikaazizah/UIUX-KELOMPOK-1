@@ -1,0 +1,763 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.brosur-lowongan-new-yqb {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  height: 18rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .masuk-DE9 {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 132.5871rem;
+  top: 13.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .rectangle-700-gtR {
+  width: 144rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #98dfa0 -0%, #42aac4 100%);
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .rectangle-702-c1P {
+  width: 144rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.59deg, #01d589 2.03%, #1dcba9 98.17%);
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .user-thumb-Xe9 {
+  width: 4.5813rem;
+  height: 4.6162rem;
+  position: absolute;
+  left: 128.0221rem;
+  top: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.8472rem;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .wawancara-3sP {
+  width: 10.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 47.2391rem;
+  top: 12.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .daftar-permintaan-kG1 {
+  width: 15.9rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 65.4004rem;
+  top: 12.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .group-31-FiZ {
+  width: 2.4809rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 80.2867rem;
+  top: 10.5rem;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .group-31-FiZ .ellipse-87-mgu {
+  width: 2.4809rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .group-31-FiZ .item-4-haZ {
+  width: 1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.6945rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .logo-jobstreet-variant2-PyB {
+  width: 28.8793rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.9547rem;
+  top: 0;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .logo-jobstreet-variant2-PyB .logo-removebg-preview-2-wE1 {
+  width: 28.8793rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .rectangle-701-Ti9 {
+  width: 37.9104rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 87.9285rem;
+  top: 9.7rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .rectangle-715-kx9 {
+  width: 17.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 20.1rem;
+  top: 12.2rem;
+  background-color: #371b88;
+  border-radius: 0.6rem;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .brosur-lowongan-Ut9 {
+  width: 15.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 21.4rem;
+  top: 12.7rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .header-pt-HrH .keluar-aRP {
+  width: 5.8rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 135.3rem;
+  top: 11.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .tools-pinggir-button-pt-Umf {
+  margin: 0rem 6.2rem 1.2rem 0rem;
+  width: 18.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #85d3a8 -0%, #49aec1 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 {
+  width: 100%;
+  height: 78rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .rectangle-741-GSd {
+  width: 124.4rem;
+  height: 75.2rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 0;
+  background-color: rgba(14, 129, 54, 0.150000006);
+  border-radius: 4.2rem;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .footer-PXF {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 70.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .footer-PXF .tentang-jobstreet-express-HsX {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .footer-PXF .pusat-bantuan-CzV {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .footer-PXF .copyright-2023-jobstreet-express-Xms {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb {
+  width: 13.9285rem;
+  height: 27.7714rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 15.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .daftar-permintaan-tools-samping-yds {
+  margin: 0rem 1.264rem 1.943rem 1.264rem;
+  width: calc(100% - 2.5285rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .daftar-permintaan-tools-samping-yds .list-icon-tF3 {
+  margin: 0rem 2.093rem 1.143rem 2.093rem;
+  box-sizing: border-box;
+  padding: 1rem 1.714rem 0.929rem 1.643rem;
+  width: calc(100% - 4.1855rem);
+  cursor: pointer;
+  box-shadow: -1.1rem 0.5rem 1rem rgba(30, 203, 170, 0.6100000143);
+  background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
+  border-radius: 3.6071rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .daftar-permintaan-tools-samping-yds .list-icon-tF3 .list-1-nrD {
+  width: 3.857rem;
+  height: 5.2857rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .daftar-permintaan-tools-samping-yds .group-79-eG9 {
+  width: 100%;
+  height: 4.5572rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .daftar-permintaan-tools-samping-yds .group-79-eG9 .daftar-zau {
+  width: 6.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .daftar-permintaan-tools-samping-yds .group-79-eG9 .permintaan-W3T {
+  width: 11.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.3572rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .jadwal-wawancara-tools-samping-zzD {
+  box-sizing: border-box;
+  padding: 0 1.0643rem;
+  width: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .jadwal-wawancara-tools-samping-zzD .calendar-ikon-84q {
+  margin: 0rem 2.293rem 1.143rem 2.293rem;
+  box-sizing: border-box;
+  padding: 1.357rem 0rem 1.232rem 0rem;
+  width: calc(100% - 4.5855rem);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
+  border-radius: 3.6071rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .jadwal-wawancara-tools-samping-zzD .calendar-ikon-84q .calendar-1-qE9 {
+  width: 6.2488rem;
+  height: 4.625rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .jadwal-wawancara-tools-samping-zzD .group-80-Hbw {
+  width: 100%;
+  height: 4.5571rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .jadwal-wawancara-tools-samping-zzD .group-80-Hbw .jadwal-2pR {
+  width: 7.1rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-rjsw-XE9 .tools-samping-kiri-ebb .jadwal-wawancara-tools-samping-zzD .group-80-Hbw .wawancara-M61 {
+  width: 11.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.3571rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP {
+  box-sizing: border-box;
+  padding-bottom: 35.9rem;
+  width: 100%;
+  height: 89.6rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h {
+  margin: 0rem 5.6rem 71.5rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 2.6rem 3.7rem 2rem;
+  width: 121.5rem;
+  height: 22.5rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd {
+  box-sizing: border-box;
+  padding: 2.1rem 3.5rem 2rem 3.5rem;
+  width: 116.9rem;
+  height: 16.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0.4rem rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, rgba(133, 211, 168, 0.1199999973) -0%, #5fbcb8 100%);
+  border-radius: 2rem;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f {
+  margin-right: 32.3rem;
+  width: 30.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-8bvh-UiM {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-8bvh-UiM .program-analiyst-S9P {
+  margin-right: 3.9rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-8bvh-UiM .ellipse-124-ZUu {
+  width: 2.7rem;
+  height: 2.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #35ac41;
+  border-radius: 1.35rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV {
+  box-sizing: border-box;
+  padding-top: 1.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .auto-group-8vn5-DJZ {
+  margin: 0rem 5.8rem 2.1rem 2.3rem;
+  width: calc(100% - 8.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .auto-group-8vn5-DJZ .ellipse-123-wEZ {
+  margin: 0rem 0.2rem 0.1rem 0rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #000000;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .auto-group-8vn5-DJZ .ditayangkan-pada-19-juli-2023-eem {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 {
+  width: 29.5rem;
+  height: 4rem;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o {
+  width: 100%;
+  height: 100%;
+  border-radius: 1rem;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 .group-43-Ecy {
+  margin-right: 2.75rem;
+  width: 12.35rem;
+  height: 100%;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 .group-43-Ecy .rectangle-706-aRw {
+  width: 12.35rem;
+  height: 3.0875rem;
+  position: absolute;
+  left: 0;
+  top: 0.4875rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fff6f7;
+  border-radius: 1rem;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 .group-43-Ecy .lihat-5db {
+  width: 3.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 4.3875rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.9675;
+  color: #000000;
+  font-family: Gurajada, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 .group-44-mFX {
+  width: 14.4rem;
+  height: 100%;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 .group-44-mFX .rectangle-704-7qB {
+  width: 12.35rem;
+  height: 3.0875rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  border: solid 0.1rem #390d0d;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ce2337;
+  border-radius: 1rem;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-mvxf-k1f .auto-group-pfqm-skV .group-42-At1 .group-41-L1o .group-39-tp1 .group-44-mFX .group-40-Q3b {
+  width: 10.7rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.7rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.9675;
+  color: #ffffff;
+  font-family: Gurajada, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-6wgv-RjP {
+  margin: 1.4rem 4rem 0rem 0rem;
+  width: 8.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-6wgv-RjP .rectangle-710-Z4u {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 8.2rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6899999976);
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-6wgv-RjP .antrean-qYD {
+  margin-left: 0.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-u521-N2M {
+  margin: 1.4rem 4.3rem 0rem 0rem;
+  width: 8.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-u521-N2M .rectangle-707-5xM {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 8.2rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6899999976);
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-u521-N2M .wawancara-Pi9 {
+  margin-left: 0.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-wpop-Kbo {
+  margin: 1.4rem 4rem 0rem 0rem;
+  width: 8.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-wpop-Kbo .rectangle-708-FEZ {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 8.2rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6899999976);
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-wpop-Kbo .terpilih-ZW9 {
+  margin-right: 0.8rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-rvhx-Vub {
+  margin-top: 1.2rem;
+  width: 8.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-rvhx-Vub .rectangle-709-Spq {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 8.2rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.0799999982);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(217, 217, 217, 0.6899999976);
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .list-job-dxd .auto-group-rvhx-Vub .sisa-kuota-Z8m {
+  margin-left: 0.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #000000;
+  font-family: Jockey One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .item-3-ooo {
+  width: 3.1rem;
+  height: 19.7rem;
+  position: absolute;
+  left: 69.4rem;
+  top: -2.7rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.9675;
+  color: #000000;
+  font-family: Gurajada, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .item-0-XE1 {
+  width: 3.7rem;
+  height: 19.7rem;
+  position: absolute;
+  left: 82rem;
+  top: -2.7rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.9675;
+  color: #000000;
+  font-family: Gurajada, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .item-0-dnq {
+  width: 3.7rem;
+  height: 19.7rem;
+  position: absolute;
+  left: 94.7rem;
+  top: -2.7rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.9675;
+  color: #000000;
+  font-family: Gurajada, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .joblist-P2h .property-1default-6C1 .item-0-MTw {
+  width: 3.7rem;
+  height: 19.7rem;
+  position: absolute;
+  left: 107.4rem;
+  top: -2.7rem;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.9675;
+  color: #000000;
+  font-family: Gurajada, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.brosur-lowongan-new-yqb .auto-group-pw6q-FBP .rectangle-594-Gau {
+  margin-right: 0.2rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.brosur-lowongan-new-yqb .auto-group-igfb-1YV {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

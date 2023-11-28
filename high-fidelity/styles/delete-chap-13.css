@@ -1,0 +1,549 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.delete-chap-13-6Fs {
+  width: 100%;
+  height: 102.4rem;
+}
+.delete-chap-13-6Fs .group-51-29X {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.delete-chap-13-6Fs .group-51-29X .rectangle-606-yKf {
+  width: 2.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 140.9rem;
+  top: 55.5rem;
+  background-color: #bdbdbd;
+  border-radius: 1.5rem;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #e3e3e3;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T {
+  margin-bottom: 18.2rem;
+  width: 145.1rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .masuk-iAm {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 133.6rem;
+  top: 15rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .rectangle-605-Crd {
+  width: 2.1rem;
+  height: 81.2rem;
+  position: absolute;
+  left: 142.9rem;
+  top: 16.4rem;
+  background-color: rgba(0, 0, 0, 0.150000006);
+  border-radius: 1.5rem;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .rectangle-595-WsK {
+  width: 145.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.47deg, #01d589 4.1%, #1dcba9 97.04%);
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .user-thumb-2am {
+  width: 4.616rem;
+  height: 4.6162rem;
+  position: absolute;
+  left: 129rem;
+  top: 11.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.8472rem;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .brosur-lowongan-Yp1 {
+  width: 15.2rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 26.8rem;
+  top: 14rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .keluar-r41 {
+  width: 5.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 136.5rem;
+  top: 12.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .logo-jobstreet-variant2-wbF {
+  width: 29.1rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .logo-jobstreet-variant2-wbF .logo-removebg-preview-2-H9K {
+  width: 29.1rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .rectangle-574-DHs {
+  width: 38.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 10.8rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .rectangle-606-WXs {
+  width: 2.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 142.9rem;
+  top: 18rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .footer-qKF {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .footer-qKF .tentang-jobstreet-express-j9j {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .footer-qKF .pusat-bantuan-3RK {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-9ufj-11T .footer-qKF .copyright-2023-jobstreet-express-AF3 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .rectangle-594-4rD {
+  margin: 0rem 0.2rem 36.2rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #44abc3;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-ek3t-nnD {
+  box-sizing: border-box;
+  padding: 6.1rem 21rem 6.2rem 21rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #921414;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-ek3t-nnD .line-20-iQy {
+  margin-right: 3rem;
+  width: 18rem;
+  height: 0.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-ek3t-nnD .line-21-Ffo {
+  margin-right: 51rem;
+  width: 12rem;
+  height: 0.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .preset-gUy .auto-group-ek3t-nnD .line-22-Cb3 {
+  width: 18rem;
+  height: 0.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb {
+  width: 127.9rem;
+  height: 81.7rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 19.9rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh {
+  margin-bottom: 3.5rem;
+  box-sizing: border-box;
+  padding: 2.2rem 2.5rem 1.7rem 3.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh .cari-karyawan-ARP {
+  margin: 0rem 4.7rem 0.8rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh .auto-group-e7a9-g8q {
+  margin: 0.1rem 57.8rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1.4rem 0.7rem 1.4rem;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh .auto-group-e7a9-g8q .search-BLV {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh .auto-group-3fn9-W7s {
+  margin-top: 0.1rem;
+  width: 27.6rem;
+  height: 3.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh .auto-group-3fn9-W7s .submit-eE5 {
+  width: 6.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-5qwd-rQh .auto-group-3fn9-W7s .digital-connectivity-ACR {
+  width: 27.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-mvth-Exy {
+  width: 100%;
+  height: 70.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-mvth-Exy .rectangle-617-njb {
+  width: 116.7rem;
+  height: 70.6rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-8jb .auto-group-mvth-Exy .tidak-ada-permintaan-vau {
+  width: 31.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 55rem;
+  top: 33.5rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #b0aaaa;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .footer-RXf {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.delete-chap-13-6Fs .group-51-29X .footer-RXf .tentang-jobstreet-express-Kd3 {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .footer-RXf .pusat-bantuan-dtd {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .footer-RXf .copyright-2023-jobstreet-express-xvu {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .rectangle-700-HTP {
+  width: 20rem;
+  height: 4rem;
+  position: absolute;
+  left: 62rem;
+  top: 13.1rem;
+  background-color: #381c88;
+  border-radius: 1rem;
+}
+.delete-chap-13-6Fs .group-51-29X .wawancara-ckZ {
+  width: 10.2rem;
+  height: 2.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 45.7rem;
+  top: 14.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .daftar-permintaan-XsX {
+  width: 15.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 63.9rem;
+  top: 14.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR {
+  width: 13.9285rem;
+  height: 27.7714rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 42.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .daftar-permintaan-tools-samping-m1B {
+  margin: 0rem 1.264rem 1.943rem 1.264rem;
+  width: calc(100% - 2.5285rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .daftar-permintaan-tools-samping-m1B .list-icon-t5o {
+  margin: 0rem 2.093rem 1.143rem 2.093rem;
+  box-sizing: border-box;
+  padding: 1rem 1.714rem 0.929rem 1.643rem;
+  width: calc(100% - 4.1855rem);
+  cursor: pointer;
+  box-shadow: -1.1rem 0.5rem 1rem rgba(30, 203, 170, 0.6100000143);
+  background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
+  border-radius: 3.6071rem;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .daftar-permintaan-tools-samping-m1B .list-icon-t5o .list-1-PoF {
+  width: 3.857rem;
+  height: 5.2857rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .daftar-permintaan-tools-samping-m1B .group-79-4uP {
+  width: 100%;
+  height: 4.5572rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .daftar-permintaan-tools-samping-m1B .group-79-4uP .daftar-RE9 {
+  width: 6.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .daftar-permintaan-tools-samping-m1B .group-79-4uP .permintaan-jEq {
+  width: 11.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.3572rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .jadwal-wawancara-tools-samping-RNZ {
+  box-sizing: border-box;
+  padding: 0 1.0643rem;
+  width: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .jadwal-wawancara-tools-samping-RNZ .calendar-ikon-9pM {
+  margin: 0rem 2.293rem 1.143rem 2.293rem;
+  box-sizing: border-box;
+  padding: 1.357rem 0rem 1.232rem 0rem;
+  width: calc(100% - 4.5855rem);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
+  border-radius: 3.6071rem;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .jadwal-wawancara-tools-samping-RNZ .calendar-ikon-9pM .calendar-1-4RX {
+  width: 6.2488rem;
+  height: 4.625rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .jadwal-wawancara-tools-samping-RNZ .group-80-J4y {
+  width: 100%;
+  height: 4.5571rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .jadwal-wawancara-tools-samping-RNZ .group-80-J4y .jadwal-FF7 {
+  width: 7.1rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.delete-chap-13-6Fs .group-51-29X .tools-samping-kiri-qNR .jadwal-wawancara-tools-samping-RNZ .group-80-J4y .wawancara-xQR {
+  width: 11.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.3571rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5675;
+  color: #ffffff;
+  font-family: Lalezar, 'Source Sans Pro';
+  white-space: nowrap;
+}

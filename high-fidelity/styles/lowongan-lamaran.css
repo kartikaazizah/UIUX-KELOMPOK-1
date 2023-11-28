@@ -1,0 +1,796 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 58.9rem;
+}.lowongan-lamaran-9Lm {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh {
+  width: 100%;
+  height: 34.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .rectangle-687-aS5 {
+  width: 54.9rem;
+  height: 34.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.2rem #01d589;
+  box-sizing: border-box;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .rectangle-688-gED {
+  width: 12.4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 39.7rem;
+  top: 28.3rem;
+  border: solid 0.1rem #015442;
+  box-sizing: border-box;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .emoji-briefcase-9tV {
+  width: 2.3636rem;
+  height: 2rem;
+  position: absolute;
+  left: 3rem;
+  top: 18rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .simpan-5XF {
+  width: 6.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 44rem;
+  top: 29.25rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .admin-administrasi-P29 {
+  width: 19.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3rem;
+  top: 2.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .pt-perdana-semesta-gemilang-logistik-5ff {
+  width: 39.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 6.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .dupak-surabaya-jawa-timur-yW9 {
+  width: 25.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 9.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .hari-yang-lalu-20-pelamar-gQZ {
+  width: 20.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 14rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .sekitar-rp-4-5-juta-bulan-zAM {
+  width: 18.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 18rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .capture-removebg-preview-4-VN1 {
+  width: 10.8rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .administrasi-merupakan-suatu-proses-penyelenggaraan-bersama-atau-proses-kerja-sama-antara-sekelompok-orang-secara--cSd {
+  width: 46.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 22.2rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.lowongan-lamaran-9Lm .property-1default-Feh .icon-bookmark-outline-UUq {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 42rem;
+  top: 29.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 {
+  box-sizing: border-box;
+  padding: 2.6rem 2.7rem 2.5rem 2.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .administrasi-logistik-hsP {
+  margin: 0rem 0rem 1.1rem 0.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P {
+  margin: 0rem 11.3rem 2.1rem 0.3rem;
+  width: calc(100% - 11.6rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P .capture1-removebg-preview-1-X5j {
+  margin: 0.1rem 0.7rem 0rem 0rem;
+  width: 9rem;
+  height: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P .auto-group-3nad-2YH {
+  width: 28.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P .auto-group-3nad-2YH .pt-ikon-surabaya-farmamart-yiR {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P .auto-group-3nad-2YH .auto-group-svnd-heR {
+  width: 100%;
+  height: 2.4rem;
+  position: relative;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P .auto-group-3nad-2YH .auto-group-svnd-heR .kalijudan-surabaya-jawa-timur-3yB {
+  width: 28.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-agxy-17P .auto-group-3nad-2YH .auto-group-svnd-heR .kalijudan-surabaya-jawa-timur-m8V {
+  width: 28.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .hari-yang-lalu-22-pelamar-fjf {
+  margin: 0rem 0rem 2.2rem 0.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-y1jh-MMb {
+  margin: 0rem 26.5rem 2.3rem 0.3rem;
+  width: calc(100% - 26.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-y1jh-MMb .emoji-briefcase-gPs {
+  margin-right: 1.9364rem;
+  width: 2.3636rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-y1jh-MMb .sekitar-rp-3-4-juta-bulan-bWq {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .pt-ikon-surabaya-farmamart-merupakan-perusahaan-yang-bergerak-dibidang-pedagang-besar-farmasi-consumer--vJD {
+  margin-bottom: 2rem;
+  max-width: 49.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-dwhj-Bjw {
+  margin: 0rem 0.1rem 0rem 37rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.6rem 1rem 2.3rem;
+  width: calc(100% - 37.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #015442;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-dwhj-Bjw .icon-bookmark-outline-gwb {
+  margin-top: 0.05rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant2-zi5 .auto-group-dwhj-Bjw .simpan-DwX {
+  margin-bottom: 0.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM {
+  box-sizing: border-box;
+  padding: 2.6rem 2.8rem 2.5rem 2.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .admin-stock-ypD {
+  margin: 0rem 0rem 1.1rem 0.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-mevf-twB {
+  margin: 0rem 11.5rem 2.1rem 0.3rem;
+  width: calc(100% - 11.8rem);
+  height: 5.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-mevf-twB .capture3-removebg-preview-9-p49 {
+  margin: 0.5rem 1.8rem 0rem 0rem;
+  width: 7.9rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-mevf-twB .auto-group-faed-XUM {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-mevf-twB .auto-group-faed-XUM .cv-berlian-retail-gMF {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-mevf-twB .auto-group-faed-XUM .ketabang-surabaya-jawa-timur-Qo3 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .hari-yang-lalu-23-pelamar-Y8Z {
+  margin: 0rem 0rem 2.2rem 0.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-2hyj-3LD {
+  margin: 0rem 26.4rem 2.4rem 0.3rem;
+  width: calc(100% - 26.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-2hyj-3LD .emoji-briefcase-mX7 {
+  margin-right: 1.9364rem;
+  width: 2.3636rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-2hyj-3LD .sekitar-rp-4-5-juta-bulan-Vxu {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .cv-berlian-retail-bergerak-di-bidang-fb-menu-yang-kami-sajikan-sangat-beragam-mulai-dari-traditional-food--qG5 {
+  margin-bottom: 1.9rem;
+  max-width: 47.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-bqa9-JvM {
+  margin-left: 37rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.6rem 1rem 2.3rem;
+  width: calc(100% - 37rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #015442;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-bqa9-JvM .icon-bookmark-outline-2bT {
+  margin-top: 0.05rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant3-4SM .auto-group-bqa9-JvM .simpan-xzu {
+  margin-bottom: 0.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh {
+  box-sizing: border-box;
+  padding: 2.3rem 2.8rem 2.5rem 2.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #01d589;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .staff-admin-W9F {
+  margin: 0rem 0rem 0.6rem 0.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-wycy-ou3 {
+  margin: 0rem 10.4rem 2.1rem 2rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-wycy-ou3 .capture2-removebg-preview-4-wEZ {
+  margin-right: 2.8rem;
+  width: 5.2rem;
+  height: 6.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-wycy-ou3 .auto-group-h5cu-sP7 {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-wycy-ou3 .auto-group-h5cu-sP7 .pt-kemilau-cahaya-inspirasi-RvR {
+  margin-bottom: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-wycy-ou3 .auto-group-h5cu-sP7 .bulak-surabaya-jawa-timur-kC1 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .hari-yang-lalu-25-pelamar-fpm {
+  margin: 0rem 0rem 2.2rem 0.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-ablm-AWd {
+  margin: 0rem 26.4rem 1.9rem 0.3rem;
+  width: calc(100% - 26.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-ablm-AWd .emoji-briefcase-69P {
+  margin-right: 1.9364rem;
+  width: 2.3636rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-ablm-AWd .sekitar-rp-3-5-juta-bulan-RSZ {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .melakukan-aktivitas-pembukuan-dasar-merencanakan-dan-mengatur-jalannya-rapat-atau-konferensi-menulis-dan--kUq {
+  margin-bottom: 2.4rem;
+  max-width: 42.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-bkn9-doX {
+  margin-left: 37rem;
+  box-sizing: border-box;
+  padding: 0.95rem 1.6rem 1rem 2.3rem;
+  width: calc(100% - 37rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #015442;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-bkn9-doX .icon-bookmark-outline-xL1 {
+  margin-top: 0.05rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1variant4-zgh .auto-group-bkn9-doX .simpan-Up9 {
+  margin-bottom: 0.05rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 {
+  width: 100%;
+  height: 34.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .rectangle-687-s5b {
+  width: 54.9rem;
+  height: 34.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.2rem #01d589;
+  box-sizing: border-box;
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .rectangle-688-5xM {
+  width: 13.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 38.6rem;
+  top: 28.3rem;
+  border: solid 0.2rem #015442;
+  box-sizing: border-box;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #b0aaaa;
+  border-radius: 2rem;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .emoji-briefcase-Aiu {
+  width: 2.3636rem;
+  height: 2rem;
+  position: absolute;
+  left: 3rem;
+  top: 18rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .tersimpan-6cZ {
+  width: 8.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 42.4rem;
+  top: 29.35rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .admin-administrasi-1Ud {
+  width: 19.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3rem;
+  top: 2.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .pt-perdana-semesta-gemilang-logistik-idw {
+  width: 39.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 6.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .dupak-surabaya-jawa-timur-E6V {
+  width: 25.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 9.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .hari-yang-lalu-20-pelamar-YN5 {
+  width: 20.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 13.8rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #534e4e;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .sekitar-rp-4-5-juta-bulan-4bK {
+  width: 18.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 18rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .capture-removebg-preview-4-yiH {
+  width: 10.8rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .administrasi-merupakan-suatu-proses-penyelenggaraan-bersama-atau-proses-kerja-sama-antara-sekelompok-orang-secara--huB {
+  width: 46.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 21.9rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .vector-y61 {
+  opacity: 0;
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 42rem;
+  top: 29.3rem;
+  background-color: rgba(255, 255, 255, 0);
+}
+.lowongan-lamaran-9Lm .property-1tersimpan-vw3 .icon-bookmark-uEZ {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 40.2rem;
+  top: 29.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,1128 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pencari-kerja-filter-pencarian-lowongan-kerja--j6q {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF {
+  margin-bottom: 11.8rem;
+  width: 100%;
+  height: 82.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb {
+  box-sizing: border-box;
+  padding: 0rem 7.5rem 0.3rem 4.5rem;
+  width: 144rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #ffffff -0%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .auto-group-yx13-ESu {
+  margin: 0rem 15.1rem 0.3rem 0rem;
+  width: 29.8rem;
+  height: 12.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .auto-group-yx13-ESu .logo-removebg-preview-1-kw3 {
+  width: 29.8rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .auto-group-yx13-ESu .nama-pekerjaan-5yK {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .di-mana-mLM {
+  margin-right: 2.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T {
+  margin: 3.4rem 0rem 6.8rem 0rem;
+  height: calc(100% - 10.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .icon-play-circle-outline-bKP {
+  margin: 0.04rem 0.2rem 0rem 0rem;
+  width: 2.3rem;
+  height: 2.3398rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .simulasi-h7X {
+  margin: 0rem 3.647rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .icon-person-bCu {
+  margin: 0.3rem 0.385rem 0rem 0rem;
+  width: 2.4684rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .profil-saya-6fT {
+  margin: 0rem 5.3rem 0.5rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .icon-bell-outline-CTb {
+  margin: 0rem 0.345rem 0.4rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .job-alert-7qT {
+  margin: 0rem 5.9rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .icon-bookmark-3DK {
+  margin: 0.2rem 0.045rem 0rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .lowongan-saya-Aoj {
+  margin: 0rem 7.3rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-3ryb-6bb .header-V1T .keluar-tjj {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP {
+  margin-bottom: 4rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .auto-group-qay7-AhF {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .auto-group-qay7-AhF .nama-pekerjaan-atau-perusahaan-tt9 {
+  margin-right: 29.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .auto-group-qay7-AhF .icon-search-outline-Qbb {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .auto-group-ugwt-Jws {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .auto-group-ugwt-Jws .nama-kota-atau-provinsi-SYH {
+  margin-right: 27.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .auto-group-ugwt-Jws .icon-pin-outline-y2R {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-nher-pdP .bottom-ffw {
+  width: 21rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(89.58deg, #004f3f 0.42%, #028a6e 99.64%);
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-yjeq-h6q {
+  margin-left: 1.8rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2.555rem 0rem 22.7rem;
+  width: 45.8rem;
+  height: 3.6rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .background-header-oMb .auto-group-yjeq-h6q .auto-group-hrnz-ovZ {
+  width: 100%;
+  height: 100%;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs {
+  width: 116.4rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 14rem;
+  top: 38.8rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .auto-group-qjdp-PNy {
+  margin: 0rem 80.5rem 2.336rem 0rem;
+  width: calc(100% - 80.5rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .auto-group-qjdp-PNy .icon-trending-up-7Jy {
+  margin-right: 1.1607rem;
+  width: 4.1393rem;
+  height: 4.3637rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .auto-group-qjdp-PNy .lowongan-yang-sering-dicari-Sc9 {
+  margin-top: 0.1363rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 {
+  margin: 0rem 0rem 4.8rem 0.5rem;
+  height: 16.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P {
+  margin: 0rem 2.838rem 0.021rem 0rem;
+  width: 13.1625rem;
+  height: calc(100% - 0.0215rem);
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .jabatan-xiu {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .auto-group-yuv1-hRb {
+  margin: 0rem 0rem 2.421rem 0.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.463rem 0.808rem 0.6rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .auto-group-yuv1-hRb .icon-pie-chart-2-zfb {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .auto-group-yuv1-hRb .admin-LDf {
+  margin-bottom: 0.0708rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .auto-group-hs9f-osw {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.263rem 0.808rem 0.6rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .auto-group-hs9f-osw .icon-pie-chart-2-KLV {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-hgxt-G5P .auto-group-hs9f-osw .barista-f9T {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D {
+  margin-right: 2.7rem;
+  width: 10.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D .auto-group-f9xm-hbw {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D .auto-group-f9xm-hbw .icon-pie-chart-2-pgZ {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D .auto-group-f9xm-hbw .kasir-9iq {
+  margin-bottom: 0.2708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D .auto-group-m6nd-TDj {
+  box-sizing: border-box;
+  padding: 0.8rem 0.9rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D .auto-group-m6nd-TDj .icon-pie-chart-2-B9j {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-jtx3-A6D .auto-group-m6nd-TDj .driver-i9f {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj {
+  margin-right: 2.8rem;
+  width: 19.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj .auto-group-22qh-Y8h {
+  margin: 0rem 0rem 2.4rem 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.7rem 0.829rem 0.6rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj .auto-group-22qh-Y8h .icon-pie-chart-2-qdb {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj .auto-group-22qh-Y8h .staff-marketing-sKP {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj .auto-group-gmxm-YRX {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.3rem 0.829rem 0.6rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj .auto-group-gmxm-YRX .icon-pie-chart-2-ToP {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-umz3-CKj .auto-group-gmxm-YRX .quality-control-nam {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT {
+  margin-right: 2.8rem;
+  width: 20.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT .auto-group-gxvt-Qs3 {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.4rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT .auto-group-gxvt-Qs3 .icon-pie-chart-2-8o3 {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT .auto-group-gxvt-Qs3 .staff-accounting-sVj {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT .auto-group-hfwf-y2y {
+  box-sizing: border-box;
+  padding: 0.8rem 2.5rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT .auto-group-hfwf-y2y .icon-pie-chart-2-VX7 {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-ueft-fuT .auto-group-hfwf-y2y .content-creator-2mw {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih {
+  margin-right: 2.3rem;
+  width: 17.2rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih .auto-group-srum-GwB {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih .auto-group-srum-GwB .icon-pie-chart-2-1Ny {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih .auto-group-srum-GwB .staff-gudang-8yP {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih .auto-group-u9qm-qcu {
+  margin-right: 6.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.2rem 0.829rem 0.6rem;
+  width: calc(100% - 6.4rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih .auto-group-u9qm-qcu .icon-pie-chart-2-ZYu {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-pvnv-Xih .auto-group-u9qm-qcu .host-6Yq {
+  margin-bottom: 0.0708rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-erms-Q3j {
+  margin: 4.8rem 0rem 6.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.1rem 0.829rem 1.1rem;
+  height: calc(100% - 11.7rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-erms-Q3j .icon-pie-chart-2-hHj {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
+  height: 2.8708rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-90-k73 .auto-group-erms-Q3j .customer-service-EoT {
+  margin-bottom: 0.0708rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ {
+  margin-left: 0.7rem;
+  width: 111.8rem;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .perusahaan-5JH {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .group-88-9ow {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 0.9rem 0.7rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .group-88-9ow .emoji-office-building-gJ5 {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .group-88-9ow .ganesha-operation-surabaya-dsk-QE5 {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .auto-group-79sx-VFX {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.6rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .auto-group-79sx-VFX .emoji-office-building-cL9 {
+  margin-right: 0.9rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .auto-group-79sx-VFX .pt-media-telekomunikasi-mandiri-w7X {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .auto-group-o5mb-Daq {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .auto-group-o5mb-Daq .emoji-office-building-9UV {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-xhqk-cJD .auto-group-o5mb-Daq .pt-arta-boga-boga-cemerlang-Umf {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq {
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-b87b-WiM {
+  margin: 0.2rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.2rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-b87b-WiM .emoji-office-building-cmP {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-b87b-WiM .cv-berlian-retail-wof {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-dsnm-2aD {
+  margin: 0.2rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.7rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-dsnm-2aD .emoji-office-building-wSH {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-dsnm-2aD .panara-course-GUZ {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-vxc1-kuX {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.4rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-vxc1-kuX .emoji-office-building-UKj {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-vxc1-kuX .bali-super-host-QjB {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-zsiy-hiH {
+  margin-bottom: 0.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.7rem 0.7rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-zsiy-hiH .emoji-office-building-2kZ {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .yang-sering-dicari-fhs .group-89-XnZ .auto-group-wuyr-xgq .auto-group-zsiy-hiH .angonjiwo-a1P {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP {
+  box-sizing: border-box;
+  padding: 0rem 2.755rem 0rem 2.4rem;
+  width: 45.9rem;
+  height: 21rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 23.3rem;
+  border-left: solid 0.1rem #777777;
+  border-right: solid 0.1rem #777777;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-es29-gTj {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 3.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-es29-gTj .semua-jenis-pekerjaan-RgD {
+  margin-right: 0.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-es29-gTj .auto-group-bzmf-9cD {
+  width: 20.5453rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-es29-gTj .auto-group-bzmf-9cD .line-171-u5b {
+  width: 0.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 0;
+  background-color: #777777;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-es29-gTj .auto-group-bzmf-9cD .kapan-saja-C4h {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 0.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-es29-gTj .auto-group-bzmf-9cD .icon-arrow-ios-downward-sRj {
+  width: 20.5453rem;
+  height: 2.9878rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-dsgm-nob {
+  box-sizing: border-box;
+  padding: 1.4rem 1.5rem 1.7rem 1.9rem;
+  width: 23.7rem;
+  background-color: #96d1c5;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-dsgm-nob .semua-jenis-pekerjaan-c1w {
+  margin-bottom: 1.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-dsgm-nob .line-256-X8u {
+  margin-bottom: 1.25rem;
+  width: 100%;
+  height: 0.05rem;
+  background-color: #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-dsgm-nob .full-time-SWm {
+  margin: 0rem 0rem 1.5rem 0.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-dsgm-nob .line-257-ZbP {
+  margin-bottom: 1.25rem;
+  width: 100%;
+  height: 0.05rem;
+  background-color: #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-nvtr-rhF .semua-jenis-pekerjaan-SZP .auto-group-mohb-8SD .auto-group-dsgm-nob .part-time-65X {
+  margin-left: 0.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .footer-A5P {
+  margin-bottom: 18.2rem;
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .footer-A5P .tentang-jobstreet-express-5TF {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .footer-A5P .pusat-bantuan-Piq {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .footer-A5P .copyright-2023-jobstreet-express-vCy {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .rectangle-594-EDf {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.pencari-kerja-filter-pencarian-lowongan-kerja--j6q .auto-group-q5a9-x9f {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

@@ -1,0 +1,67 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 27.9rem;
+}.button-pilihan-masuk2-tnD {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.button-pilihan-masuk2-tnD .property-1default-EbB {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 3.7rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90deg, #015443 4.18%, #03866b 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.button-pilihan-masuk2-tnD .property-1variant2-UEd {
+  width: 100%;
+  height: 3.7rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #015442;
+  box-sizing: border-box;
+  background-color: #b0aaaa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

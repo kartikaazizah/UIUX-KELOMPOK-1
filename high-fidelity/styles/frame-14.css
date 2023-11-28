@@ -1,0 +1,35 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 69.1rem;
+}.frame-14-PLm {
+  width: 100%;
+  height: 6.9rem;
+}
+.frame-14-PLm .group-52-YDf {
+  width: 100%;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}

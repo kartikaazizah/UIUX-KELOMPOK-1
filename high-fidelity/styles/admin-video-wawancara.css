@@ -1,0 +1,495 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-video-wawancara-hWy {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.admin-video-wawancara-hWy .header-admin-q7P {
+  box-sizing: border-box;
+  padding: 0rem 3rem 0rem 5rem;
+  width: 100%;
+  height: 11.8rem;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .logo-removebg-preview-1-MLd {
+  margin-right: 38rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 {
+  margin-bottom: 5.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .home-page-QZo {
+  margin-top: 0.2rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ {
+  margin: 0rem 0.383rem 0.4rem 0rem;
+  width: 21.1167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ .daftar-pt-3sf {
+  width: 8.2rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 9.3rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ .icon-play-circle-outline-Y3j {
+  width: 16.9167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ .icon-play-circle-outline-Y3j .vector-FD3 {
+  margin: 0rem 12.7rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3399rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ .icon-play-circle-outline-Y3j .group-N2m {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ .vector-Vt5 {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .auto-group-rfjr-LCZ .home-38u {
+  width: 5.1rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .simulasi-wVB {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .people-rMF {
+  margin: 0.3rem 0.4rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .pelamar-NqP {
+  margin: 0.1rem 1.2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .graph-tHw {
+  margin-top: 0.7rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .statistik-Rof {
+  margin: 0.3rem 2rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .icon-person-9jf {
+  margin: 0.3rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .header-admin-q7P .header-fs7 .profil-saya-Umw {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy {
+  box-sizing: border-box;
+  padding: 1.7rem 0rem 1.8rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .header-7pu {
+  margin-bottom: 1.9rem;
+  box-sizing: border-box;
+  padding-left: 19.565rem;
+  width: 35.365rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB {
+  margin: 0rem 9rem 3.2rem 9.2rem;
+  width: calc(100% - 18.2rem);
+  height: 33rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-Y9X {
+  margin-right: 17.8rem;
+  box-sizing: border-box;
+  padding: 2.75rem 2.818rem 2.336rem 2.813rem;
+  width: 54rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-Y9X .group-25-T1b {
+  margin: 0rem 0rem 1.916rem 0.031rem;
+  width: calc(100% - 0.031rem);
+  height: 21.998rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-Y9X .group-25-T1b .vector-ykd {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-Y9X .group-25-T1b .vector-7M3 {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-Y9X .judul-video-q29 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-H93 {
+  box-sizing: border-box;
+  padding: 2.75rem 2.818rem 2.336rem 2.813rem;
+  width: 54rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-H93 .group-25-zp9 {
+  margin: 0rem 0rem 1.916rem 0.031rem;
+  width: calc(100% - 0.031rem);
+  height: 21.998rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-H93 .group-25-zp9 .vector-uw7 {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-H93 .group-25-zp9 .vector-TBw {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-n4vm-2BB .konten-video-H93 .judul-video-anM {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 {
+  margin: 0rem 8.7rem 1.7rem 9.2rem;
+  width: calc(100% - 17.9rem);
+  height: 33rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-PE1 {
+  margin-right: 18.1rem;
+  box-sizing: border-box;
+  padding: 2.75rem 2.818rem 2.336rem 2.813rem;
+  width: 54rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-PE1 .group-25-Jbs {
+  margin: 0rem 0rem 1.916rem 0.031rem;
+  width: calc(100% - 0.031rem);
+  height: 21.998rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-PE1 .group-25-Jbs .vector-3JZ {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-PE1 .group-25-Jbs .vector-a3b {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-PE1 .judul-video-uLm {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-NEM {
+  box-sizing: border-box;
+  padding: 2.75rem 2.818rem 2.336rem 2.813rem;
+  width: 54rem;
+  height: 100%;
+  cursor: pointer;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-NEM .group-25-hXX {
+  margin: 0rem 0rem 1.916rem 0.031rem;
+  width: calc(100% - 0.031rem);
+  height: 21.998rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-NEM .group-25-hXX .vector-Dkm {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-NEM .group-25-hXX .vector-ZJq {
+  width: 48.3383rem;
+  height: 21.998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .auto-group-zwgy-f37 .konten-video-NEM .judul-video-guF {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-video-wawancara-hWy .auto-group-nqwm-apy .button-admin-AZX {
+  margin-left: 9.2rem;
+  width: 20.8rem;
+  height: 4rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .footer-Cm7 {
+  margin-bottom: 18.2rem;
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .footer-Cm7 .tentang-jobstreet-express-jFF {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .footer-Cm7 .pusat-bantuan-qp5 {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .footer-Cm7 .copyright-2023-jobstreet-express-AbT {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .rectangle-594-5iR {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.admin-video-wawancara-hWy .auto-group-fjfx-oeR {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

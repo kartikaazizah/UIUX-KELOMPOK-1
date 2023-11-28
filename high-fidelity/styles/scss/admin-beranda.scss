@@ -1,0 +1,966 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-beranda-EDw {
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+
+  .header-admin-9bo {
+    width: 100%;
+    height: 11.8rem;
+    display: flex;
+    align-items: flex-start;
+    background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0rem 3.2rem 0rem 5rem;
+
+    .logo-removebg-preview-1-eoT {
+      margin-right: 37.1rem;
+      width: 29.8rem;
+      height: 10.9rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .header-NjT {
+      align-items: center;
+      flex-shrink: 0;
+      margin-bottom: 6.1rem;
+      display: flex;
+
+      .home-page-iHX {
+        width: 2.7rem;
+        height: 2.7rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .auto-group-pncq-dvH {
+        width: 22.2167rem;
+        height: 2.9rem;
+        position: relative;
+        flex-shrink: 0;
+        margin: 0rem 0.183rem 0.2rem 0rem;
+
+        .icon-play-circle-outline-MLV {
+          left: 5rem;
+          top: 0;
+          display: flex;
+          align-items: flex-end;
+          width: 17.2167rem;
+          height: 2.5499rem;
+          position: absolute;
+
+          .vector-sZj {
+            margin: 0rem 13rem 0.21rem 0rem;
+            opacity: 0;
+            width: 2.3rem;
+            height: 2.3399rem;
+            background-color: rgba(255, 255, 255, 0);
+            flex-shrink: 0;
+          }
+          .group-mv1 {
+            flex-shrink: 0;
+            width: 1.9167rem;
+            height: 1.9499rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .daftar-pt-X8V {
+          white-space: nowrap;
+          width: 8.2rem;
+          height: 2.4rem;
+          font-size: 1.8rem;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          font-weight: 600;
+          line-height: 1.3175;
+          color: #000000;
+          cursor: pointer;
+          position: absolute;
+          left: 10.2rem;
+          top: 0.2rem;
+        }
+        .vector-CkR {
+          height: 2.7rem;
+          position: absolute;
+          left: 7.2rem;
+          top: 0.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.7rem;
+        }
+        .home-Y3b {
+          white-space: nowrap;
+          height: 2.4rem;
+          position: absolute;
+          font-size: 1.8rem;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          line-height: 1.3175;
+          color: #015442;
+          width: 5.1rem;
+          left: 0;
+          top: 0.3rem;
+          font-weight: 600;
+        }
+      }
+      .simulasi-FCu {
+        font-family: Roboto Slab, 'Source Sans Pro';
+        line-height: 1.3175;
+        color: #000000;
+        font-size: 1.8rem;
+        font-weight: 600;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 1.6rem 0.3rem 0rem;
+        cursor: pointer;
+      }
+      .people-jds {
+        margin: 0.1rem 0.3rem 0rem 0rem;
+        width: 2.4rem;
+        height: 2.6rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .auto-group-dfnr-G81 {
+        margin: 0rem 1.7rem 0.5rem 0rem;
+        width: 7.2rem;
+        height: 2.6rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .pelamar-Bkm {
+          left: 0;
+          top: 0.2rem;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 2.4rem;
+          cursor: pointer;
+          position: absolute;
+          line-height: 1.3175;
+          width: 7.2rem;
+          font-size: 1.8rem;
+          font-weight: 600;
+        }
+        .vector-hDK {
+          top: 0;
+          background-color: rgba(255, 255, 255, 0);
+          opacity: 0;
+          width: 2.4555rem;
+          height: 2.5rem;
+          position: absolute;
+          left: 4.1rem;
+        }
+      }
+      .graph-1zh {
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        width: 2.4rem;
+        height: 2.6rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .statistik-A6u {
+        margin: 0rem 1.2rem 0.3rem 0rem;
+        cursor: pointer;
+        font-size: 1.8rem;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        font-weight: 600;
+        line-height: 1.3175;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .icon-person-UNV {
+        width: 2.4685rem;
+        height: 2.6rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0.5rem 0.332rem 0rem 0rem;
+      }
+      .profil-saya-bi1 {
+        font-size: 1.8rem;
+        font-weight: 600;
+        line-height: 1.3175;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 0.3rem;
+      }
+    }
+  }
+  .auto-group-kskp-th7 {
+    flex-shrink: 0;
+    margin: 0rem 0.2rem 0rem 6.4rem;
+    width: calc(100% - 6.6rem);
+    height: 82.7rem;
+    display: flex;
+    align-items: center;
+
+    .auto-group-enjk-DDb {
+      padding: 3.9rem 2rem 3.9rem 0rem;
+      height: 100%;
+      display: flex;
+      column-gap: 8.4rem;
+      align-items: center;
+      flex-shrink: 0;
+      box-sizing: border-box;
+
+      .auto-group-xk8h-LJD {
+        width: 38.8rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .background-header-5Wh {
+          height: 35.5rem;
+          background-size: 100% 100%;
+          background-position: center;
+          border-radius: 2rem;
+          flex-shrink: 0;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          margin-bottom: 3.9rem;
+          width: 100%;
+          position: relative;
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+
+          .rectangle-685-DN1 {
+            top: 1.7rem;
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: rgba(241, 229, 156, 0.5333333611);
+            border-radius: 2.5rem;
+            width: 34rem;
+            height: 32.1rem;
+            position: absolute;
+            left: 2.4rem;
+          }
+          .surabaya-jawa-timur-W6D {
+            font-family: Roboto Slab, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 14rem;
+            height: 1.8rem;
+            left: 10.4rem;
+            top: 7.25rem;
+            display: flex;
+            position: absolute;
+            font-size: 1.3rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            color: #000000;
+          }
+          .telkom-tel-2-aLy {
+            height: 5.5rem;
+            position: absolute;
+            left: 3.5rem;
+            top: 2.7rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 6.9rem;
+          }
+          .pt-telkom-indonesia-tbk-hwP {
+            height: 1.8rem;
+            top: 3.15rem;
+            line-height: 1.3175;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            font-weight: 600;
+            color: #000000;
+            white-space: nowrap;
+            width: 16.1rem;
+            position: absolute;
+            left: 10.4rem;
+            display: flex;
+            font-size: 1.3rem;
+          }
+          .data-analyst-QL1 {
+            width: 8rem;
+            height: 1.8rem;
+            position: absolute;
+            font-weight: 600;
+            white-space: nowrap;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            left: 10.4rem;
+            top: 5.25rem;
+            display: flex;
+            font-size: 1.3rem;
+            line-height: 1.3175;
+          }
+          .mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-i5o {
+            left: 3.5rem;
+            font-size: 1.8rem;
+            line-height: 1.3175;
+            display: flex;
+            font-weight: 400;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 32.8rem;
+            height: 14.3rem;
+            position: absolute;
+            top: 12.3rem;
+          }
+          .button-admin-M8m {
+            position: absolute;
+            left: 22.4rem;
+            line-height: 1.2975;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            border-radius: 2rem;
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+            width: 12.7rem;
+            top: 28.5rem;
+            font-size: 1.8rem;
+            color: #ffffff;
+            align-items: center;
+            justify-content: center;
+            height: 4rem;
+            font-weight: 400;
+            font-family: Candal, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+          }
+        }
+        .background-header-uZb {
+          flex-shrink: 0;
+          width: 100%;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+          height: 35.5rem;
+          position: relative;
+          border-radius: 2rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+          .rectangle-688-T5K {
+            border-radius: 2.5rem;
+            width: 34rem;
+            height: 32.1rem;
+            position: absolute;
+            left: 2.4rem;
+            top: 1.7rem;
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: rgba(241, 229, 156, 0.5333333611);
+          }
+          .surabaya-jawa-timur-9iq {
+            left: 10.4rem;
+            top: 7.25rem;
+            font-weight: 600;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 14rem;
+            position: absolute;
+            display: flex;
+            font-size: 1.3rem;
+            line-height: 1.3175;
+            height: 1.8rem;
+          }
+          .telkom-tel-3-rt9 {
+            left: 3.5rem;
+            top: 2.7rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 6.9rem;
+            height: 5.5rem;
+            position: absolute;
+          }
+          .pt-telkom-indonesia-tbk-oHb {
+            left: 10.4rem;
+            top: 3.15rem;
+            display: flex;
+            font-weight: 600;
+            color: #000000;
+            width: 16.1rem;
+            height: 1.8rem;
+            position: absolute;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            font-size: 1.3rem;
+            line-height: 1.3175;
+            white-space: nowrap;
+          }
+          .data-analyst-7ZB {
+            top: 5.05rem;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            white-space: nowrap;
+            left: 10.4rem;
+            height: 1.8rem;
+            position: absolute;
+            display: flex;
+            font-size: 1.3rem;
+            font-weight: 600;
+            width: 8rem;
+          }
+          .mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-dnR {
+            left: 3rem;
+            display: flex;
+            font-weight: 400;
+            height: 14.3rem;
+            position: absolute;
+            top: 12.3rem;
+            font-size: 1.8rem;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 32.8rem;
+          }
+          .button-admin-o4d {
+            position: absolute;
+            font-weight: 400;
+            border-radius: 2rem;
+            height: 4rem;
+            line-height: 1.2975;
+            color: #ffffff;
+            display: flex;
+            width: 12.7rem;
+            top: 28rem;
+            white-space: nowrap;
+            align-items: center;
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+            left: 22.4rem;
+            font-size: 1.8rem;
+            font-family: Candal, 'Source Sans Pro';
+            justify-content: center;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+          }
+        }
+      }
+      .auto-group-kuyp-mvZ {
+        width: 38.9rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .background-header-Kx5 {
+          background-position: center;
+          border-radius: 2rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          position: relative;
+          background-size: 100% 100%;
+          height: 35.5rem;
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+          margin-bottom: 3.9rem;
+          width: 100%;
+
+          .rectangle-686-G6d {
+            width: 34rem;
+            height: 32.1rem;
+            position: absolute;
+            left: 2.4rem;
+            top: 1.7rem;
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: rgba(241, 229, 156, 0.5333333611);
+            border-radius: 2.5rem;
+          }
+          .image-57-ZLd {
+            left: 3.3rem;
+            top: 3.6rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 6.3rem;
+            height: 5rem;
+            position: absolute;
+          }
+          .pt-primaindo-nusantara-manufacture-5pm {
+            left: 10.6rem;
+            display: flex;
+            line-height: 1.3175;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 18.6rem;
+            height: 3.5rem;
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #000000;
+            position: absolute;
+            top: 3rem;
+          }
+          .staff-administrasi-PaZ {
+            left: 10.5rem;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            font-size: 1.3rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            width: 11.4rem;
+            height: 1.8rem;
+            position: absolute;
+            top: 6.65rem;
+            display: flex;
+            white-space: nowrap;
+          }
+          .deskripsi-pekerjaan-administrasi-keuangan-data-invoice-tagihan-rekap-keuangan-uang-masuk-dan-keluar-laporan-keuangan-laba-rugi-menguasai-excel-personal-assistant-uJ1 {
+            width: 31.4rem;
+            height: 14.3rem;
+            left: 3.3rem;
+            display: flex;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            position: absolute;
+            top: 12.3rem;
+            font-size: 1.8rem;
+            font-weight: 400;
+          }
+          .jakarta-j29 {
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 4.9rem;
+            left: 29.4rem;
+            top: 6.65rem;
+            display: flex;
+            font-weight: 600;
+            height: 1.8rem;
+            position: absolute;
+            font-size: 1.3rem;
+            line-height: 1.3175;
+          }
+          .button-admin-SBT {
+            left: 22.6rem;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+            font-size: 1.8rem;
+            white-space: nowrap;
+            display: flex;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            width: 12.7rem;
+            top: 28.5rem;
+            font-weight: 400;
+            line-height: 1.2975;
+            color: #ffffff;
+            border-radius: 2rem;
+            height: 4rem;
+            position: absolute;
+            font-family: Candal, 'Source Sans Pro';
+          }
+        }
+        .background-header-DbX {
+          height: 35.5rem;
+          position: relative;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          width: 38.8rem;
+          background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+          border-radius: 2rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background-position: center;
+
+          .rectangle-689-m7F {
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: rgba(241, 229, 156, 0.5333333611);
+            border-radius: 2.5rem;
+            width: 34rem;
+            height: 32.1rem;
+            position: absolute;
+            left: 2.4rem;
+            top: 1.7rem;
+          }
+          .image-58-fiR {
+            left: 3.3rem;
+            top: 2.7rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 6.3rem;
+            height: 5rem;
+            position: absolute;
+          }
+          .pt-primaindo-nusantara-manufacture-aaV {
+            height: 3.5rem;
+            top: 2.6rem;
+            font-size: 1.3rem;
+            line-height: 1.3175;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 18.6rem;
+            left: 10.6rem;
+            display: flex;
+            font-weight: 600;
+            color: #000000;
+            position: absolute;
+          }
+          .staff-administrasi-spV {
+            position: absolute;
+            display: flex;
+            line-height: 1.3175;
+            color: #000000;
+            width: 11.4rem;
+            height: 1.8rem;
+            left: 10.5rem;
+            top: 5.65rem;
+            font-size: 1.3rem;
+            font-weight: 600;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .deskripsi-pekerjaan-administrasi-keuangan-data-invoice-tagihan-rekap-keuangan-uang-masuk-dan-keluar-laporan-keuangan-laba-rugi-menguasai-excel-personal-assistant-NWM {
+            left: 3.5rem;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 31.4rem;
+            position: absolute;
+            top: 12.3rem;
+            display: flex;
+            font-size: 1.8rem;
+            font-weight: 400;
+            line-height: 1.3175;
+            color: #000000;
+            height: 14.3rem;
+          }
+          .jakarta-btu {
+            position: absolute;
+            top: 5.85rem;
+            line-height: 1.3175;
+            color: #000000;
+            font-size: 1.3rem;
+            font-weight: 600;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 4.9rem;
+            height: 1.8rem;
+            left: 29.4rem;
+            display: flex;
+          }
+          .button-admin-889 {
+            white-space: nowrap;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+            border-radius: 2rem;
+            width: 12.7rem;
+            line-height: 1.2975;
+            font-weight: 400;
+            color: #ffffff;
+            align-items: center;
+            top: 28.5rem;
+            font-size: 1.8rem;
+            display: flex;
+            left: 22.1rem;
+            font-family: Candal, 'Source Sans Pro';
+            justify-content: center;
+            height: 4rem;
+            position: absolute;
+          }
+        }
+      }
+      .auto-group-hwob-7Ey {
+        flex-direction: column;
+        flex-shrink: 0;
+        width: 38.8rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+
+        .background-header-f1b {
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          margin-bottom: 3.9rem;
+          width: 100%;
+          background-repeat: no-repeat;
+          background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+          border-radius: 2rem;
+          flex-shrink: 0;
+          height: 35.5rem;
+          position: relative;
+          background-size: 100% 100%;
+          background-position: center;
+
+          .rectangle-687-zpZ {
+            position: absolute;
+            left: 2.4rem;
+            top: 1.7rem;
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: rgba(241, 229, 156, 0.5333333611);
+            border-radius: 2.5rem;
+            width: 34rem;
+            height: 32.1rem;
+          }
+          .khusus-pria-pendidikan-s1-semua-jurusan-manajemen-dan-ilmu-komunikasi-lebih-diutamakan-fresh-graduate-pengalaman-minimal-1-tahun-lebih-diutamakan-memiliki-kemampuan-komunikasi-dan-negosiasi-yang-baik--ugd {
+            font-weight: 400;
+            line-height: 1.3175;
+            color: #000000;
+            width: 32rem;
+            height: 16.7rem;
+            left: 3.5rem;
+            font-size: 1.8rem;
+            position: absolute;
+            top: 12.3rem;
+            display: flex;
+            font-family: Roboto Slab, 'Source Sans Pro';
+          }
+          .sales-promotion-representative-aspr-LG9 {
+            color: #000000;
+            position: absolute;
+            font-size: 1.3rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            display: flex;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 14rem;
+            height: 3.5rem;
+            left: 12.7rem;
+            top: 4.7rem;
+          }
+          .image-57-Dqj {
+            height: 3.5rem;
+            position: absolute;
+            left: 2.4rem;
+            top: 3rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 11.2rem;
+          }
+          .pt-indofood-AFB {
+            width: 7.8rem;
+            position: absolute;
+            left: 13.3rem;
+            top: 2.95rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            height: 1.8rem;
+            display: flex;
+            font-size: 1.3rem;
+            color: #000000;
+            white-space: nowrap;
+          }
+          .jakarta-gDX {
+            height: 1.8rem;
+            position: absolute;
+            display: flex;
+            font-size: 1.3rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 4.9rem;
+            left: 29.4rem;
+            top: 4.85rem;
+            white-space: nowrap;
+          }
+          .button-admin-Q9X {
+            height: 4rem;
+            top: 28.5rem;
+            color: #ffffff;
+            white-space: nowrap;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            justify-content: center;
+            border-radius: 2rem;
+            width: 12.7rem;
+            position: absolute;
+            font-weight: 400;
+            line-height: 1.2975;
+            font-family: Candal, 'Source Sans Pro';
+            display: flex;
+            align-items: center;
+            left: 22.1rem;
+            font-size: 1.8rem;
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+          }
+        }
+        .background-header-bUu {
+          position: relative;
+          background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+          flex-shrink: 0;
+          height: 35.5rem;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          border-radius: 2rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          width: 100%;
+
+          .rectangle-690-j5K {
+            height: 32.1rem;
+            position: absolute;
+            left: 2.4rem;
+            top: 1.7rem;
+            box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+            background-color: rgba(241, 229, 156, 0.5333333611);
+            border-radius: 2.5rem;
+            width: 34rem;
+          }
+          .khusus-pria-pendidikan-s1-semua-jurusan-manajemen-dan-ilmu-komunikasi-lebih-diutamakan-fresh-graduate-pengalaman-minimal-1-tahun-lebih-diutamakan-memiliki-kemampuan-komunikasi-dan-negosiasi-yang-baik--dgV {
+            position: absolute;
+            left: 3.8rem;
+            display: flex;
+            font-size: 1.8rem;
+            font-weight: 400;
+            line-height: 1.3175;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            height: 16.7rem;
+            top: 12.3rem;
+            color: #000000;
+            width: 32rem;
+          }
+          .sales-promotion-representative-aspr-4mo {
+            top: 4.4rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 14rem;
+            height: 3.5rem;
+            position: absolute;
+            left: 13.2rem;
+            display: flex;
+            font-size: 1.3rem;
+          }
+          .image-59-Apq {
+            width: 11.2rem;
+            height: 3.5rem;
+            position: absolute;
+            left: 2.4rem;
+            top: 3rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+          .pt-indofood-6yP {
+            line-height: 1.3175;
+            color: #000000;
+            height: 1.8rem;
+            position: absolute;
+            left: 13.3rem;
+            top: 2.65rem;
+            display: flex;
+            font-size: 1.3rem;
+            font-weight: 600;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            width: 7.8rem;
+            white-space: nowrap;
+          }
+          .jakarta-Qz5 {
+            white-space: nowrap;
+            width: 4.9rem;
+            top: 4.55rem;
+            display: flex;
+            font-size: 1.3rem;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            color: #000000;
+            height: 1.8rem;
+            position: absolute;
+            left: 30.4rem;
+            font-weight: 600;
+            line-height: 1.3175;
+          }
+          .button-admin-8fB {
+            height: 4rem;
+            left: 22.1rem;
+            font-family: Candal, 'Source Sans Pro';
+            justify-content: center;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+            position: absolute;
+            top: 28.5rem;
+            font-size: 1.8rem;
+            white-space: nowrap;
+            display: flex;
+            line-height: 1.2975;
+            width: 12.7rem;
+            font-weight: 400;
+            color: #ffffff;
+            align-items: center;
+            border-radius: 2rem;
+          }
+        }
+      }
+    }
+    .auto-group-atcm-idP {
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.150000006);
+      border-radius: 1.5rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.5rem 0;
+      width: 2.1rem;
+
+      .rectangle-685-U6m {
+        width: 100%;
+        height: 6.2rem;
+        background-color: #ffffff;
+        border-radius: 1.5rem;
+      }
+    }
+  }
+  .footer-zqo {
+    padding: 2.7rem 15.1rem 2.8rem 14rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #008a88;
+    flex-shrink: 0;
+    margin-bottom: 18.2rem;
+    box-sizing: border-box;
+
+    .tentang-jobstreet-express-X53 {
+      margin-right: 4.6rem;
+      line-height: 1.3175;
+      color: #ffffff;
+      white-space: nowrap;
+      display: flex;
+      font-size: 1.8rem;
+      font-weight: 400;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .pusat-bantuan-qLd {
+      font-weight: 400;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: flex;
+      font-size: 1.8rem;
+      line-height: 1.3175;
+      color: #ffffff;
+      margin-right: 44.9rem;
+    }
+    .copyright-2023-jobstreet-express-Mpm {
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: flex;
+      font-size: 1.8rem;
+      font-weight: 400;
+      line-height: 1.3175;
+      color: #ffffff;
+    }
+  }
+  .rectangle-594-GRw {
+    height: 35.5rem;
+    background-color: #8c8989;
+    flex-shrink: 0;
+    margin: 0rem 0.2rem 35.9rem 0rem;
+    width: 144.5rem;
+  }
+  .auto-group-atuw-PmT {
+    height: 12.8rem;
+    background-color: #999393;
+    border-top: solid 0.5rem #000000;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    width: 100%;
+  }
+}

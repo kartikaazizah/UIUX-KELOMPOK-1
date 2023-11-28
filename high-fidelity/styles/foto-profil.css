@@ -1,0 +1,34 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 30rem;
+}.foto-profil-NM7 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  height: 30rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #02d589 -0%, #1dcba9 100%);
+  border-radius: 15rem;
+}
+.foto-profil-NM7 .ellipse-125-WTK {
+  width: 100%;
+  height: 26rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-125-bg-nKj.png');
+  border-radius: 13rem;
+}

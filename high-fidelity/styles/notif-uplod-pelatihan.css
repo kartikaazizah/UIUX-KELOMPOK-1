@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 52rem;
+}.notif-uplod-pelatihan-crV {
+  box-sizing: border-box;
+  padding: 2rem 2rem 5.8rem 1.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.notif-uplod-pelatihan-crV .property-1default-wNy {
+  margin: 0rem 0rem 14.9rem 0.1rem;
+  box-sizing: border-box;
+  padding: 5.65rem 11rem 4.4rem 11.1rem;
+  width: 48rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #a6e79b -0%, #3ba6c8 100%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.notif-uplod-pelatihan-crV .property-1default-wNy .upolad-video-training-berhasil-Row {
+  margin-bottom: 1.85rem;
+  max-width: 25.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.notif-uplod-pelatihan-crV .property-1default-wNy .auto-group-lqox-vkh {
+  margin: 0rem 6.6rem 0rem 6.4rem;
+  width: calc(100% - 13rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #96d1c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.notif-uplod-pelatihan-crV .property-1variant2-7aH {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 5.65rem 11rem 4.4rem 11.1rem;
+  width: 48rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #a6e79b -0%, #3ba6c8 100%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.notif-uplod-pelatihan-crV .property-1variant2-7aH .upolad-video-training-berhasil-E97 {
+  margin-bottom: 1.85rem;
+  max-width: 25.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.notif-uplod-pelatihan-crV .property-1variant2-7aH .auto-group-xzdj-Y9o {
+  margin: 0rem 6.6rem 0rem 6.4rem;
+  width: calc(100% - 13rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}

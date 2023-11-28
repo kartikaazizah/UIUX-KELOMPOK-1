@@ -1,0 +1,29 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 183.8rem;
+}.component-x7s {
+  width: 100%;
+  height: 35.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}

@@ -1,0 +1,605 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-daftar-pt--rRf {
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+
+  .header-admin-Byj {
+    padding: 0rem 3rem 0rem 5rem;
+    width: 100%;
+    height: 11.8rem;
+    display: flex;
+    align-items: flex-start;
+    background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+    flex-shrink: 0;
+    box-sizing: border-box;
+
+    .logo-removebg-preview-1-uuj {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 38rem;
+      width: 29.8rem;
+      height: 10.9rem;
+      object-fit: cover;
+    }
+    .header-qHb {
+      margin-top: 1.3rem;
+      height: 3.2rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .auto-group-l1rh-NoK {
+        flex-shrink: 0;
+        margin-right: 0.2833rem;
+        width: 23.9167rem;
+        height: 100%;
+        position: relative;
+
+        .icon-play-circle-outline-uYM {
+          width: 16.9167rem;
+          height: 2.5499rem;
+          position: absolute;
+          left: 7rem;
+          top: 0;
+          display: flex;
+          align-items: flex-end;
+
+          .vector-EKj {
+            margin: 0rem 12.7rem 0.21rem 0rem;
+            opacity: 0;
+            width: 2.3rem;
+            height: 2.3399rem;
+            background-color: rgba(255, 255, 255, 0);
+            flex-shrink: 0;
+          }
+          .group-wV3 {
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 1.9167rem;
+            height: 1.9499rem;
+            object-fit: contain;
+          }
+        }
+        .daftar-pt-H37 {
+          color: #015442;
+          width: 8.2rem;
+          height: 2.4rem;
+          position: absolute;
+          top: 0.4rem;
+          font-weight: 600;
+          line-height: 1.3175;
+          left: 11.9rem;
+          font-size: 1.8rem;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .vector-ZWR {
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.7rem;
+          height: 2.7rem;
+          position: absolute;
+          left: 8.9rem;
+          top: 0.2rem;
+        }
+        .home-6WM {
+          position: absolute;
+          left: 2.4rem;
+          top: 0.6rem;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          width: 5.1rem;
+          cursor: pointer;
+          font-size: 1.8rem;
+          font-weight: 600;
+          line-height: 1.3175;
+          white-space: nowrap;
+          height: 2.4rem;
+        }
+        .home-page-zrd {
+          width: 2.7rem;
+          height: 2.7rem;
+          position: absolute;
+          left: 0;
+          top: 0.5rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .simulasi-jZK {
+        margin-bottom: 0.4rem;
+        font-size: 1.8rem;
+        font-weight: 600;
+        color: #000000;
+        font-family: Roboto Slab, 'Source Sans Pro';
+        cursor: pointer;
+        line-height: 1.3175;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .auto-group-z43s-Eky {
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.2rem 0rem 0rem 1.4rem;
+        height: 100%;
+        display: flex;
+
+        .people-xS5 {
+          margin: 0.4rem 0.3rem 0rem 0rem;
+          width: 2.4rem;
+          height: 2.6rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .pelamar-5Fo {
+          line-height: 1.3175;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          margin: 0rem 1.5rem 0.2rem 0rem;
+          cursor: pointer;
+          font-size: 1.8rem;
+          font-weight: 600;
+          flex-shrink: 0;
+        }
+        .graph-nAD {
+          width: 2.4rem;
+          height: 2.6rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-top: 0.4rem;
+        }
+        .statistik-KR3 {
+          font-size: 1.8rem;
+          font-weight: 600;
+          flex-shrink: 0;
+          margin: 0.2rem 1.8rem 0rem 0rem;
+          cursor: pointer;
+          line-height: 1.3175;
+          color: #000000;
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .icon-person-2qF {
+          flex-shrink: 0;
+          margin: 0.2rem 0.332rem 0rem 0rem;
+          width: 2.4685rem;
+          height: 2.6rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .profil-saya-Z4V {
+          font-family: Roboto Slab, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.6rem;
+          font-size: 1.8rem;
+          font-weight: 600;
+          line-height: 1.3175;
+          color: #000000;
+        }
+      }
+    }
+  }
+  .auto-group-fsn9-e5w {
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 0.2rem 0rem 7.1rem;
+    width: calc(100% - 7.3rem);
+    height: 82.7rem;
+    display: flex;
+
+    .auto-group-ub7w-ZCu {
+      margin: 2.4rem 4.7rem 2.4rem 0rem;
+      width: 129.9rem;
+      height: calc(100% - 4.8rem);
+      position: relative;
+      flex-shrink: 0;
+
+      .rectangle-684-sjP {
+        top: 35.5rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: rgba(241, 234, 193, 0.5333333611);
+        border-radius: 2.5rem;
+        width: 121.8rem;
+        height: 28.9rem;
+        position: absolute;
+        left: 4rem;
+      }
+      .background-header-AiV {
+        padding: 4.1rem 4.1rem 0.1rem 4rem;
+        width: 129.9rem;
+        align-items: center;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 77.9rem;
+        position: absolute;
+        top: 0;
+        background-image: url('REPLACE_IMAGE:de65f232e7adbd85e4a0edcfb895693d18fa5130');
+        border-radius: 1.5rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        background-size: 100% 100%;
+
+        .auto-group-cjrm-fv9 {
+          flex-direction: column;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background-color: rgba(241, 229, 156, 0.5333333611);
+          border-radius: 2.5rem;
+          margin-bottom: 2rem;
+          box-sizing: border-box;
+          align-items: flex-end;
+          display: flex;
+          flex-shrink: 0;
+          padding: 1.1rem 3.6rem 1.9rem 6rem;
+          width: 100%;
+
+          .auto-group-xajv-C9P {
+            align-items: center;
+            flex-shrink: 0;
+            margin: 0rem 1.6rem 2.1rem 1.6rem;
+            width: calc(100% - 3.2rem);
+            height: 10.3rem;
+            display: flex;
+
+            .telkom-tel-1-JCR {
+              width: 10.6rem;
+              height: 10.3rem;
+              object-fit: cover;
+              vertical-align: top;
+              flex-shrink: 0;
+            }
+            .auto-group-3dsf-Rnq {
+              padding: 2.55rem 0rem 1.65rem 3.7rem;
+              height: 100%;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              box-sizing: border-box;
+
+              .auto-group-mjvp-MwP {
+                margin-right: 53rem;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .pt-telkom-indonesia-tbk-WpH {
+                  color: #000000;
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-bottom: 1.3rem;
+                  display: flex;
+                  font-size: 1.8rem;
+                  font-weight: 600;
+                  line-height: 1.3175;
+                  font-family: Roboto Slab, 'Source Sans Pro';
+                }
+                .data-analyst-dtu {
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  display: flex;
+                  font-size: 1.8rem;
+                  font-weight: 600;
+                  line-height: 1.3175;
+                  color: #000000;
+                  font-family: Roboto Slab, 'Source Sans Pro';
+                }
+              }
+              .surabaya-jawa-timur-Adw {
+                margin-bottom: 3.7rem;
+                font-size: 1.8rem;
+                font-weight: 600;
+                line-height: 1.3175;
+                color: #000000;
+                display: flex;
+                font-family: Roboto Slab, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+              }
+            }
+          }
+          .mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-HTf {
+            display: flex;
+            font-size: 1.8rem;
+            font-weight: 400;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            flex-shrink: 0;
+            max-width: 112.2rem;
+          }
+          .button-admin-fz1 {
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+            flex-shrink: 0;
+            font-size: 1.8rem;
+            color: #ffffff;
+            display: flex;
+            width: 12.7rem;
+            font-weight: 400;
+            white-space: nowrap;
+            justify-content: center;
+            border-radius: 2rem;
+            margin-right: 1.7rem;
+            height: 4rem;
+            line-height: 1.2975;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            cursor: pointer;
+            font-family: Candal, 'Source Sans Pro';
+            align-items: center;
+          }
+        }
+        .auto-group-rz3w-2i5 {
+          margin-bottom: 1.9rem;
+          padding: 4.2rem 5.3rem 1.4rem 5.1rem;
+          width: 100%;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background-color: rgba(241, 229, 157, 0.5333333611);
+          border-radius: 2.5rem;
+          box-sizing: border-box;
+          align-items: flex-end;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .auto-group-gsdx-k8H {
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            margin: 0rem 6rem 4.9rem 2.4rem;
+            width: calc(100% - 8.4rem);
+            height: 7.1rem;
+
+            .image-55-ToP {
+              height: 7.1rem;
+              object-fit: cover;
+              vertical-align: top;
+              flex-shrink: 0;
+              width: 10.7rem;
+            }
+            .auto-group-qgmf-1K7 {
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              box-sizing: border-box;
+              padding: 0.85rem 0rem 0.85rem 3.7rem;
+              height: 100%;
+
+              .auto-group-qzi9-wTf {
+                margin-right: 41.6rem;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+
+                .pt-primaindo-nusantara-manufacture-HXX {
+                  display: flex;
+                  font-size: 1.8rem;
+                  font-weight: 600;
+                  color: #000000;
+                  font-family: Roboto Slab, 'Source Sans Pro';
+                  flex-shrink: 0;
+                  margin-bottom: 0.6rem;
+                  line-height: 1.3175;
+                  white-space: nowrap;
+                }
+                .staff-administrasi-oVs {
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  display: flex;
+                  font-size: 1.8rem;
+                  font-weight: 600;
+                  line-height: 1.3175;
+                  color: #000000;
+                  font-family: Roboto Slab, 'Source Sans Pro';
+                }
+              }
+              .jakarta-8HF {
+                margin-bottom: 1.4rem;
+                display: flex;
+                line-height: 1.3175;
+                color: #000000;
+                flex-shrink: 0;
+                font-size: 1.8rem;
+                font-weight: 600;
+                font-family: Roboto Slab, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+            }
+          }
+          .deskripsi-pekerjaan-administrasi-keuangan-data-invoice-tagihan-rekap-keuangan-uang-masuk-dan-keluar-laporan-keuangan-laba-rugi-menguasai-excel-personal-assistant-syarat-pekerjaan-sma-smk-Soj {
+            display: flex;
+            font-weight: 400;
+            line-height: 1.3175;
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            margin: 0rem 16.9rem 0.1rem 0rem;
+            font-size: 1.8rem;
+            flex-shrink: 0;
+            max-width: 94.5rem;
+          }
+          .button-admin-fAh {
+            width: 12.7rem;
+            font-weight: 400;
+            line-height: 1.2975;
+            display: flex;
+            align-items: center;
+            box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+            cursor: pointer;
+            font-size: 1.8rem;
+            font-family: Candal, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            border-radius: 2rem;
+            height: 4rem;
+            color: #ffffff;
+            justify-content: center;
+            background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+          }
+        }
+        .auto-group-u42d-eoK {
+          display: flex;
+          align-items: center;
+          background-color: rgba(241, 229, 157, 0.5333333611);
+          border-radius: 2.5rem 2.5rem 0 0;
+          width: 100%;
+          padding: 4.15rem 11.2rem 1.6rem 5.2rem;
+          height: 12rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .image-56-AWm {
+            margin: 0.85rem 1.3rem 0rem 0rem;
+            width: 15.2rem;
+            height: 5.4rem;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .auto-group-6njd-HLV {
+            margin: 0.25rem 70.7rem 0.3rem 0rem;
+            height: calc(100% - 0.55rem);
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .pt-indofood-cNm {
+              font-family: Roboto Slab, 'Source Sans Pro';
+              font-size: 1.8rem;
+              font-weight: 600;
+              line-height: 1.3175;
+              color: #000000;
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-bottom: 0.9rem;
+              display: flex;
+            }
+            .finance-staff-LZf {
+              line-height: 1.3175;
+              color: #000000;
+              font-family: Roboto Slab, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              display: flex;
+              font-size: 1.8rem;
+              font-weight: 600;
+            }
+          }
+          .jakarta-5XF {
+            color: #000000;
+            font-family: Roboto Slab, 'Source Sans Pro';
+            margin-bottom: 3.85rem;
+            display: flex;
+            font-size: 1.8rem;
+            font-weight: 600;
+            line-height: 1.3175;
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .auto-group-1wpf-tjb {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 5.2rem 0;
+      width: 2.1rem;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.150000006);
+      border-radius: 1.5rem;
+
+      .rectangle-606-q93 {
+        width: 100%;
+        height: 6.2rem;
+        background-color: #ffffff;
+        border-radius: 1.5rem;
+      }
+    }
+  }
+  .footer-Lbb {
+    padding: 2.7rem 15.1rem 2.8rem 14rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #008a88;
+    flex-shrink: 0;
+    margin-bottom: 18.2rem;
+    box-sizing: border-box;
+
+    .tentang-jobstreet-express-4Xb {
+      display: flex;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 4.6rem;
+      font-size: 1.8rem;
+      font-weight: 400;
+      line-height: 1.3175;
+      color: #ffffff;
+    }
+    .pusat-bantuan-yeZ {
+      color: #ffffff;
+      font-family: Roboto Slab, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: flex;
+      font-size: 1.8rem;
+      font-weight: 400;
+      line-height: 1.3175;
+      margin-right: 44.9rem;
+    }
+    .copyright-2023-jobstreet-express-W8h {
+      white-space: nowrap;
+      flex-shrink: 0;
+      display: flex;
+      font-size: 1.8rem;
+      font-weight: 400;
+      line-height: 1.3175;
+      color: #ffffff;
+      font-family: Roboto Slab, 'Source Sans Pro';
+    }
+  }
+  .rectangle-594-p9P {
+    margin: 0rem 0.2rem 35.9rem 0rem;
+    width: 144.5rem;
+    height: 35.5rem;
+    background-color: #8c8989;
+    flex-shrink: 0;
+  }
+  .auto-group-chv9-2WM {
+    height: 12.8rem;
+    background-color: #999393;
+    border-top: solid 0.5rem #000000;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    width: 100%;
+  }
+}

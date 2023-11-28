@@ -1,0 +1,454 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-berhasil-update-Q6u {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT {
+  margin-bottom: 18.2rem;
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .footer-fHj {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .footer-fHj .tentang-jobstreet-express-Z8D {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .footer-fHj .pusat-bantuan-TUV {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .footer-fHj .copyright-2023-jobstreet-express-yxd {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs {
+  box-sizing: border-box;
+  padding: 0rem 3rem 0rem 5rem;
+  width: 144rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(91.72deg, #02d589 2.03%, #1ecbaa 96.8%);
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .logo-removebg-preview-1-DMB {
+  margin-right: 37.3rem;
+  width: 29.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 {
+  margin-bottom: 5.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .home-page-4Mo {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty {
+  margin: 0rem 0.183rem 0.2rem 0rem;
+  width: 22.2167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty .icon-play-circle-outline-CsK {
+  width: 17.2167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 5rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty .icon-play-circle-outline-CsK .vector-XPo {
+  margin: 0rem 13rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3399rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty .icon-play-circle-outline-CsK .group-DnR {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty .daftar-pt-N9X {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty .vector-Twf {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-a16r-gty .home-QM7 {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .simulasi-i6u {
+  margin: 0rem 1.6rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .people-qSR {
+  margin: 0.1rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-f67s-mL5 {
+  margin: 0rem 1.7rem 0.5rem 0rem;
+  width: 7.2rem;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-f67s-mL5 .pelamar-t9o {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .auto-group-f67s-mL5 .vector-bpu {
+  opacity: 0;
+  width: 2.4555rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .graph-vsB {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .statistik-Gg9 {
+  margin: 0rem 1.2rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .icon-person-zc9 {
+  margin: 0.5rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .header-admin-WBs .header-8j3 .profil-saya-Jsj {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 {
+  width: 135.2rem;
+  height: 77rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 14.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-33-bg-y8u.png');
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .rectangle-626-WU1 {
+  width: 125.9rem;
+  height: 70.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 3.3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(241, 234, 193, 0.5333333611);
+  border-radius: 2.5rem;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV {
+  width: 87.4rem;
+  height: 42.7rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 24.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV-sub-1 {
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV .deskripsi-pekerjaan-mengidentifikasi-menganalisa-menginterpretasi-tren-atau-pola-yang-sedang-berlangsung-menganalisa-dan-mengimplementasikan-solusi-untuk-mengembangkan-perusahaan-berdasarkan-data-aktif-dalam-menganalisa-dan-mengidentifikasi-anomali-menentukan-metrik-untuk-mengevaluasi-kondisi-perusahaan-merancang-strategi-pengembangan-berdasarkan-data-yang-sudah-didapatkan-kualifikasi-pendidikan-minimal-s1-statistik-matematika-komputer-ekonomi-sederajat-memiliki-pengalaman-miniamal-1-tahun-memiliki-analisa-tinggi-menguasai-microsoft-excel-googlesheet-memahami-data-analytical-tools-data-visual-tools-menjadi-nilai-tambah-bersedia-ditempatkan-di-luar-kota-persyaratan-minimum-tersedia-jam-fleksibel-diperlukan-1-tahun-pengalaman-kerja-yang-relevan-untuk-posisi-ini-pelamar-harus-memiliki-ktp-QJV-sub-3 {
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .pt-telkom-indonesia-tbk-2ed {
+  width: 22.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 7.25rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .data-analyst-XLV {
+  width: 11.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 24.8rem;
+  top: 11.15rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .surabaya-jawa-timur-33w {
+  width: 19.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 103.4rem;
+  top: 7.25rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .telkom-tel-1-wf7 {
+  width: 10.6rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .background-header-bM3 .button-admin-gMo {
+  width: 10.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 117.5rem;
+  top: 68.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background: linear-gradient(89.62deg, #005342 5.46%, #03876c 99.62%);
+  border-radius: 2rem;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .backgroun-notif-FZK {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .notif-hapus-lowongan-PvR {
+  box-sizing: border-box;
+  padding: 5.85rem 12.5rem 4.4rem 12.6rem;
+  width: 48rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 48rem;
+  top: 38.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #a6e79b -0%, #3ba6c8 100%);
+  border-radius: 2.5rem;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .notif-hapus-lowongan-PvR .update-lowongan-berhasil-TvH {
+  margin-bottom: 2.05rem;
+  max-width: 22.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-aht7-LFT .notif-hapus-lowongan-PvR .auto-group-uag9-y7w {
+  margin: 0rem 5.1rem 0rem 4.9rem;
+  width: calc(100% - 10rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #96d1c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .rectangle-594-YqF {
+  margin: 0rem 0.2rem 35.9rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #8c8989;
+  flex-shrink: 0;
+}
+.admin-berhasil-update-Q6u .auto-group-9vjr-ssX {
+  width: 100%;
+  height: 12.8rem;
+  background-color: #999393;
+  border-top: solid 0.5rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

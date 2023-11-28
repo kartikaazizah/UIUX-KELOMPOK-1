@@ -1,0 +1,1287 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pencari-kerja-login-email-dan-kata-sandi-salah-Cad {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  border-bottom: solid 0.5rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .rectangle-594-hGV {
+  width: 144.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 0;
+  top: 120.6rem;
+  background-color: #8c8989;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .rectangle-583-1ny {
+  width: 144rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 0;
+  top: 192rem;
+  background-color: #999393;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .footer-xCR {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .footer-xCR .tentang-jobstreet-express-Evd {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .footer-xCR .pusat-bantuan-jsP {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .footer-xCR .copyright-2023-jobstreet-express-fFF {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB {
+  width: 144rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #ffffff -0%, rgba(255, 255, 255, 0) 100%);
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd {
+  box-sizing: border-box;
+  padding: 0rem 4.5rem 0.3rem 4.5rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(91.95deg, #01d588 0.51%, #09e2b9 98.29%);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-er3s-RNq {
+  margin: 0rem 82.9rem 0.2rem 0rem;
+  width: calc(100% - 82.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-er3s-RNq .auto-group-yxch-wc5 {
+  margin: 0rem 15.1rem 0.3rem 0rem;
+  width: 29.8rem;
+  height: 12.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-er3s-RNq .auto-group-yxch-wc5 .logo-removebg-preview-1-4gh {
+  width: 29.8rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-er3s-RNq .auto-group-yxch-wc5 .nama-pekerjaan-zaM {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-er3s-RNq .di-mana-UkR {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM {
+  margin-bottom: 4rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .auto-group-5ldf-A7T {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .auto-group-5ldf-A7T .nama-pekerjaan-atau-perusahaan-9zy {
+  margin-right: 8.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #b0aaaa;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .auto-group-5ldf-A7T .icon-search-outline-svy {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .auto-group-stxm-N73 {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .auto-group-stxm-N73 .nama-kota-atau-provinsi-VBf {
+  margin-right: 14.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #b0aaaa;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .auto-group-stxm-N73 .icon-pin-outline-R5K {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-cgnv-1kM .bottom-vXs {
+  width: 21rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(89.58deg, #004f3f 0.42%, #028a6e 99.64%);
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF {
+  margin: 0rem 87.4rem 0rem 1.8rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2.555rem 0rem 2.5rem;
+  width: calc(100% - 89.2rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  border-left: solid 0.1rem #777777;
+  border-right: solid 0.1rem #777777;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF .semua-jenis-pekerjaan-Egy {
+  margin: 0rem 0.4rem 0.4rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF .auto-group-bm6h-Lzu {
+  margin-right: 2.4547rem;
+  width: 20.5453rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF .auto-group-bm6h-Lzu .line-171-gos {
+  width: 0.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  background-color: #777777;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF .auto-group-bm6h-Lzu .kapan-saja-z3s {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8rem;
+  top: 0.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF .auto-group-bm6h-Lzu .icon-arrow-ios-downward-H2y {
+  width: 3.5rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .header-n-navbar-variant2-mZB .background-header-hxd .auto-group-pthp-YZF .auto-group-bm6h-Lzu .icon-arrow-ios-downward-1Ds {
+  width: 20.5453rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV {
+  width: 116.4rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 38.6rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .auto-group-bnev-j3P {
+  margin: 0rem 80.5rem 2.336rem 0rem;
+  width: calc(100% - 80.5rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .auto-group-bnev-j3P .icon-trending-up-fBw {
+  margin-right: 1.1605rem;
+  width: 4.1395rem;
+  height: 4.3637rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .auto-group-bnev-j3P .lowongan-yang-sering-dicari-yyK {
+  margin-top: 0.1363rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq {
+  margin: 0rem 0rem 4.8rem 0.5rem;
+  height: 16.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ {
+  margin: 0rem 2.838rem 0.021rem 0rem;
+  width: 13.1625rem;
+  height: calc(100% - 0.0215rem);
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .jabatan-7i9 {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .auto-group-1uqm-exy {
+  margin: 0rem 0rem 2.421rem 0.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.463rem 0.808rem 0.6rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .auto-group-1uqm-exy .icon-pie-chart-2-whB {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .auto-group-1uqm-exy .admin-ft5 {
+  margin-bottom: 0.0709rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .auto-group-m1yb-xMP {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.263rem 0.808rem 0.6rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .auto-group-m1yb-xMP .icon-pie-chart-2-FrH {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-oja5-oSZ .auto-group-m1yb-xMP .barista-PSh {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo {
+  margin-right: 2.7rem;
+  width: 10.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo .auto-group-yvjb-R8V {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo .auto-group-yvjb-R8V .icon-pie-chart-2-LFT {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo .auto-group-yvjb-R8V .kasir-sWH {
+  margin-bottom: 0.2709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo .auto-group-z4kb-NT3 {
+  box-sizing: border-box;
+  padding: 0.8rem 0.9rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo .auto-group-z4kb-NT3 .icon-pie-chart-2-6tq {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-p5cm-gRo .auto-group-z4kb-NT3 .driver-Rw7 {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd {
+  margin-right: 2.8rem;
+  width: 19.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd .auto-group-fbd3-eYy {
+  margin: 0rem 0rem 2.4rem 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.7rem 0.829rem 0.6rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd .auto-group-fbd3-eYy .icon-pie-chart-2-MCV {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd .auto-group-fbd3-eYy .staff-marketing-GaM {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd .auto-group-4kpw-9u3 {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.3rem 0.829rem 0.6rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd .auto-group-4kpw-9u3 .icon-pie-chart-2-4m7 {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-vkfx-htd .auto-group-4kpw-9u3 .quality-control-bm3 {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 {
+  margin-right: 2.8rem;
+  width: 20.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 .auto-group-g4kq-SFs {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.4rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 .auto-group-g4kq-SFs .icon-pie-chart-2-ASm {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 .auto-group-g4kq-SFs .staff-accounting-ttZ {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 .auto-group-vqju-nj3 {
+  box-sizing: border-box;
+  padding: 0.8rem 2.5rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 .auto-group-vqju-nj3 .icon-pie-chart-2-7mK {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-lydb-6C1 .auto-group-vqju-nj3 .content-creator-Sob {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh {
+  margin-right: 2.3rem;
+  width: 17.2rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh .auto-group-uiu1-tQh {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh .auto-group-uiu1-tQh .icon-pie-chart-2-c5o {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh .auto-group-uiu1-tQh .staff-gudang-LXb {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh .auto-group-n3mb-EN5 {
+  margin-right: 6.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.2rem 0.829rem 0.6rem;
+  width: calc(100% - 6.4rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh .auto-group-n3mb-EN5 .icon-pie-chart-2-wnH {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-jrwb-jnh .auto-group-n3mb-EN5 .host-sfw {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-gimx-Nch {
+  margin: 4.8rem 0rem 6.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.1rem 0.829rem 1.1rem;
+  height: calc(100% - 11.7rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-gimx-Nch .icon-pie-chart-2-U9w {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-90-gcq .auto-group-gimx-Nch .customer-service-Crd {
+  margin-bottom: 0.0709rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq {
+  margin-left: 0.7rem;
+  width: 111.8rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .perusahaan-3MT {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .group-88-7MK {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 0.9rem 0.7rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .group-88-7MK .emoji-office-building-Ewj {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .group-88-7MK .ganesha-operation-surabaya-dsk-B6H {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .auto-group-bu9f-4fs {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.6rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .auto-group-bu9f-4fs .emoji-office-building-au7 {
+  margin-right: 0.9rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .auto-group-bu9f-4fs .pt-media-telekomunikasi-mandiri-K61 {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .auto-group-x19b-Btu {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .auto-group-x19b-Btu .emoji-office-building-idw {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-jptu-Ned .auto-group-x19b-Btu .pt-arta-boga-boga-cemerlang-FNy {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 {
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-y5ym-4bK {
+  margin: 0.2rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.2rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-y5ym-4bK .emoji-office-building-aJm {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-y5ym-4bK .cv-berlian-retail-huB {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-mojf-bjf {
+  margin: 0.2rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.7rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-mojf-bjf .emoji-office-building-Wrd {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-mojf-bjf .panara-course-T1B {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-nybt-wS9 {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.4rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-nybt-wS9 .emoji-office-building-Sdo {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-nybt-wS9 .bali-super-host-ZyK {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-4tzk-VkV {
+  margin-bottom: 0.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.7rem 0.7rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-4tzk-VkV .emoji-office-building-pXs {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .yang-sering-dicari-zrV .group-89-Vaq .auto-group-2pcq-vV7 .auto-group-4tzk-VkV .angonjiwo-9a9 {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu {
+  width: 3870.7rem;
+  height: 1760rem;
+  position: absolute;
+  left: 116.9rem;
+  top: 2.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf {
+  width: 27rem;
+  height: 53.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .rectangle-625-FWh {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .rectangle-624-MJq {
+  width: 27rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .masuk-4yw {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .subtract-PFX {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .subtract-VpM {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .belum-punya-akun-jobstreet-express-daftar-dengan--EG9 {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3188476562;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .belum-punya-akun-jobstreet-express-daftar-dengan--EG9 .belum-punya-akun-jobstreet-express-daftar-dengan--EG9-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .belum-punya-akun-jobstreet-express-daftar-dengan--EG9 .belum-punya-akun-jobstreet-express-daftar-dengan--EG9-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .facebook-iyw {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .google-R7f {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .masuk-KTw {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 11rem;
+  top: 27.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .icon-email-outline-djX {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 15.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .icon-lock-outline-mKw {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 20.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .logo-removebg-preview-2-6d7 {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .ketik-email-anda-cLZ {
+  width: 12.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 15.35rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .masukkan-kata-sandi-WRw {
+  width: 15.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 20.55rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .logofacebook-removebg-preview-1-cUy {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .ellipse-122-w1T {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .logogoogle-removebg-preview-1-ru7 {
+  width: 2.5rem;
+  height: 2.625rem;
+  cursor: pointer;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .button-masuk-email-aaD {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.6rem;
+  top: 26.3rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .button-masuk-email-aaD .button-aCq {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .button-masuk-email-pss {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 31.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .button-masuk-email-pss .button-ARw {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #015442;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #015442;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .email-tidak-valid-qny {
+  box-sizing: border-box;
+  padding: 1.6rem 1.1rem 1.5rem 1.6rem;
+  width: 23.4rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 7.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #ecf5e5;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .email-tidak-valid-qny .inter-Xfo {
+  margin-bottom: 0.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .auto-group-e6nd-9Tf .email-tidak-valid-qny .icon-close-outline-rTB {
+  margin-top: 0.2rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .subtract-kYZ {
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: 3870.7rem;
+  top: 1760rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-email-dan-kata-sandi-salah-Cad .masuk-Dpu .subtract-hTo {
+  width: 0;
+  height: 0;
+  position: absolute;
+  left: 3870.7rem;
+  top: 1760rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,677 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pencari-kerja-video-simulasi-wawancara-Z3o {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-nqeh-gu7 {
+  margin-bottom: 13.4rem;
+  width: 74rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M {
+  box-sizing: border-box;
+  padding: 0rem 5.5rem 0.3rem 4.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(91.68deg, #02d589 0.23%, #1ecbaa 98.17%);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  height: 13.1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .auto-group-u1ar-GsK {
+  margin: 0rem 15.1rem 0.3rem 0rem;
+  width: 29.8rem;
+  height: 12.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .auto-group-u1ar-GsK .logo-removebg-preview-1-Cky {
+  width: 29.8rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .auto-group-u1ar-GsK .nama-pekerjaan-vws {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .di-mana-Dvy {
+  margin-right: 4.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 {
+  margin: 2.9rem 0rem 7.3rem 0rem;
+  height: calc(100% - 10.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .icon-play-circle-outline-TaR {
+  margin: 0.04rem 0.2rem 0rem 0rem;
+  width: 2.3rem;
+  height: 2.3398rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .simulasi-NBb {
+  margin: 0rem 3.647rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .icon-person-561 {
+  margin: 0.3rem 0.384rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .profil-saya-b4M {
+  margin: 0rem 5.3rem 0.5rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .icon-bell-outline-185 {
+  margin: 0rem 0.345rem 0.4rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .job-alert-uz9 {
+  margin: 0rem 5.9rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .icon-bookmark-RxV {
+  margin: 0.2rem 0.045rem 0rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .lowongan-saya-MbF {
+  margin: 0rem 7.3rem 0.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-8jg1-LTs .header-kR7 .keluar-51T {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT {
+  margin-bottom: 4rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .auto-group-stnd-Y9w {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .auto-group-stnd-Y9w .nama-pekerjaan-atau-perusahaan-fkM {
+  margin-right: 8.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .auto-group-stnd-Y9w .icon-search-outline-z1w {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .auto-group-6d5k-HWq {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .auto-group-6d5k-HWq .nama-kota-atau-provinsi-1hj {
+  margin-right: 14.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .auto-group-6d5k-HWq .icon-pin-outline-vZo {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-qzy9-nwT .bottom-EaV {
+  width: 21rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(89.58deg, #004f3f 0.42%, #028a6e 99.64%);
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-ohqm-SwT {
+  margin-left: 1.8rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2.555rem 0rem 22.7rem;
+  width: 45.8rem;
+  height: 3.6rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .background-header-D8M .auto-group-ohqm-SwT .auto-group-gncr-xeu {
+  width: 100%;
+  height: 100%;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X {
+  width: 100%;
+  height: 177.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .image-25-ntq {
+  width: 1.7rem;
+  height: 169.7rem;
+  position: absolute;
+  left: 142.3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Kds {
+  box-sizing: border-box;
+  padding: 2.633rem 2.594rem 2.067rem 2.589rem;
+  width: 49.7rem;
+  height: 31.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.8rem;
+  top: 146.1rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Kds .group-25-DjF {
+  margin: 0rem 0rem 1.835rem 0.028rem;
+  width: calc(100% - 0.0284rem);
+  height: 21.0648rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Kds .group-25-DjF .vector-kUH {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Kds .group-25-DjF .vector-taV {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Kds .judul-video-pU9 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-5Q5 {
+  box-sizing: border-box;
+  padding: 2.633rem 2.594rem 2.067rem 2.589rem;
+  width: 49.7rem;
+  height: 31.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.8rem;
+  top: 111.1rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-5Q5 .group-25-ykM {
+  margin: 0rem 0rem 1.835rem 0.028rem;
+  width: calc(100% - 0.0284rem);
+  height: 21.0648rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-5Q5 .group-25-ykM .vector-ue1 {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-5Q5 .group-25-ykM .vector-T9j {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-5Q5 .judul-video-PJH {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FbP {
+  box-sizing: border-box;
+  padding: 2.633rem 2.594rem 2.067rem 2.589rem;
+  width: 49.7rem;
+  height: 31.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.8rem;
+  top: 77.1rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FbP .group-25-Zry {
+  margin: 0rem 0rem 1.835rem 0.028rem;
+  width: calc(100% - 0.0284rem);
+  height: 21.0648rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FbP .group-25-Zry .vector-uA9 {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FbP .group-25-Zry .vector-r5P {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FbP .judul-video-mi9 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FNR {
+  box-sizing: border-box;
+  padding: 2.633rem 2.594rem 2.067rem 2.589rem;
+  width: 49.7rem;
+  height: 31.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.8rem;
+  top: 42.1rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FNR .group-25-AVP {
+  margin: 0rem 0rem 1.835rem 0.028rem;
+  width: calc(100% - 0.0284rem);
+  height: 21.0648rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FNR .group-25-AVP .vector-hVK {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FNR .group-25-AVP .vector-r7K {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-FNR .judul-video-P7F {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Tso {
+  box-sizing: border-box;
+  padding: 2.633rem 2.594rem 2.067rem 2.589rem;
+  width: 49.7rem;
+  height: 31.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 90.8rem;
+  top: 7.1rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Tso .group-25-aSd {
+  margin: 0rem 0rem 1.835rem 0.028rem;
+  width: calc(100% - 0.0284rem);
+  height: 21.0648rem;
+  position: relative;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Tso .group-25-aSd .vector-uE1 {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Tso .group-25-aSd .vector-qdT {
+  width: 44.4892rem;
+  height: 21.0646rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-Tso .judul-video-kkR {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .footer-qG5 {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 169.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .footer-qG5 .tentang-jobstreet-express-8ky {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .footer-qG5 .pusat-bantuan-ejK {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .footer-qG5 .copyright-2023-jobstreet-express-n4q {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-VE9 {
+  box-sizing: border-box;
+  padding: 5.066rem 4.332rem 7.674rem 4.323rem;
+  width: 83rem;
+  height: 60.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 6.9rem;
+  border: solid 0.2rem #015442;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(90deg, #02d589 3.3%, #1dcba9 96.53%);
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-VE9 .group-25-C8Z {
+  margin: 0rem 0rem 3.53rem 0.048rem;
+  width: calc(100% - 0.0476rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-eSM.png');
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-VE9 .group-25-C8Z .vector-8Y1 {
+  width: 74.2978rem;
+  height: 40.5297rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.0776rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .konten-video-VE9 .judul-video-3us {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .description-box-X4M {
+  width: 83rem;
+  height: 100rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 74.8rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .description-box-X4M .rectangle-631-FFF {
+  width: 83rem;
+  height: 90.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ecf5e5;
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .description-box-X4M .rectangle-626-mjP {
+  width: 17.9619rem;
+  height: 25.9rem;
+  position: absolute;
+  left: 65.0381rem;
+  top: 74.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .description-box-X4M .deskripsi--6Fs {
+  width: 15.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.8621rem;
+  top: 5.1rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-video-simulasi-wawancara-Z3o .auto-group-hokw-f3X .description-box-X4M .dalam-video-ini-kami-menghadirkan-simulasi-wawancara-kerja-yang-memberikan-wawasan-mendalam-tentang-teknik-teknik-wawancara-yang-efektif-anda-akan-melihat-bagaimana-seorang-calon-pekerja-menjawab-pertanyaan-wawancara-yang-umum-memberikan-penekanan-pada-komunikasi-yang-kuat-kepercayaan-diri-dan-kemampuan-untuk-merancang-jawaban-yang-menonjol-kami-juga-membahas-strategi-sukses-untuk-mengakhiri-wawancara-dengan-kesan-positif-simulasi-berikutnya-fokus-pada-wawancara-magang-dengan-contoh-pertanyaan-dan-jawaban-yang-mendalam-anda-akan-mendapatkan-wawasan-yang-berharga-tentang-bagaimana-menghadapi-wawancara-magang-dan-bagaimana-menjawab-pertanyaan-dengan-tepat-menyoroti-kualifikasi-anda-dan-niat-yang-kuat-untuk-magang-ini-adalah-sumber-daya-yang-penting-bagi-mahasiswa-yang-mencari-kesempatan-magang-yang-berharga-kami-juga-mengeksplorasi-wawancara-penerimaan-karyawan-baru-dan-situasi-khusus-seperti-wawancara-virtual-dalam-video-ini-kami-menghadirkan-berbagai-contoh-simulasi-untuk-membantu-anda-memahami-berbagai-jenis-wawancara-dengan-pengetahuan-yang-anda-dapatkan-dari-video-ini-anda-akan-lebih-siap-dan-percaya-diri-dalam-menghadapi-wawancara-pekerjaan-dan-dapat-meraih-kesuksesan-dalam-perjalanan-karier-anda-selamat-menonton-dan-selamat-belajar-biR {
+  width: 77.4rem;
+  height: 58rem;
+  position: absolute;
+  left: 2.566rem;
+  top: 13.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}

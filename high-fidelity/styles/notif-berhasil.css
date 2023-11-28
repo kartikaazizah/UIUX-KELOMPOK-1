@@ -1,0 +1,117 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 52rem;
+}.notif-berhasil-drq {
+  box-sizing: border-box;
+  padding: 2rem 2rem 6.2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.notif-berhasil-drq .property-1default-kgZ {
+  margin-bottom: 14.5rem;
+  box-sizing: border-box;
+  padding: 5.25rem 7.25rem 4.4rem 7.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #a6e79b -0%, #3ba6c8 100%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.notif-berhasil-drq .property-1default-kgZ .lowongan-kerja-berhasil-di-upload-g4R {
+  margin-bottom: 2.65rem;
+  max-width: 33.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.notif-berhasil-drq .property-1default-kgZ .auto-group-gdht-Luf {
+  margin: 0rem 10.35rem 0rem 10.25rem;
+  width: calc(100% - 20.6rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #96d1c5;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.notif-berhasil-drq .property-1variant2-2vu {
+  box-sizing: border-box;
+  padding: 5.25rem 7.25rem 4.4rem 7.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, rgba(11, 210, 148, 0.8899999857) -0%, #45bac4 100%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.notif-berhasil-drq .property-1variant2-2vu .lowongan-kerja-berhasil-di-upload-wY5 {
+  margin-bottom: 2.65rem;
+  max-width: 33.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.notif-berhasil-drq .property-1variant2-2vu .auto-group-kypr-EXB {
+  margin: 0rem 10.35rem 0rem 10.25rem;
+  width: calc(100% - 20.6rem);
+  height: 3.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}

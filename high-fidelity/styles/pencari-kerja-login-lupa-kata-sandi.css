@@ -1,0 +1,1250 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pencari-kerja-login-lupa-kata-sandi-dzh {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  border-bottom: solid 0.5rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .rectangle-594-7us {
+  width: 144.5rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 0;
+  top: 120.6rem;
+  background-color: #8c8989;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .rectangle-583-EUh {
+  width: 144rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 0;
+  top: 192rem;
+  background-color: #999393;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .footer-ANM {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .footer-ANM .tentang-jobstreet-express-F8u {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .footer-ANM .pusat-bantuan-k5f {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .footer-ANM .copyright-2023-jobstreet-express-fTX {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 {
+  width: 144rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #ffffff -0%, rgba(255, 255, 255, 0) 100%);
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 {
+  box-sizing: border-box;
+  padding: 0rem 4.5rem 0.3rem 4.5rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(91.95deg, #01d588 0.51%, #09e2b9 98.29%);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-thjo-dYm {
+  margin: 0rem 82.9rem 0.2rem 0rem;
+  width: calc(100% - 82.9rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-thjo-dYm .auto-group-fzyo-xb3 {
+  margin: 0rem 15.1rem 0.3rem 0rem;
+  width: 29.8rem;
+  height: 12.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-thjo-dYm .auto-group-fzyo-xb3 .logo-removebg-preview-1-UpH {
+  width: 29.8rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-thjo-dYm .auto-group-fzyo-xb3 .nama-pekerjaan-btu {
+  width: 14.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 10.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-thjo-dYm .di-mana-gfT {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX {
+  margin-bottom: 4rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .auto-group-aydw-9ow {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 1.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .auto-group-aydw-9ow .nama-pekerjaan-atau-perusahaan-fnH {
+  margin-right: 8.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #b0aaaa;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .auto-group-aydw-9ow .icon-search-outline-bA9 {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .auto-group-qsar-gxH {
+  margin-right: 3.1rem;
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .auto-group-qsar-gxH .nama-kota-atau-provinsi-DBX {
+  margin-right: 14.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #b0aaaa;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .auto-group-qsar-gxH .icon-pin-outline-Xxu {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-4jdo-2DX .bottom-EsK {
+  width: 21rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(89.58deg, #004f3f 0.42%, #028a6e 99.64%);
+  border-radius: 1.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw {
+  margin: 0rem 87.4rem 0rem 1.8rem;
+  box-sizing: border-box;
+  padding: 0.2rem 2.555rem 0rem 2.5rem;
+  width: calc(100% - 89.2rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  border-left: solid 0.1rem #777777;
+  border-right: solid 0.1rem #777777;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw .semua-jenis-pekerjaan-Los {
+  margin: 0rem 0.4rem 0.4rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw .auto-group-pbqk-rGR {
+  margin-right: 2.4547rem;
+  width: 20.5453rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw .auto-group-pbqk-rGR .line-171-PXF {
+  width: 0.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  background-color: #777777;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw .auto-group-pbqk-rGR .kapan-saja-gFT {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8rem;
+  top: 0.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw .auto-group-pbqk-rGR .icon-arrow-ios-downward-m21 {
+  width: 3.5rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .header-n-navbar-variant2-Av5 .background-header-WU9 .auto-group-1tbk-fBw .auto-group-pbqk-rGR .icon-arrow-ios-downward-J1w {
+  width: 20.5453rem;
+  height: 2.9879rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 {
+  width: 116.4rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 38.6rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .auto-group-ujtm-qAH {
+  margin: 0rem 80.5rem 2.336rem 0rem;
+  width: calc(100% - 80.5rem);
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .auto-group-ujtm-qAH .icon-trending-up-m3w {
+  margin-right: 1.1605rem;
+  width: 4.1395rem;
+  height: 4.3637rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .auto-group-ujtm-qAH .lowongan-yang-sering-dicari-gwb {
+  margin-top: 0.1363rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs {
+  margin: 0rem 0rem 4.8rem 0.5rem;
+  height: 16.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM {
+  margin: 0rem 2.838rem 0.021rem 0rem;
+  width: 13.1625rem;
+  height: calc(100% - 0.0215rem);
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .jabatan-Rnh {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .auto-group-rerp-MgM {
+  margin: 0rem 0rem 2.421rem 0.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.463rem 0.808rem 0.6rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .auto-group-rerp-MgM .icon-pie-chart-2-TzH {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .auto-group-rerp-MgM .admin-o2Z {
+  margin-bottom: 0.0709rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .auto-group-aaed-HTX {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.263rem 0.808rem 0.6rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .auto-group-aaed-HTX .icon-pie-chart-2-nv5 {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qcuh-upM .auto-group-aaed-HTX .barista-Kv1 {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd {
+  margin-right: 2.7rem;
+  width: 10.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd .auto-group-pfjo-kdw {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd .auto-group-pfjo-kdw .icon-pie-chart-2-5AR {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd .auto-group-pfjo-kdw .kasir-Pwo {
+  margin-bottom: 0.2709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd .auto-group-dpvh-tdf {
+  box-sizing: border-box;
+  padding: 0.8rem 0.9rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd .auto-group-dpvh-tdf .icon-pie-chart-2-RNh {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-gq3b-cnd .auto-group-dpvh-tdf .driver-x7j {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo {
+  margin-right: 2.8rem;
+  width: 19.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo .auto-group-b7er-mqs {
+  margin: 0rem 0rem 2.4rem 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.7rem 0.829rem 0.6rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo .auto-group-b7er-mqs .icon-pie-chart-2-55s {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo .auto-group-b7er-mqs .staff-marketing-MJH {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo .auto-group-sbfp-BHK {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.3rem 0.829rem 0.6rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo .auto-group-sbfp-BHK .icon-pie-chart-2-sA9 {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-erph-SHo .auto-group-sbfp-BHK .quality-control-CTK {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR {
+  margin-right: 2.8rem;
+  width: 20.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR .auto-group-em2h-pzV {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.4rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR .auto-group-em2h-pzV .icon-pie-chart-2-YvV {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR .auto-group-em2h-pzV .staff-accounting-sxm {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR .auto-group-f4xh-moF {
+  box-sizing: border-box;
+  padding: 0.8rem 2.5rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR .auto-group-f4xh-moF .icon-pie-chart-2-uPf {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-u4yy-VSR .auto-group-f4xh-moF .content-creator-qo7 {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK {
+  margin-right: 2.3rem;
+  width: 17.2rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK .auto-group-oe9o-GdX {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem 0.829rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK .auto-group-oe9o-GdX .icon-pie-chart-2-bA1 {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK .auto-group-oe9o-GdX .staff-gudang-vxy {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK .auto-group-watq-Ruj {
+  margin-right: 6.4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.2rem 0.829rem 0.6rem;
+  width: calc(100% - 6.4rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK .auto-group-watq-Ruj .icon-pie-chart-2-9qj {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-uy6m-8XK .auto-group-watq-Ruj .host-tHX {
+  margin-bottom: 0.0709rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qqvb-aw3 {
+  margin: 4.8rem 0rem 6.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.1rem 0.829rem 1.1rem;
+  height: calc(100% - 11.7rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qqvb-aw3 .icon-pie-chart-2-HaZ {
+  margin-right: 1.277rem;
+  width: 2.723rem;
+  height: 2.8709rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-90-bHs .auto-group-qqvb-aw3 .customer-service-RAy {
+  margin-bottom: 0.0709rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw {
+  margin-left: 0.7rem;
+  width: 111.8rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .perusahaan-Ffo {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .group-88-ipH {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 0.9rem 0.7rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .group-88-ipH .emoji-office-building-FJR {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .group-88-ipH .ganesha-operation-surabaya-dsk-aLh {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .auto-group-vafj-fN9 {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.6rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .auto-group-vafj-fN9 .emoji-office-building-bFo {
+  margin-right: 0.9rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .auto-group-vafj-fN9 .pt-media-telekomunikasi-mandiri-DY5 {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .auto-group-epqy-6rm {
+  box-sizing: border-box;
+  padding: 0.9rem 1.3rem 0.9rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .auto-group-epqy-6rm .emoji-office-building-qJZ {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-zkko-BpM .auto-group-epqy-6rm .pt-arta-boga-boga-cemerlang-Ard {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ {
+  display: flex;
+  align-items: flex-end;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-rgwb-1MT {
+  margin: 0.2rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.2rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-rgwb-1MT .emoji-office-building-vDX {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-rgwb-1MT .cv-berlian-retail-evD {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-qaws-wuK {
+  margin: 0.2rem 3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.7rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-qaws-wuK .emoji-office-building-4U9 {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-qaws-wuK .panara-course-CKT {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-sjss-swP {
+  margin: 0.2rem 3.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.4rem 0.9rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-sjss-swP .emoji-office-building-BSH {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-sjss-swP .bali-super-host-v8y {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-teb3-zuX {
+  margin-bottom: 0.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.7rem 0.7rem 0.9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #0e8136;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-teb3-zuX .emoji-office-building-iad {
+  margin-right: 1rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .yang-sering-dicari-Jg9 .group-89-ubw .auto-group-nedo-rUZ .auto-group-teb3-zuX .angonjiwo-FqT {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #01d589;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X {
+  width: 3722.7rem;
+  height: 1760rem;
+  position: absolute;
+  left: 116.9rem;
+  top: 2.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 {
+  margin: 0rem 3695.7rem 1706.6rem 0rem;
+  width: 27rem;
+  height: 53.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .rectangle-625-YCH {
+  width: 12.6rem;
+  height: 7rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .rectangle-624-qhB {
+  width: 27rem;
+  height: 48.9rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .masuk-xWu {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.35rem;
+  top: 1.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .subtract-rsB {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.5rem;
+  top: 17.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .subtract-mz9 {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 22.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .belum-punya-akun-jobstreet-express-daftar-dengan--Wgq {
+  width: 22rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 40.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .belum-punya-akun-jobstreet-express-daftar-dengan--Wgq .belum-punya-akun-jobstreet-express-daftar-dengan--Wgq-sub-0 {
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .belum-punya-akun-jobstreet-express-daftar-dengan--Wgq .belum-punya-akun-jobstreet-express-daftar-dengan--Wgq-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #008a88;
+  font-family: Roboto Slab, 'Source Sans Pro';
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .facebook-8rd {
+  width: 4.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .google-SMX {
+  width: 3.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 48.4rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2.4;
+  letter-spacing: -0.011rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .icon-email-outline-8k9 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 18.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .icon-lock-outline-Fpm {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 23.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .logo-removebg-preview-2-Awj {
+  width: 19.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .ketik-email-anda-oUu {
+  width: 12.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 18.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .masukkan-kata-sandi-baru-haH {
+  width: 19rem;
+  height: 2rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 23.65rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .logofacebook-removebg-preview-1-zZP {
+  width: 5.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 43.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .ellipse-122-uwF {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 44.3rem;
+  background-color: #d9d9d9;
+  border-radius: 2.05rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .logogoogle-removebg-preview-1-dsF {
+  width: 2.5rem;
+  height: 2.625rem;
+  cursor: pointer;
+  position: absolute;
+  left: 17.3rem;
+  top: 45.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .subtract-wd3 {
+  width: 24rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 27.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .icon-lock-outline-V8m {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 28.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .ulangi-kata-sandi-baru-DqT {
+  width: 16.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 28.75rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: rgba(119, 119, 119, 0.5);
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .lupa-kata-sandi-p4Z {
+  width: 12rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 14.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .button-masuk-email-jBX {
+  width: 24rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.4rem;
+  top: 33.3rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .auto-group-2g7s-s69 .button-masuk-email-jBX .button-rX3 {
+  width: 100%;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2975;
+  color: #ffffff;
+  font-family: Candal, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(89.89deg, #005342 1.54%, #03886d 97.83%);
+  border-radius: 1rem;
+}
+.pencari-kerja-login-lupa-kata-sandi-dzh .masuk-k1X .subtract-uER {
+  width: 0;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

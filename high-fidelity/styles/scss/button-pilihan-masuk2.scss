@@ -1,0 +1,68 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 27.9rem;
+}.button-pilihan-masuk2-tnD {
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  .property-1default-EbB {
+    overflow: hidden;
+    font-weight: 400;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 100%;
+    font-family: Candal, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(90deg, #015443 4.18%, #03866b 100%);
+    height: 3.7rem;
+    font-size: 1.8rem;
+    line-height: 1.2975;
+    color: #ffffff;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    display: flex;
+  }
+  .property-1variant2-UEd {
+    border-radius: 1rem;
+    width: 100%;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #b0aaaa;
+    font-family: Candal, 'Source Sans Pro';
+    border: solid 0.1rem #015442;
+    overflow: hidden;
+    position: relative;
+    font-size: 1.8rem;
+    line-height: 1.2975;
+    font-weight: 400;
+    color: #015442;
+    white-space: nowrap;
+    display: flex;
+    height: 3.7rem;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+}

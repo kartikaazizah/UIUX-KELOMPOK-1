@@ -1,0 +1,1679 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 86.7rem;
+}.header-feq {
+  width: 100%;
+  height: 106rem;
+  position: relative;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.header-feq .property-1simulasi-nUZ {
+  box-sizing: border-box;
+  padding: 1rem 5.5rem 1rem 0.2rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1simulasi-nUZ .icon-play-circle-outline-4S5 {
+  margin: 0rem 0.2rem 1.06rem 0rem;
+  width: 2.3rem;
+  height: 2.3399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .simulasi-Zdj {
+  margin: 0rem 3.647rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .icon-person-GY9 {
+  margin: 0rem 0.385rem 0.8rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .profil-saya-zU9 {
+  margin: 0rem 5.3rem 1.6rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .icon-bell-outline-ub7 {
+  margin: 0rem 0.345rem 1.5rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .job-alert-E7b {
+  margin: 0rem 5.9rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .icon-bookmark-Ye5 {
+  margin: 0rem 0.045rem 0.9rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .lowongan-saya-Ga5 {
+  margin: 0rem 7.3rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1simulasi-nUZ .keluar-CCq {
+  margin-bottom: 1.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK {
+  box-sizing: border-box;
+  padding: 1rem 5.5rem 1rem 0.2rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 2rem;
+  top: 10rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1profil-WjK .icon-play-circle-outline-bkm {
+  margin: 0rem 0.2rem 1.06rem 0rem;
+  width: 2.3rem;
+  height: 2.3399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .simulasi-uWZ {
+  margin: 0rem 3.647rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .icon-person-E33 {
+  margin: 0rem 0.385rem 0.8rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .profil-saya-MNZ {
+  margin: 0rem 5.3rem 1.6rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .icon-bell-outline-sbo {
+  margin: 0rem 0.345rem 1.5rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .job-alert-Pq3 {
+  margin: 0rem 5.9rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .icon-bookmark-va5 {
+  margin: 0rem 0.045rem 0.9rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .lowongan-saya-3ub {
+  margin: 0rem 7.3rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1profil-WjK .keluar-NBB {
+  margin-bottom: 1.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss {
+  box-sizing: border-box;
+  padding: 1rem 5.5rem 1rem 0.2rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 2rem;
+  top: 18rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1job-alert-6ss .icon-play-circle-outline-PMB {
+  margin: 0rem 0.2rem 1.06rem 0rem;
+  width: 2.3rem;
+  height: 2.3399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .simulasi-hMs {
+  margin: 0rem 3.647rem 1.4rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .icon-person-Db7 {
+  margin: 0rem 0.385rem 0.8rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .profil-saya-k5F {
+  margin: 0rem 5.3rem 1.6rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .icon-bell-outline-rty {
+  margin: 0rem 0.345rem 1.5rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .job-alert-nGq {
+  margin: 0rem 5.9rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .icon-bookmark-WCq {
+  margin: 0rem 0.045rem 0.9rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .lowongan-saya-qF7 {
+  margin: 0rem 7.3rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1job-alert-6ss .keluar-MjF {
+  margin-bottom: 1.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 {
+  box-sizing: border-box;
+  padding: 1rem 5.5rem 1rem 0.2rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 2rem;
+  top: 26rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1lowongan-saya-6B3 .icon-play-circle-outline-BCV {
+  margin: 0rem 0.2rem 1.06rem 0rem;
+  width: 2.3rem;
+  height: 2.3399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .simulasi-hAq {
+  margin: 0rem 3.647rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .icon-person-Qb3 {
+  margin: 0rem 0.385rem 0.8rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .profil-saya-jNR {
+  margin: 0rem 5.3rem 1.6rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .icon-bell-outline-FLm {
+  margin: 0rem 0.345rem 1.5rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .job-alert-a89 {
+  margin: 0rem 5.9rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .icon-bookmark-hiZ {
+  margin: 0rem 0.045rem 0.9rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .lowongan-saya-3Gd {
+  margin: 0rem 7.3rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1lowongan-saya-6B3 .keluar-a1f {
+  margin-bottom: 1.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV {
+  box-sizing: border-box;
+  padding: 1rem 5.5rem 1rem 0.2rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 2rem;
+  top: 34rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1keluar-7GV .icon-play-circle-outline-of7 {
+  margin: 0rem 0.2rem 1.06rem 0rem;
+  width: 2.3rem;
+  height: 2.3399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .simulasi-vjj {
+  margin: 0rem 3.647rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .icon-person-3ZT {
+  margin: 0rem 0.385rem 0.8rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .profil-saya-Nbj {
+  margin: 0rem 5.3rem 1.6rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .icon-bell-outline-6Gq {
+  margin: 0rem 0.345rem 1.5rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .job-alert-ip1 {
+  margin: 0rem 5.9rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .icon-bookmark-35b {
+  margin: 0rem 0.045rem 0.9rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .lowongan-saya-mGV {
+  margin: 0rem 7.3rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1keluar-7GV .keluar-J1X {
+  margin-bottom: 1.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 {
+  box-sizing: border-box;
+  padding: 1rem 5.5rem 1rem 0.2rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 2rem;
+  top: 42rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1original-EA5 .icon-play-circle-outline-hpM {
+  margin: 0rem 0.2rem 1.06rem 0rem;
+  width: 2.3rem;
+  height: 2.3399rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .simulasi-pty {
+  margin: 0rem 3.647rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .icon-person-Y4H {
+  margin: 0rem 0.385rem 0.8rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .profil-saya-GFB {
+  margin: 0rem 5.3rem 1.6rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .icon-bell-outline-zS5 {
+  margin: 0rem 0.345rem 1.5rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .job-alert-JxZ {
+  margin: 0rem 5.9rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .icon-bookmark-EbK {
+  margin: 0rem 0.045rem 0.9rem 0rem;
+  width: 2.4555rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .lowongan-saya-mbF {
+  margin: 0rem 7.3rem 1.4rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1original-EA5 .keluar-6dX {
+  margin-bottom: 1.2rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT {
+  box-sizing: border-box;
+  padding: 1.4rem 3rem 1.3rem 11.5rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 47.3rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant7-ddT .home-page-KWH {
+  margin-top: 0.2rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw {
+  margin: 0rem 0.383rem 0.4rem 0rem;
+  width: 21.1167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw .daftar-pt-aBK {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw .icon-play-circle-outline-fyT {
+  width: 16.9167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw .icon-play-circle-outline-fyT .vector-b6R {
+  margin: 0rem 12.7rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3399rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw .icon-play-circle-outline-fyT .group-hof {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw .vector-RzZ {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant7-ddT .auto-group-5ddb-FPw .home-NQ1 {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant7-ddT .simulasi-ftu {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .people-C89 {
+  margin: 0.3rem 0.4rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .pelamar-vK3 {
+  margin: 0.1rem 1.2rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .graph-rCh {
+  margin-top: 0.7rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .statistik-zph {
+  margin: 0.3rem 2rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .icon-person-8R7 {
+  margin: 0.3rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant7-ddT .profil-saya-3ny {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR {
+  box-sizing: border-box;
+  padding: 1.4rem 3rem 1.4rem 11.5rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 52rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT {
+  margin-right: 0.2833rem;
+  width: 23.9167rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .icon-play-circle-outline-17X {
+  width: 16.9167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 7rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .icon-play-circle-outline-17X .vector-j3X {
+  margin: 0rem 12.7rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3398rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .icon-play-circle-outline-17X .group-qsF {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .daftar-pt-zEM {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .vector-heZ {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .home-EuP {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant8-zCR .auto-group-evub-fZT .home-page-Yv5 {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant8-zCR .simulasi-6Au {
+  margin: 0rem 1.4rem 0.4rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .people-RDB {
+  margin: 0.6rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .pelamar-MMj {
+  margin: 0rem 1.5rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .graph-sqs {
+  margin-top: 0.6rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .statistik-1hB {
+  margin: 0.4rem 1.8rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .icon-person-x6d {
+  margin: 0.4rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant8-zCR .profil-saya-tFB {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped {
+  box-sizing: border-box;
+  padding: 1.4rem 3rem 1.4rem 11.5rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: -0.3rem;
+  top: 57.4rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo {
+  margin: 0rem 0.183rem 0.2rem 0rem;
+  width: 24.2167rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .icon-play-circle-outline-d6H {
+  width: 17.2167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 7rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .icon-play-circle-outline-d6H .vector-x8Z {
+  margin: 0rem 13rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3398rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .icon-play-circle-outline-d6H .group-GQ9 {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .daftar-pt-pRf {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .vector-jYd {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .home-UFK {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant12-ped .auto-group-jku9-JZo .home-page-B9j {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant12-ped .simulasi-i9f {
+  margin: 0rem 1.5rem 0.4rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .people-piV {
+  margin: 0.4rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .auto-group-wdh3-Xcu {
+  margin: 0rem 1.6rem 0.4rem 0rem;
+  width: 7.2rem;
+  height: 2.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .auto-group-wdh3-Xcu .pelamar-FJ1 {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant12-ped .auto-group-wdh3-Xcu .vector-Mrq {
+  opacity: 0;
+  width: 2.4555rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.header-feq .property-1variant12-ped .auto-group-5a25-5nq {
+  margin: 0.6rem 1.6rem 0rem 0rem;
+  width: 9.5rem;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .auto-group-5a25-5nq .graph-D8M {
+  width: 2.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant12-ped .auto-group-5a25-5nq .statistik-N1F {
+  width: 7.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant12-ped .icon-person-syb {
+  margin: 0.4rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant12-ped .profil-saya-nqf {
+  margin-bottom: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM {
+  box-sizing: border-box;
+  padding: 1.4rem 3rem 1.5rem 10.8rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 63.4rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant13-XYM .home-page-c41 {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM {
+  margin: 0rem 0.183rem 0.2rem 0rem;
+  width: 22.2167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM .icon-play-circle-outline-U6D {
+  width: 17.2167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 5rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM .icon-play-circle-outline-U6D .vector-CH7 {
+  margin: 0rem 13rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3398rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM .icon-play-circle-outline-U6D .group-7ey {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM .daftar-pt-fAh {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM .vector-aHf {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant13-XYM .auto-group-bgur-YiM .home-iem {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant13-XYM .simulasi-qUV {
+  margin: 0rem 1.6rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .people-ZvH {
+  margin: 0.1rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .auto-group-bzyk-hmb {
+  margin: 0rem 1.7rem 0.5rem 0rem;
+  width: 7.2rem;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .auto-group-bzyk-hmb .pelamar-qcu {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant13-XYM .auto-group-bzyk-hmb .vector-AQH {
+  opacity: 0;
+  width: 2.4555rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.header-feq .property-1variant13-XYM .graph-6Yq {
+  margin-top: 0.1rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .statistik-qWR {
+  margin: 0rem 1.2rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .icon-person-NFT {
+  margin: 0.5rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant13-XYM .profil-saya-J97 {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ {
+  box-sizing: border-box;
+  padding: 1.4rem 3rem 0.5rem 11.4rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: -0.5rem;
+  top: 76rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant15-EYZ .home-page-uPo {
+  margin: 0.4rem 0.5rem 0rem 0rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB {
+  margin-right: 0.1833rem;
+  width: 21.1167rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB .icon-play-circle-outline-Aad {
+  width: 17.2167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB .icon-play-circle-outline-Aad .vector-Vso {
+  margin: 0rem 13rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3398rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB .icon-play-circle-outline-Aad .group-otV {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB .daftar-pt-9xM {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB .vector-GXB {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant15-EYZ .auto-group-vggz-EBB .home-cb3 {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.7rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant15-EYZ .simulasi-jQm {
+  margin: 0rem 1.6rem 1.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .people-s1B {
+  margin: 0rem 0.3rem 0.9rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .auto-group-pnjb-CJM {
+  margin: 0rem 1.7rem 1.5rem 0rem;
+  width: 7.2rem;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .auto-group-pnjb-CJM .pelamar-8ho {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant15-EYZ .auto-group-pnjb-CJM .vector-4LZ {
+  opacity: 0;
+  width: 2.4555rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.header-feq .property-1variant15-EYZ .graph-nnM {
+  margin-bottom: 0.9rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .statistik-w9T {
+  margin: 0rem 1.2rem 1.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .icon-person-TNh {
+  margin: 0rem 0.332rem 0.5rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant15-EYZ .profil-saya-BZb {
+  margin-bottom: 1.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f {
+  box-sizing: border-box;
+  padding: 1.4rem 3rem 1.5rem 11.5rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: -0.4rem;
+  top: 69.1rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant14-X7f .home-page-Bi1 {
+  margin-bottom: 0.4rem;
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR {
+  margin: 0rem 0.183rem 0.2rem 0rem;
+  width: 21.5167rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR .icon-play-circle-outline-qXf {
+  width: 17.2167rem;
+  height: 2.5499rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR .icon-play-circle-outline-qXf .vector-N1o {
+  margin: 0rem 13rem 0.21rem 0rem;
+  opacity: 0;
+  width: 2.3rem;
+  height: 2.3398rem;
+  background-color: rgba(255, 255, 255, 0);
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR .icon-play-circle-outline-qXf .group-HeZ {
+  width: 1.9167rem;
+  height: 1.9499rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR .daftar-pt-S1f {
+  width: 8.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR .vector-YKb {
+  width: 2.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 0.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-feq .property-1variant14-X7f .auto-group-yuxd-KJR .home-t8Z {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant14-X7f .simulasi-Cf3 {
+  margin: 0rem 1.6rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .people-XSR {
+  margin: 0.1rem 0.3rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .auto-group-aoo7-TL5 {
+  margin: 0rem 1.7rem 0.5rem 0rem;
+  width: 7.2rem;
+  height: 2.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .auto-group-aoo7-TL5 .pelamar-nt9 {
+  width: 7.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant14-X7f .auto-group-aoo7-TL5 .vector-iWu {
+  opacity: 0;
+  width: 2.4555rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.header-feq .property-1variant14-X7f .graph-efT {
+  margin-bottom: 0.1rem;
+  width: 2.4rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .statistik-Psw {
+  margin: 0rem 1.2rem 0.3rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .icon-person-L2V {
+  margin: 0.5rem 0.332rem 0rem 0rem;
+  width: 2.4685rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant14-X7f .profil-saya-3hb {
+  margin-bottom: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant9-z73 {
+  box-sizing: border-box;
+  padding: 1.2rem 39.5rem 2.4rem 3.8rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 87.9rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant9-z73 .pelatihan-online-VJh {
+  margin-right: 9.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant9-z73 .video-wawancara-prm {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant11-Afj {
+  box-sizing: border-box;
+  padding: 1.2rem 3.8rem 2.4rem 3.8rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: -0.2rem;
+  top: 100rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header-feq .property-1variant10-r2m {
+  box-sizing: border-box;
+  padding: 1.5rem 39.3rem 2.1rem 3.7rem;
+  width: 82.7rem;
+  height: 6rem;
+  position: absolute;
+  left: -0.4rem;
+  top: 93.9rem;
+  display: flex;
+  align-items: center;
+}
+.header-feq .property-1variant10-r2m .pelatihan-online-YwB {
+  margin-right: 9.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-feq .property-1variant10-r2m .video-wawancara-H85 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #015442;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
